@@ -10,6 +10,8 @@ layout: null
     {"source": "Edi.Rama","target":"Alastair.Campbell","value": 1 },
     {"source": "Edi.Rama","target":"Andreas.Ruby","value": 1 },
     {"source": "Edi.Rama","target":"Anri.Sala","value": 1 },
-    {"source": "Edi.Rama","target":"51N4E","value": 1 }
+    {"source": "Edi.Rama","target":"51N4E","value": 1 },
+    {"source": "Edi.Rama","target":"Mirela.Kumbaro","value": 1 },
+    {"source": "Mirela.Kumbaro","target":"Arta.Dollani","value": 1 }
   ]
 }
