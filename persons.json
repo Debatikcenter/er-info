@@ -1,0 +1,15 @@
+---
+layout: null
+---
+{
+  "nodes": [
+    {% for person in site.persons %}{"id": "{{ person.name | replace: ' ', '.' }}", "name": "{{ person.name }}", "type": "{{ person.type }}", "tagline": "{{ person.tagline | join: ', ' }}", "description": "{{ person.description }}", "related-persons": "{{ person.related-persons }}", "connections": "{{ person.connections }}" }{% unless forloop.last %},{% endunless %}
+    {% endfor %}],
+  "links": [
+    {"source": "Edi.Rama","target":"Adelina.Greca","value": 5 },
+    {"source": "Edi.Rama","target":"Alastair.Campbell","value": 1 },
+    {"source": "Edi.Rama","target":"Andreas.Ruby","value": 1 },
+    {"source": "Edi.Rama","target":"Anri.Sala","value": 1 },
+    {"source": "Edi.Rama","target":"51N4E","value": 1 }
+  ]
+}
