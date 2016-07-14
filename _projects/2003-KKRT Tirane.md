@@ -5,6 +5,6 @@ tagline: Approved building permits during Rama's period as mayor
 related-persons: "Artan Shkreli, Arben Biçoku, Daniel Gjoni, Edi Rama"
 value:
 ---
-Members: Edi Rama, Artian Shkreli, Arben Biçoku, Daniel Gjoni.
+Members: Edi Rama, Artan Shkreli, Arben Biçoku, Daniel Gjoni.
 
 Many of the former members of the KRRT Tirana appeared in new positions once Rama was elected Prime Minister.
