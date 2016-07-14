@@ -2,7 +2,7 @@
 name: COD Opening Exhibition
 year: 2015-01-01
 tagline:
-related-persons: "Edi Rama, Falma Fshazi, Carsten Höller, Thomas Demand, Philippe Parreno, Anri Sala"
+related-persons: "Edi Rama, Falma Fshazi, Carsten Höller, Thomas Demand, Philippe Parreno, Anri Sala, Edit Pulaj"
 value:
 ---
 Designed by 51N4E
