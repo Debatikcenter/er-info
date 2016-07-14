@@ -1,5 +1,5 @@
 ---
-name: Saša Randić
+name: Sasa Randic
 type: architect
 country:
 tagline:
