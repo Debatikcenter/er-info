@@ -1,7 +1,8 @@
 ---
 name: Molly Nesbit
 type: artist
-tagline: 
+country:
+tagline:
 description:
 related-persons:
 connections:

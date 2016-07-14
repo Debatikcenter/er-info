@@ -1,7 +1,8 @@
 ---
 name: Martin Sobota
 type: architect
-tagline: 
+country:
+tagline:
 description:
 related-persons:
 connections:

@@ -1,7 +1,8 @@
 ---
 name: Patrick Janssens
 type: politician
-tagline: 
+country:
+tagline:
 description:
 related-persons:
 connections:

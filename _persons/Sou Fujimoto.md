@@ -1,7 +1,8 @@
 ---
 name: Sou Fujimoto
 type: architect
-tagline: 
+country: Japan
+tagline:
 description:
 related-persons:
 connections:

@@ -1,7 +1,8 @@
 ---
 name: Helidon Gjergji
 type: artist
-tagline: 
+country: Albania
+tagline:
 description:
 related-persons:
 connections:

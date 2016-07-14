@@ -1,8 +1,9 @@
 ---
 name: "Andreas Ruby"
 type: architect
-tagline:
+country: Germany
+tagline: Director of Swiss Architecture Museum S AM
 description:
 related-persons:
-connections: 
+connections:
 ---

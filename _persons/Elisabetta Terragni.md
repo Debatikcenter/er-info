@@ -1,7 +1,8 @@
 ---
-name: Elaine Papoulias
+name: Elisabetta Terragni
 type: architect
-tagline: 
+country:
+tagline:
 description:
 related-persons:
 connections:

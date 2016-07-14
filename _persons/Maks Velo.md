@@ -1,7 +1,8 @@
 ---
 name: Maks Velo
 type: architect
-tagline: 
+country: Albania
+tagline:
 description:
 related-persons:
 connections:
