@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Martin Sobota
 type: architect
-tagline:
+tagline: 
 description:
 related-persons:
-connections: 
+connections:
 ---

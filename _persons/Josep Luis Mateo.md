@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Josep Luis Mateo
 type: architect
 tagline:
 description:
 related-persons:
-connections: 
+connections:
 ---

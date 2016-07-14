@@ -1,7 +1,7 @@
 ---
-name: Mirela Kumbaro
+name: Eglantina Gjermeni
 type: politician
-tagline: Minister of Culture
+tagline: Minister of Urban Development
 description:
 related-persons: Edi Rama
 connections:

@@ -4,5 +4,5 @@ type: architect
 tagline:
 description:
 related-persons:
-connections: 1
+connections: 
 ---

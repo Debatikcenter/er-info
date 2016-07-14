@@ -1,7 +1,7 @@
 ---
-name: Mirela Kumbaro
+name: Ines Muçostepa
 type: politician
-tagline: Minister of Culture
+tagline: President of the Chamber of Commerce
 description:
 related-persons: Edi Rama
 connections:

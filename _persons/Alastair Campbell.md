@@ -1,8 +1,8 @@
 ---
 name: "Alastair Campbell"
 type: politician
-tagline:
+tagline: Former spin doctor of Tony Blair
 description:
-related-persons:
-connections: 1
+related-persons: Tony Blair
+connections:
 ---

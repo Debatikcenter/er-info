@@ -1,8 +1,8 @@
 ---
-name: "51N4E"
-type: architect
+name: Ermir Hoxha
+type: other
 tagline:
 description:
 related-persons:
-connections: 
+connections:
 ---

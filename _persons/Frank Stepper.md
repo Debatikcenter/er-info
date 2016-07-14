@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Frank Stepper
 type: architect
-tagline:
+tagline: 
 description:
 related-persons:
-connections: 
+connections:
 ---

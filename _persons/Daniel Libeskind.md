@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Daniel Libeskind
 type: architect
-tagline:
+tagline: Magnet
 description:
 related-persons:
-connections: 
+connections:
 ---

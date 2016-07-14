@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Bjarke Ingels
 type: architect
-tagline:
+tagline: BIG
 description:
 related-persons:
-connections: 
+connections:
 ---

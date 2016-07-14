@@ -1,8 +1,8 @@
 ---
 name: "Arta Dollani"
 type: politician
-tagline:
+tagline: Director of the Institute of Monuments
 description:
-related-persons:
+related-persons: Mirela Kumbaro
 connections: 1
 ---

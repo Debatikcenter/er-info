@@ -1,7 +1,7 @@
 ---
-name: Mirela Kumbaro
+name: Erion Veliaj
 type: politician
-tagline: Minister of Culture
+tagline: Mayor of Tirana
 description:
 related-persons: Edi Rama
 connections:

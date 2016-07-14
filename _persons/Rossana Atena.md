@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Rossana Atena
 type: architect
-tagline:
+tagline: 
 description:
 related-persons:
-connections: 
+connections:
 ---

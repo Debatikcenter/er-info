@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Sou Fujimoto
 type: architect
-tagline:
+tagline: 
 description:
 related-persons:
-connections: 
+connections:
 ---

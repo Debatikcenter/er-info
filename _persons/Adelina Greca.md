@@ -3,6 +3,6 @@ name: "Adelina Greca"
 type: architect
 tagline:
 description:
-related-persons:
-connections: 1
+related-persons: Eglantina Gjermeni, Edi Rama
+connections: 
 ---

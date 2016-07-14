@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Winy Maas
 type: architect
-tagline:
+tagline: MVRDV
 description:
 related-persons:
-connections: 
+connections:
 ---

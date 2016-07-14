@@ -1,8 +1,8 @@
 ---
-name: "Anri Sala"
+name: Philippe Parreno
 type: artist
 tagline:
 description:
-related-persons: Edi Rama
+related-persons:
 connections:
 ---
