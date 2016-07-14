@@ -2,7 +2,7 @@
 name: Stefano Graziani
 type: artist
 country: Italy
-tagline: Photographer
+tagline: architect
 description:
 related-persons:
 connections:
