@@ -6,3 +6,6 @@ related-persons: "Anri Sala, Christine Macel, Rirkrit Tiravanija"
 value:
 ---
 * Jury: Christine Macel and Rirkrit Tiravanija, among others.
+
+Links:
+* <http://www.edirama.al/wp-content/uploads/2013/02/Absolut_Art_Award_2011_Press_Release.pdf>
