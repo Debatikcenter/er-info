@@ -8,7 +8,5 @@ value:
 
 Large-scale conference on territorial reform organized by Edi Rama after his election victory in 2013. Saw the return of many familiar faces from the architecture of his time as Mayor of Tirana.
 
-Correct name to Saša Randić
-
 Links:
 * <http://www.gazeta-shqip.com/lajme/2013/08/27/rama-territori-ne-situate-emergjente-ndryshime-te-krahasueshme-92-shin/>
