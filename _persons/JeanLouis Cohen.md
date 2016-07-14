@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Jean-Louis Cohen
 type: architect
 tagline:
 description:
 related-persons:
-connections: 
+connections:
 ---

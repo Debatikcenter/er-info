@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Maks Velo
 type: architect
-tagline:
+tagline: 
 description:
 related-persons:
-connections: 
+connections:
 ---

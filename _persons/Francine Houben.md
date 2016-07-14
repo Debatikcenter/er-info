@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Francine Houben
 type: architect
-tagline:
+tagline: Mecanoo
 description:
 related-persons:
-connections: 
+connections:
 ---

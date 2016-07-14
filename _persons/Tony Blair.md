@@ -1,6 +1,6 @@
 ---
-name: "Anri Sala"
-type: artist
+name: Tony Blair
+type: Unpaid advisor to Edi Rama
 tagline:
 description:
 related-persons: Edi Rama

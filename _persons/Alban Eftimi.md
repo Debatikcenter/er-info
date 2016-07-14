@@ -1,8 +1,8 @@
 ---
-name: "Andreas Ruby"
+name: Alban Eftimi
 type: architect
-tagline:
+tagline: Atelier 4
 description:
 related-persons:
-connections: 
+connections:
 ---

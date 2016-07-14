@@ -1,6 +1,6 @@
 ---
-name: "Anri Sala"
-type: artist
+name: Edi Muka
+type: curator
 tagline:
 description:
 related-persons: Edi Rama

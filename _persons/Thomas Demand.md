@@ -1,8 +1,8 @@
 ---
-name: "Anri Sala"
+name: Thomas Demand
 type: artist
 tagline:
 description:
-related-persons: Edi Rama
+related-persons:
 connections:
 ---
