@@ -3,7 +3,7 @@ name: Skënderbeg Square Competition
 year: 2008-04-10
 tagline: Awarded to 51N4E & Anri Sala
 related-persons: "Anri Sala, Peter Swinnen, Freek Persyn, Johan Anrys, Andreas Ruby, Atelier 4, Marin Biçoku, Maks Velo, Arben Kumbaro, Elia Zenghelis, Ismail Khudhr Al-Shatti, Marco Casamonti, Valerio Olgiati, Vedran Mimica, Xaveer de Geyter, MAK & Sons Group"
-value:
+value: €4.3M (First phase)
 ---
 * Winner: 51N4E & Anri Sala
 * Jury: Andreas Ruby and 10 others (Maks Velo, Arben Kumbaro, Elia Zenghelis, Ismail Khudhr Al-Shatti, Marco Casamonti, Valerio Olgiati, Vedran Mimica, Xaveer de Geyter?)
