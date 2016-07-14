@@ -1,7 +1,7 @@
 ---
 name: Edi Rama
-type:
-tagline:
+type: politician
+tagline: Prime Minister of Albania
 description:
 related-persons:
 connections: 5
