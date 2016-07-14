@@ -5,3 +5,6 @@ tagline: Article in Art Forum
 related-persons: "Hans Ulrich Obrist, Anri Sala, Edi Rama"
 value:
 ---
+
+Links:
+* <https://artforum.com/inprint/issue=201402&id=45004>
