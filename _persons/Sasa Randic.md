@@ -7,3 +7,5 @@ description:
 related-persons:
 connections:
 ---
+
+Correct name to Saša Randić
