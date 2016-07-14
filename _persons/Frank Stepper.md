@@ -1,7 +1,8 @@
 ---
 name: Frank Stepper
 type: architect
-tagline: 
+country:
+tagline:
 description:
 related-persons:
 connections:

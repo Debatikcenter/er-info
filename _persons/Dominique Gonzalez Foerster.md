@@ -1,8 +1,9 @@
 ---
 name: Dominique Gonzalez Foerster
 type: artist
-tagline: 
+country:
+tagline:
 description:
 related-persons:
-connections: 
+connections:
 ---

@@ -1,6 +1,6 @@
 ---
 name: Dammi i Colori
-year: 1-Jan-2003
+year: 2003-01-01
 tagline:
 related-persons: "Anri Sala, Liam Gillick, Edi Rama"
 value:

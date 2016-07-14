@@ -1,7 +1,8 @@
 ---
 name: Liam Gillick
 type: artist
-tagline: 
+country: UK
+tagline:
 description:
 related-persons:
 connections:

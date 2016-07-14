@@ -1,7 +1,8 @@
 ---
 name: Kees Christiaanse
 type: architect
-tagline: 
+country:
+tagline:
 description:
 related-persons:
 connections:

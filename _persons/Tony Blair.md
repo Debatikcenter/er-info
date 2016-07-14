@@ -1,7 +1,8 @@
 ---
 name: Tony Blair
-type: Unpaid advisor to Edi Rama
-tagline:
+type: politician
+country: UK
+tagline: Unpaid advisor to Edi Rama
 description:
 related-persons: Edi Rama
 connections:

@@ -1,7 +1,8 @@
 ---
 name: Christoph Graf
 type: politician
-tagline: 
+country:
+tagline:
 description:
 related-persons:
 connections:

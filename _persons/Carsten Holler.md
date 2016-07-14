@@ -1,8 +1,9 @@
 ---
 name: Carsten Höller
 type: artist
-tagline: 
+country:
+tagline:
 description:
 related-persons:
-connections: 
+connections:
 ---

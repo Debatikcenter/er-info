@@ -1,7 +1,8 @@
 ---
 name: Olafur Eliasson
 type: artist
-tagline: 
+country: Iceland
+tagline:
 description:
 related-persons:
 connections:

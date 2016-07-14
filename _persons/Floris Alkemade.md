@@ -1,7 +1,8 @@
 ---
 name: Floris Alkemade
 type: architect
-tagline: 
+country:
+tagline:
 description:
 related-persons:
 connections:

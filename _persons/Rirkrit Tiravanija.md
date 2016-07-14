@@ -1,7 +1,8 @@
 ---
 name: Rirkrit Tiravanija
 type: artist
-tagline: 
+country: Thailand
+tagline:
 description:
 related-persons:
 connections:

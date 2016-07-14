@@ -1,7 +1,8 @@
 ---
 name: Rossana Atena
 type: architect
-tagline: 
+country:
+tagline:
 description:
 related-persons:
 connections:
