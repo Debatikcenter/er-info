@@ -1,5 +1,5 @@
 ---
-name: [Re]appropriation of the City
+name: "[Re]appropriation of the City"
 year: 2012-10-09
 tagline: Workshop organized by Polis University
 related-persons: "Winy Maas, Francine Houben, Kees Christiaanse"

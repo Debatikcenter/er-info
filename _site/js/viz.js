@@ -46,6 +46,7 @@ d3.json("js/persons.json", function(error, graph) {
   simulation.nodes(graph.nodes)
       .on("tick", ticked);
 
+      console.log(graph.links);
       // try{
       //   simulation.force("links")
       //       .links(graph.links);
