@@ -1,9 +1,11 @@
 ---
-name: Alban Eftimi
-type: architect
+name: Enriketa Papa
+type: other
 country: Albania
-tagline: Atelier 4
+tagline:
 description:
 related-persons:
 connections:
 ---
+Links:
+*
