@@ -1,7 +1,7 @@
 ---
 name: Kenneth Woods
 type: architect
-country: 
+country:
 tagline: Sadar+Vuga
 description:
 related-persons:

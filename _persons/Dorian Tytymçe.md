@@ -1,5 +1,5 @@
 ---
-name: Florian Pollo
+name: Dorian Tytymçe
 type: architect
 country:
 tagline: PRG*B R
