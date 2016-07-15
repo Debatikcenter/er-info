@@ -1,6 +1,6 @@
 ---
 name: Maja Hoffman
-type: other
+type: curator
 country: Switzerland
 tagline: Director of Luma Foundation; art collector
 description:

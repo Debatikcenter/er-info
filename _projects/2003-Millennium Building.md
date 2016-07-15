@@ -2,8 +2,10 @@
 name: Millennium Building
 year: 2003-01-01
 tagline: HQ of Tirana Bank
-related-persons: "Atelier 4, Rodo Tisnado"
+related-persons: "Alban Efthimi, Rodo Tisnado"
 value:
 ---
+Atelier 4 and AS/Architecture Studio
+
 Links:
 * <http://www.architecture-studio.fr/fr/projets/tir1/millenium_building.html>
