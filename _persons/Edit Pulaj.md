@@ -1,6 +1,6 @@
 ---
 name: Edit Pulaj
-type: curator
+type: artist
 country: Albania
 tagline: Director of Arts at the Municipality of Tirana
 description:
