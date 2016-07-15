@@ -1,4 +1,3 @@
-
 ---
 name: Tom Eccles
 type: other

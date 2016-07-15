@@ -1,5 +1,5 @@
 ---
-name: Lean Whitman-Salkin
+name: "Leah Whitman-Salkin"
 type: architect
 country: USA
 tagline: Represented Albania at the Venice Architecture Biennale 2016

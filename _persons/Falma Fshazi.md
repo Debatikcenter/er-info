@@ -1,6 +1,6 @@
 ---
 name: Falma Fshazi
-type: other
+type: curator
 country: Albania
 tagline: Director of the Center for Openness and Dialogue
 description:

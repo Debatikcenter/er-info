@@ -2,7 +2,7 @@
 name: Albania of the Next Generation
 year: 2013-08-27
 tagline: Conference
-related-persons: "Anri Sala, Edi Rama, Xaveer de Geyter, Pier Paolo Tamburelli, Francine Houben, Johan Anrys, Andreas Ruby, Rodo Tisnado, Floris Alkemade, Winy Maas, Bjarke Ingels, Rossana Atena, Sasa Randic, Peter Lynn Wilson, Edi Rama"
+related-persons: "Anri Sala, Edi Rama, Xaveer de Geyter, Pier Paolo Tamburelli, Francine Houben, Johan Anrys, Andreas Ruby, Rodo Tisnado, Floris Alkemade, Winy Maas, Bjarke Ingels, Rossana Atena, Sasa Randic, Peter Lynn Wilson"
 value:
 ---
 
