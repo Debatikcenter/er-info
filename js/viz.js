@@ -7,10 +7,11 @@ var svg = d3.select("#svg"),
 console.log(svg);
 
 var color = d3.scaleOrdinal(d3.schemeCategory20);
+console.log(color);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody())
+    .force("charge", d3.forceManyBody().strength(-300))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
 d3.json("js/persons.json", function(error, graph) {
@@ -30,7 +31,7 @@ d3.json("js/persons.json", function(error, graph) {
     .selectAll("circle")
     .data(graph.nodes)
     .enter().append("circle")
-      .attr("r", function(d) { return 5 + d.connections*2; })
+      // .attr("r", function(d) { return 5 + d.connections*2; })
       // .attr("fill", "white") //function(d) { return color(d.group); })
       .attr("stroke", "none")
       .attr("title", function(d) { return d.name; })
@@ -43,9 +44,24 @@ d3.json("js/persons.json", function(error, graph) {
   node.append("title")
       .text(function(d) { return d.name; });
 
+      var regex = new RegExp("/\s/", 'g');
+      $(".nodes circle").each(function(){
+        var id = $(this).attr("title");
+        while(id.indexOf(" ")!=-1){
+          id = id.replace(" ", ".");
+        }
+        //  var id = $(this).attr("title").replace(/\s/, ".");
+         console.log(id);
+         if(id=="Hans.Ulrich.Obrist"){
+           console.log(5 + 2*Math.sqrt($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length));
+         }
+         $(this).attr("r", 5 + 2*Math.sqrt($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length) );
+      });
+
   simulation.nodes(graph.nodes)
       .on("tick", ticked);
 
+      console.log("Links");
       console.log(graph.links);
       // try{
       //   simulation.force("links")
@@ -53,7 +69,8 @@ d3.json("js/persons.json", function(error, graph) {
       // } catch(e) {
       //   return;
       // }
-
+      // console.log($(".links [source='Edi.Rama']"));
+      // console.log($(".links [target='Edi.Rama']"));
         simulation.force("link")
             .links(graph.links);
 
@@ -68,6 +85,11 @@ d3.json("js/persons.json", function(error, graph) {
     node
         .attr("cx", function(d) { return d.x; })
         .attr("cy", function(d) { return d.y; });
+
+    var i = 0,
+        n = node.length;
+
+    while (++i < n) q.visit(collide(node[i]));
   }
 });
 
@@ -86,4 +108,28 @@ function dragended(d) {
   if (!d3.event.active) simulation.alphaTarget(0);
   d.fx = null;
   d.fy = null;
+}
+
+function collide(node) {
+  var r = node.radius + 100,
+      nx1 = node.x - r,
+      nx2 = node.x + r,
+      ny1 = node.y - r,
+      ny2 = node.y + r;
+  return function(quad, x1, y1, x2, y2) {
+    if (quad.point && (quad.point !== node)) {
+      var x = node.x - quad.point.x,
+          y = node.y - quad.point.y,
+          l = Math.sqrt(x * x + y * y),
+          r = node.radius + quad.point.radius;
+      if (l < r) {
+        l = (l - r) / l * .5;
+        node.x -= x *= l;
+        node.y -= y *= l;
+        quad.point.x += x;
+        quad.point.y += y;
+      }
+    }
+    return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
+  };
 }
