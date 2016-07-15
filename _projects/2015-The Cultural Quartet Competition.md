@@ -9,7 +9,7 @@ value: Award of €18,000 for each building
 * Jury:
 * Other competitors: Alessandro Massera, representing Gazza Massera Architetti, M&J Archi-Studio, A+C Studio Associato, efa_studio (National Historical Museum); ALN | Architecturbuuro Leinhäupl + Neuber, 2A+P/A Associates, Professor Peter T. Lang, Studioarch14 (former League of Writers)
 
-Organized by Atelier Albania.
+Organized by Atelier Albania. 
 
 
 Links:
