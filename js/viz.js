@@ -51,10 +51,6 @@ d3.json("js/persons.json", function(error, graph) {
           id = id.replace(" ", ".");
         }
         //  var id = $(this).attr("title").replace(/\s/, ".");
-         console.log(id);
-         if(id=="Hans.Ulrich.Obrist"){
-           console.log(5 + 2*Math.sqrt($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length));
-         }
          $(this).attr("r", 5 + 2*Math.sqrt($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length) );
       });
 
