@@ -2,7 +2,7 @@
 name: Tirana Open
 year: 2015-05-26
 tagline:
-related-persons: "Helidon Gjergji"
+related-persons: "Helidon Gjergji, Edi Rama"
 value:
 ---
 
