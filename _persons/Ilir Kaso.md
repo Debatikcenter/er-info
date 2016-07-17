@@ -1,0 +1,9 @@
+---
+name: Ilir Kaso
+type: artist
+country: Albania
+tagline:
+description:
+related-persons:
+connections:
+---
