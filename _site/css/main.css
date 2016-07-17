@@ -209,6 +209,67 @@ pre {
           margin-right: 0; } }
 
 /**
+ * visualization
+ */
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6; }
+
+.nodes circle {
+  stroke-width: 0; }
+
+.nodes circle:hover {
+  stroke-width: 2px;
+  stroke: #fff; }
+
+[type="artist"] {
+  fill: #EF5032; }
+
+[type="architect"] {
+  fill: #FFDC01; }
+
+[type="politician"] {
+  fill: #C1D72F; }
+
+[type="curator"] {
+  fill: #7E3F98; }
+
+[type="venue"] {
+  fill: #0093D0; }
+
+[type="other"] {
+  fill: #A1988A; }
+
+nav#menu {
+  position: absolute;
+  top: 0;
+  left: 0; }
+  nav#menu ul {
+    list-style-type: none;
+    margin: 0; }
+    nav#menu ul button {
+      width: 90px;
+      color: #fff;
+      text-align: left;
+      border: 0;
+      margin-left: 0;
+      transition: margin-left .5s ease; }
+    nav#menu ul button.active {
+      margin-left: 20px; }
+    nav#menu ul [name="architect"] {
+      background-color: #FFDC01; }
+    nav#menu ul [name="artist"] {
+      background-color: #EF5032; }
+    nav#menu ul [name="politician"] {
+      background-color: #C1D72F; }
+    nav#menu ul [name="curator"] {
+      background-color: #7E3F98; }
+    nav#menu ul [name="venue"] {
+      background-color: #0093D0; }
+    nav#menu ul [name="other"] {
+      background-color: #A1988A; }
+
+/**
  * Site footer
  */
 .site-footer {
@@ -264,7 +325,8 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0;
+  position: relative; }
 
 .page-heading {
   font-size: 20px; }
