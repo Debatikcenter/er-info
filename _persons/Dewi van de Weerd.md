@@ -1,9 +1,9 @@
 ---
 name: Dewi van de Weerd
-type: politician
+type: bureaucrat
 country: Netherlands
 tagline: Dutch Ambassador in Albania
 description:
-related-persons: 
+related-persons:
 connections:
 ---
