@@ -1,7 +1,7 @@
 ---
 name: Julia Fabényi
 type: curator
-country: Kosovo
+country: Hungary
 tagline:
 description:
 related-persons:
