@@ -1,6 +1,6 @@
 ---
 name: Benet Beci
-type: politician
+type: bureaucrat
 country: Albania
 tagline: Director of the Albanian Development Fund
 description:

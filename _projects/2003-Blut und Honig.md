@@ -1,5 +1,5 @@
 ---
-name: "Blut und Honig: Zukunft ist am Balkan"
+name: Blut und Honig: Zukunft ist am Balkan
 year: 2003-05-16
 tagline: Group Exhibition at Sammlung Essl
 related-persons: "Edi Rama, Harald Szeemann, Alban Hajdinaj, Edi Hila, Adrian Paci, Anri Sala, Gentian Shkurti, Ornela Vorpsi, Vénera Kastrati"

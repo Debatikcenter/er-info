@@ -1,6 +1,6 @@
 ---
 name: Alastair Campbell
-type: politician
+type: other
 country: UK
 tagline: Former spin doctor of Tony Blair
 description:
