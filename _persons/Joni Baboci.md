@@ -1,6 +1,6 @@
 ---
 name: Joni Baboçi
-type: architect
+type: politician
 country: Albania
 tagline: Director of Urbanism, Municipality of Tirana
 description:

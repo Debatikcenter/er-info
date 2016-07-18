@@ -1,6 +1,6 @@
 ---
 name: Adelina Greca
-type: architect
+type: politician
 country: Albania
 tagline: Director of the AKPT (2013–)
 description:
