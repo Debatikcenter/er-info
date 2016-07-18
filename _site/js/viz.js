@@ -11,7 +11,7 @@ console.log(color);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody().strength(-300))
+    .force("charge", d3.forceManyBody().strength(-130))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
 d3.json("js/persons.json", function(error, graph) {
@@ -58,7 +58,7 @@ d3.json("js/persons.json", function(error, graph) {
         // }
         //  var id = $(this).attr("title").replace(/\s/, ".");
         //  $(this).attr("r", 5 + 2*Math.sqrt($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length) );
-         $(this).attr("r", 5 + ($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length)/5 );
+         $(this).attr("r", 5 + ($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length)/7 );
       });
 
   simulation.nodes(graph.nodes)

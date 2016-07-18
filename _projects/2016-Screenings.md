@@ -1,0 +1,15 @@
+---
+name: Screenings
+year: 2016-07-02
+tagline: Solo Exhibition in Museo Pino Pascali
+related-persons: "Helidon Gjergji, Anri Sala, Edi Rama, Santa Nastro"
+value:
+---
+
+>The second personal exhibition is dedicated to the New York based Albanian artist Helidon Gjergj and it is part of a project run by Santa Nastro. Born in Tirana,the artist lives and works in New York. He has taken part in many exhibitions around the world, from the 52nd Venice Biennale, to the 8th edition of   Manifesta in Murcia, Spain, to the first Tirana  Biennale. In addition, and just to mention a few more appearances, he has also shown his works at the 12th Venice Biennale of Architecture and other exhibitions held at important international museums such as the New Museum in New York, the Museo Madre in Naples, the Chelsea Art Museum.
+The exhibition Screenings, claims to be a sort of diagnosis of the ills of today’s society and is a further prof of the Pino Pascali Foundation’s interest on social issues regarding the Adriatic and Balkan area. Among the different typologies of suggested screenings, we find the installation ‘e-mages’, which transforms the family album created by Ketevan Geladze, Joseph Stalin’s mother,into a slide show presentation. This offers an  unprecedented portrait of the dictator in the intimacy of his home, an image that seems extremely far from the bloody ruler he then became. We thus discover the happiest moments of his life: hugs, smiles, instants that reflect and deconstruct as a hyperreal matryoshka doll on the broken and relentless mirror of History. Moreover, during the exhibition, the artist will also make a heartbreaking site specific installation entitled Damascus Silk, a homage to the many people who died at sea while trying to reach our coasts.
+To conclude, Helidon Gjergj will show a video of the famous project Facades, created in the year 2000 by the then mayor of Tirana and now Prime Minister Edi Rama. This project marked the beginning of a period of renaissance for Albanian art and, on a more international level, is also a clear example of how art can become an emblematic symbol for the development and quality of life of a country.
+The project has seen many artists work on the facades of Tirana’s grey buildings. Gjergji has decided to work on a block of council flats. The project has brought together artists such as Tomma Abts, Olafur Eliasson, Liam Gillick, Dominique Gonzalez Foerster, Tala Madani, Anri Sala, Rirkrit Tiravanija.
+
+Links:
+* <http://www.museopinopascali.it/portfolio-items/filomeno-helidon/?lang=en>

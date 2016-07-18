@@ -1,8 +1,8 @@
 ---
-name: Angelo Filomeno
+name: Saâdane Afif
 type: artist
-country: Italy
-tagline: 
+country: France
+tagline:
 description:
 related-persons:
 connections:

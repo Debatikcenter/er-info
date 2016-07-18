@@ -1,6 +1,6 @@
 ---
 name: COD Opening Exhibition
-year: 2015-01-01
+year: 2015-07-08
 tagline:
 related-persons: "Edi Rama, Falma Fshazi, Carsten Höller, Thomas Demand, Philippe Parreno, Anri Sala, Edit Pulaj, Zef Paci"
 value:

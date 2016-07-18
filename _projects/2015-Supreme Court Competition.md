@@ -2,14 +2,15 @@
 name: Supreme Court Competition
 year: 2015-11-17
 tagline: Awarded to Sadar-Vuga, PRG*B R
-related-persons: "Adelina Greca, Jurij Sadar, Boštjan Vuga, Kenneth Woods, Gregor Bucik, Florian Pollo, Dorian Tytymçe"
+related-persons: "Adelina Greca, Jurij Sadar, Boštjan Vuga, Kenneth Woods, Gregor Bucik, Florian Pollo, Dorian Tytymçe, Edi Rama, Lindita Nikolla, Nasip Naço"
 value:
 ---
 * Winner: Sadar-Vuga, PRG*BR. Team: Jurij Sadar, Boštjan Vuga, Kenneth Woods, Gregor Bucik, Florian Pollo, Dorian Tytymçe
-* Jury:
+* Jury: Elsie Owusu(?)
 * Other competitors: Sdarch, X Plan Studio (Alessandro Trivelli, Ornella Mucaj); Atelier 4, Bevk Perović Arhitekti, NFA, Michel Desvigne; Studio Valle, AVAtelier; A&I Design.
 
 Organized by Atelier Albania
+At the request of the Minister of Justice, Ministry of Education and Sports and mandated by the Office of the Prime Minister.
 
 Links:
 * <http://competitions.planifikimi.gov.al/supreme-court/>
