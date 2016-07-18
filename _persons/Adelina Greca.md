@@ -1,6 +1,6 @@
 ---
 name: Adelina Greca
-type: politician
+type: bureaucrat
 country: Albania
 tagline: Director of the AKPT (2013–)
 description:

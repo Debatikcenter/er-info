@@ -1,6 +1,6 @@
 ---
 name: Fani Zguro
-type: curator
+type: artist
 country: Albania
 tagline: Curator of Gallery On The Move
 description:

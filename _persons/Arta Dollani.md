@@ -1,6 +1,6 @@
 ---
 name: "Arta Dollani"
-type: politician
+type: bureaucrat
 country: Albania
 tagline: Director of the Institute of Monuments (2013–)
 description:
