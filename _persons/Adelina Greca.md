@@ -1,5 +1,5 @@
 ---
-name: "Adelina Greca"
+name: Adelina Greca
 type: architect
 country: Albania
 tagline:

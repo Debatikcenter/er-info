@@ -1,5 +1,5 @@
 ---
-name: "Alastair Campbell"
+name: Alastair Campbell
 type: politician
 country: UK
 tagline: Former spin doctor of Tony Blair
