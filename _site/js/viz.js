@@ -49,7 +49,6 @@ d3.json("js/persons.json", function(error, graph) {
   node.append("title")
       .text(function(d) { return d.name; });
 
-      var regex = new RegExp("/\s/", 'g');
       $(".nodes circle").each(function(){
         // var id = $(this).attr("title");
         var id = $(this).data("id");
@@ -62,7 +61,13 @@ d3.json("js/persons.json", function(error, graph) {
       });
 
   simulation.nodes(graph.nodes)
-      .on("tick", ticked);
+      .on("tick", ticked)
+
+  // simulation.force("collide", d3.forceCollide().radius(function(d) { return 2*d.r; }).iterations(2));
+  simulation.force("collide", d3.forceCollide().radius(function(d) {
+            // return 5 + ($(".links [source='"+d.id+"']").length + $(".links [target='"+d.id+"']").length)/7;
+            return $(".nodes circle[data-id='"+ d.id +"']").attr("r");
+          }).iterations(2));
 
       console.log("Links");
       console.log(graph.links);
@@ -88,11 +93,6 @@ d3.json("js/persons.json", function(error, graph) {
     node
         .attr("cx", function(d) { return d.x; })
         .attr("cy", function(d) { return d.y; });
-
-    var i = 0,
-        n = node.length;
-
-    while (++i < n) q.visit(collide(node[i]));
   }
 });
 
@@ -111,28 +111,4 @@ function dragended(d) {
   if (!d3.event.active) simulation.alphaTarget(0);
   d.fx = null;
   d.fy = null;
-}
-
-function collide(node) {
-  var r = node.radius + 100,
-      nx1 = node.x - r,
-      nx2 = node.x + r,
-      ny1 = node.y - r,
-      ny2 = node.y + r;
-  return function(quad, x1, y1, x2, y2) {
-    if (quad.point && (quad.point !== node)) {
-      var x = node.x - quad.point.x,
-          y = node.y - quad.point.y,
-          l = Math.sqrt(x * x + y * y),
-          r = node.radius + quad.point.radius;
-      if (l < r) {
-        l = (l - r) / l * .5;
-        node.x -= x *= l;
-        node.y -= y *= l;
-        quad.point.x += x;
-        quad.point.y += y;
-      }
-    }
-    return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
-  };
 }
