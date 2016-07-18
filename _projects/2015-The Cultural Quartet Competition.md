@@ -12,7 +12,6 @@ value: Award of €18,000 for each building
 Organized by Atelier Albania.
 Mandated by the Office of the Prime Minister and the Minister of Culture.
 
-
 Links:
 * <http://competitions.planifikimi.gov.al/culturequartet/>
 * <http://competitions.planifikimi.gov.al/winner-muzeu-historik-kombetar-casanova-hernandez-son-engineering-construction/>

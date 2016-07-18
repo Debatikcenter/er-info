@@ -92,6 +92,77 @@
     }
 }
 
+/**
+ * visualization
+ */
+ .links line {
+   stroke: #999;
+   stroke-opacity: 0.6;
+ }
+
+ .nodes circle {
+   stroke-width: 0;
+ }
+ .nodes circle:hover {
+   stroke-width: 2px;
+   stroke: #fff;
+ }
+ [type="artist"]{
+   fill: #EF5032;
+ }
+ [type="architect"]{
+   fill: #FFDC01;
+ }
+ [type="politician"]{
+   fill: #C1D72F;
+ }
+ [type="curator"]{
+   fill: #7E3F98;
+ }
+ [type="venue"]{
+   fill: #0093D0;
+ }
+ [type="other"]{
+   fill: #A1988A;
+ }
+ nav#menu {
+   position: absolute;
+   top:0;
+   left:0;
+   ul {
+     list-style-type: none;
+     margin: 0;
+     button {
+       width: 90px;
+       color: #fff;
+       text-align: left;
+       border: 0;
+       margin-left: 0;
+       transition: margin-left .5s ease;
+     }
+     button.active {
+       margin-left: 20px;
+     }
+     [name="architect"] {
+       background-color: #FFDC01;
+     }
+     [name="artist"] {
+       background-color: #EF5032;
+     }
+     [name="politician"] {
+       background-color: #C1D72F;
+     }
+     [name="curator"] {
+       background-color: #7E3F98;
+     }
+     [name="venue"] {
+       background-color: #0093D0;
+     }
+     [name="other"] {
+       background-color: #A1988A;
+     }
+   }
+ }
 
 
 /**
@@ -169,6 +240,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    position: relative;
 }
 
 .page-heading {
