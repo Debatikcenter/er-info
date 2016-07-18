@@ -1,5 +1,5 @@
 ---
-name: The Whale That Was a Submarine: Contemporary Positions from Albania and Kosovo
+name: "The Whale That Was a Submarine: Contemporary Positions from Albania and Kosovo"
 year: 2015-07-15
 tagline: Group exhibition at the Ludwig Múzeum Budapest
 related-persons: "Endri Dani, Helidon Gjergji, Alban Hajdinaj, Edi Hila, Ardian Isufi, Ilir Kaso, Olson Lamaj, Armando Lulaj, Violana Murataj, Matilda Odobashi, Adrian Paci, Remijon Pronja, Anri Sala, Gentian Shkurti, Fani Zguro, Jakup Ferri, Flaka Haliti, Haveit, Majlinda Hoxha, Genc Kadriu, Koja, Dren Maliqi, Alban Muja, Driton Selmani, Sislej Xhafa, Julia Fabényi"
