@@ -2,11 +2,11 @@
 name: Faith Park Competition
 year: 2015-12-23
 tagline: Awarded to UNLAB
-related-persons: "Adelina Greca, Andreas Faoro, Francesca Rizzetto, Erion Veliaj, Eglantina Gjermeni, Mirela Kumbaro, Edi Rama, Catherine Mosbach, Lytton John Musselman, Edith Katz, Marco Casagrande, Niko Peleshi, Arbjan Mazniku, Arta Dollani "
+related-persons: "Adelina Greca, Andreas Faoro, Francesca Rizzetto, Erion Veliaj, Eglantina Gjermeni, Mirela Kumbaro, Edi Rama, Catherine Mosbach, Lytton John Musselman, Edith Katz, Marco Casagrande, Niko Peleshi, Arbjan Mazniku, Arta Dollani"
 value: €30,000
 ---
 * Winner: UNLAB. Team: Andreas Faoro, Francesca Rizzetto.
-* Jury: Catherine Mosbach, Lytton John Musselman, Edith Katz, Marco Casagrande, Niko Peleshi, Arbjan Mazniku, Arta Dollani 
+* Jury: Catherine Mosbach, Lytton John Musselman, Edith Katz, Marco Casagrande, Niko Peleshi, Arbjan Mazniku, Arta Dollani
 * Other competitors: Casanova + Hernandez; Alessandro Massera; Arkimade & Proap; Alessandro Trivelli; MetroPOLIS, Polis University, G&K, Felix Landscape Architects; Sa Architetti, Akua, Erald-G.
 
 Organized by Atelier Albania.

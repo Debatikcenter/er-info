@@ -1,5 +1,5 @@
 ---
-name: Not und Spiele: Zum 10-jährigen Bestehen des berliner Kunstkontaktes
+name: "Not und Spiele: Zum 10-jährigen Bestehen des berliner Kunstkontaktes"
 year: 2016-02-20
 tagline: Group Exhibition at Haus am Lützowplatz, Berlin
 related-persons: "Michael Schultz, Konstantin Schneider, Edi Rama"

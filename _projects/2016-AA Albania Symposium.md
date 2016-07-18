@@ -1,5 +1,5 @@
 ---
-name: Albania: Architecture, Public Health & Urban Renaissance
+name: "Albania: Architecture, Public Health & Urban Renaissance"
 year: 2016-04-28
 tagline: Symposium at the Architecture Association, London
 related-persons: "Erion Veliaj, Ulrike Bega, Elsie Owusu, Donna Hasanaj"

@@ -1,5 +1,5 @@
 ---
-name: Evoked: Architectural Diptychs
+name: "Evoked: Architectural Diptychs"
 year: 2016-02-22
 tagline: Exhibition in FAB Gallery
 related-persons: "Adelina Greca, Maks Velo, Arben Biçoku, Dorian Tytymçe"

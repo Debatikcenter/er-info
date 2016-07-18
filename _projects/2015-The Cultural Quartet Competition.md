@@ -2,7 +2,7 @@
 name: The Cultural Quartet Competition
 year: 2015-12-16
 tagline: Awarded to
-related-persons: "Adeline Greca, Jesus Hernandez Mayor, Driant Zeneli, Zef Paci, Erind Bejleri, Enriketa Papa, Gentian Statoberdha, Kim Knoppers, Paolo Naldini, Cecilia Guida, Petra Blaisse, Athina Kavaja, Edi Rama, Mirela Kumbaro"
+related-persons: "Adelina Greca, Jesus Hernandez Mayor, Driant Zeneli, Zef Paci, Erind Bejleri, Enriketa Papa, Gentian Stratoberdha, Kim Knoppers, Paolo Naldini, Cecilia Guida, Petra Blaisse, Athina Kavaja, Edi Rama, Mirela Kumbaro"
 value: Award of €18,000 for each building
 ---
 * Winner: Casanova + Hernandez,  Son Engineering and Construction (for both the National Historical Museum and the former League of Writers building). Team: Jesus Hernandez Mayor, Driant Zeneli, Zef Paci, Erind Bejleri, Enriketa Papa, Gentian Statoberdha, Kim Knoppers, Paolo Naldini, Cecilia Guida, Petra Blaisse, Athina Kavaja.

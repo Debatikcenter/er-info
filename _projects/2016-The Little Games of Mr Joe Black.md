@@ -1,8 +1,8 @@
 ---
-name: The Little Games of Mr Joe Black: Death and Transitoriness in Contemporary Art
+name: "The Little Games of Mr Joe Black: Death and Transitoriness in Contemporary Art"
 year: 2015-12-03
 tagline: Group Exhibition at Palast Galerie
-related-persons: "Michael Schultz, Gerhard Charles Rump, Edi Rama, Jean Y. Klein, Gerhard Richter"
+related-persons: "Michael Schultz, Gerhard Charles Rump, Edi Rama, Jean-Yves Klein, Gerhard Richter"
 value:
 ---
 >The “Palastgalerie” in Berlin shows “Die Spielchen des Freund Hein / The Little Games of Mr. Joe Black”

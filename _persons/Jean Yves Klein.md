@@ -1,5 +1,5 @@
 ---
-name: Jean Yves Klein
+name: Jean-Yves Klein
 type: artist
 country: Canada
 tagline:
