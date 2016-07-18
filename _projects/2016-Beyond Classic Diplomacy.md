@@ -2,7 +2,7 @@
 name: Beyond Classic Diplomacy
 year: 2016-07-15
 tagline: Panel at the Conference of Ambassadors
-related-persons: "Adrian Paci, Mirela Kumbaro, Ditmar Bushati"
+related-persons: "Adrian Paci, Mirela Kumbaro, Ditmir Bushati"
 value:
 ---
 
