@@ -1,0 +1,15 @@
+---
+layout: null
+---
+[
+  {% for person in site.persons %}
+    {
+    "title"    : "{{ person.name | escape }}",
+    "id"    : "{{ person.name | replace: " ", "." }}"
+    },{% endfor %}
+  {% for project in site.projects %}
+    {
+    "title"    : "{{ project.name | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]

@@ -1,23 +1,35 @@
 var svg = d3.select("#svg"),
     width = window.innerWidth,
     height = window.innerHeight;
-    svg.attr("width", width)
-      .attr("height", height);
-
-console.log(svg);
+    svg.attr("width", width-10)
+      .attr("height", height-65);
 
 var color = d3.scaleOrdinal(d3.schemeCategory20);
-console.log(color);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
     .force("charge", d3.forceManyBody().strength(-130))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
-d3.json("js/persons.json", function(error, graph) {
+// var zoom = d3.behavior.zoom()
+svg.call(d3.zoom()
+.scaleExtent([0.1, 10])
+.on("zoom", zoomed));
+
+function zoomed(){
+  // console.log(d3.event.translate);
+  // console.log(d3.event.scale);
+  // var transform = d3.transform();
+  //
+  // svg.attr("transform", "translate(" + transform.x + "," + transform.y + ")scale(" + transform.k + ")");
+}
+
+d3.json("../persons.json", function(error, graph) {
   if (error) throw error;
 
-  var link = svg.append("g")
+  var container = svg.append("g");
+
+  var link = container.append("g")
       .attr("class", "links")
     .selectAll("line")
     .data(graph.links)
@@ -30,7 +42,7 @@ d3.json("js/persons.json", function(error, graph) {
 
       // console.log("Nodes");
       // console.log(graph.nodes);
-  var node = svg.append("g")
+  var node = container.append("g")
       .attr("class", "nodes")
     .selectAll("circle")
     .data(graph.nodes)
@@ -81,6 +93,22 @@ d3.json("js/persons.json", function(error, graph) {
       // console.log($(".links [target='Edi.Rama']"));
         simulation.force("link")
             .links(graph.links);
+
+  $("circle").on('click', function(){
+    var name = $(this).attr("title");
+    var url = window.location.href;
+    var q = url.indexOf("?");
+    if(q!=-1) url = url.substring(0, q);
+    jQuery.get(url + '/persons/'+name+'.html', function(data) {
+        console.log(data);
+    });
+  });
+
+  $(document).keydown(function(e){
+  if( e.which === 90 ) {
+    window.location.href += "#p=test";
+  }
+});
 
 
   function ticked() {

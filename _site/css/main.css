@@ -150,7 +150,7 @@ pre {
 .site-header {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
-  min-height: 56px;
+  height: 60px;
   position: relative; }
 
 .site-title {
@@ -218,7 +218,7 @@ pre {
 .nodes circle {
   stroke-width: 0; }
 
-.nodes circle:hover {
+.nodes circle:hover, .nodes circle:focus {
   stroke-width: 2px;
   stroke: #fff; }
 
@@ -268,6 +268,20 @@ nav#menu {
       background-color: #0093D0; }
     nav#menu ul [name="other"] {
       background-color: #A1988A; }
+
+.search {
+  position: absolute;
+  top: 10px;
+  right: 10px; }
+  .search input {
+    text-align: center; }
+  .search ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px; }
+    .search ul li {
+      text-align: center;
+      max-width: 164px; }
 
 /**
  * Site footer
@@ -325,7 +339,7 @@ nav#menu {
  * Page content
  */
 .page-content {
-  padding: 30px 0;
+  padding: 0;
   position: relative; }
 
 .page-heading {
