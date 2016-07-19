@@ -24,7 +24,7 @@ function zoomed(){
   // svg.attr("transform", "translate(" + transform.x + "," + transform.y + ")scale(" + transform.k + ")");
 }
 
-d3.json("../persons.json", function(error, graph) {
+d3.json("/persons.json", function(error, graph) {
   if (error) throw error;
 
   var container = svg.append("g");
