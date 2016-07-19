@@ -4,6 +4,9 @@ year: 2016-04-28
 tagline: Symposium at the Architecture Association, London
 related-persons: "Erion Veliaj, Ulrike Bega, Elsie Owusu, Donna Hasanaj"
 value:
+area:
+enddate:
+layout: project
 ---
 * Speakers: Ulrike Bega, Bob Wills, Parveen Kumar, Elsie Owusu, Donna Hasanaj, Jonathan Darke, Azhar, Vanessa Norwood, Amy Sidworthy, Dame Frances Cairncross, Erion Veliaj, Chaired by Lord Julian Hunt
 

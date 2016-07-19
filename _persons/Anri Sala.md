@@ -6,4 +6,5 @@ tagline:
 description:
 related-persons: Edi Rama
 connections:
+layout: person
 ---

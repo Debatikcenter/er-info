@@ -6,4 +6,5 @@ tagline:
 description:
 related-persons: Marin Biçoku
 connections:
+layout: person
 ---

@@ -6,5 +6,6 @@ tagline:
 description:
 related-persons:
 connections:
+layout: person
 ---
 Links:

@@ -4,6 +4,9 @@ year: 2015-10-31
 tagline: Group Exhibition at the National Historical Museum
 related-persons: "Christine Macel, Mirela Kumbaro, Alicia Knock, Saâdane Afif, Endri Dani, Klodian Deda, Arbër Elezi, Yllka Gjollesha, Ilir Kaso, Greta Pllana, Leonard Qylafi, Gentian Shkurti, Marina Sula, Ermela Teli, Driant Zeneli, Fani Zguro, Enkelejd Zonja, Anri Sala"
 value:
+area:
+enddate:
+layout: project
 ---
 Curator: Christine Macel
 Artists: Endri Dani, Klodian Deda, Arbër Elezi, Yllka Gjollesha, Ilir Kaso, Greta Pllana, Leonard Qylafi, Gentian Shkurti, Marina Sula, Ermela Teli, Driant Zeneli, Fani Zguro, Enkelejd Zonja

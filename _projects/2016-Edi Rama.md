@@ -4,6 +4,9 @@ year: 2016-05-31
 tagline: Solo exhibition of Edi Rama in Galleria Alfonso Artico
 related-persons: "Edi Rama, Lorenza Baroncelli, Joseph Grima, Alfonso Artico"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Exhibition in Naples, 31/05/2016 to 22/07/2016 @ Alfonso Artico, curated by Joseph Grima and Lorenza Baroncelli.

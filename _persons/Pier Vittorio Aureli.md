@@ -6,4 +6,5 @@ tagline: Dogma
 description:
 related-persons:
 connections:
+layout: person
 ---

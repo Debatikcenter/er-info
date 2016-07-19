@@ -6,4 +6,5 @@ tagline: Bolles+Wilson
 description:
 related-persons:
 connections:
+layout: person
 ---

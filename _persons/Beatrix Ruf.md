@@ -6,4 +6,5 @@ tagline: Director of Kunsthalle Zurich
 description:
 related-persons:
 connections:
+layout: person
 ---

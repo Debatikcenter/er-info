@@ -6,4 +6,5 @@ tagline:
 description:
 related-persons: Arben Biçoku
 connections:
+layout: person
 ---

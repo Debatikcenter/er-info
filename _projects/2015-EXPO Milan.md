@@ -4,6 +4,9 @@ year: 2015-01-01
 tagline:
 related-persons: "Stefano Boeri, Lorenza Baroncelli, Edi Rama"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Albania represented for the first time at the EXPO Milan.

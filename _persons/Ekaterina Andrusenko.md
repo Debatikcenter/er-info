@@ -1,9 +1,10 @@
 ---
 name: Ekaterina Andrusenko
 type: architect
-country: 
+country:
 tagline: Openfabric
 description:
 related-persons:
 connections:
+layout: person
 ---

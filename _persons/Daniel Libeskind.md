@@ -6,4 +6,5 @@ tagline: Magnet
 description:
 related-persons:
 connections:
+layout: person
 ---

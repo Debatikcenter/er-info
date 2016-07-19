@@ -4,6 +4,9 @@ year: 2003-05-16
 tagline: Group Exhibition at Sammlung Essl
 related-persons: "Edi Rama, Harald Szeemann, Alban Hajdinaj, Edi Hila, Adrian Paci, Anri Sala, Gentian Shkurti, Ornela Vorpsi, Vénera Kastrati, Sislej Xhafa, Erzen Shkololli"
 value:
+area:
+enddate:
+layout: project
 ---
 Artists: Marina Abramovic, Nevin Aladag, Hüseyin Alptekin, Halil Altindere, Cem Aydogan, Maja Bajevic, Jozsef Bartha, Sokol Beqiri, Semiha Berksoy, Goran Bertok, Basir Borlakov, Luchezar Boyadjiev, Pavel Braila, Ali Demirel, Braco Dimitrijevic, Biljana Djurdjevic, Uros Djuric, Vladimir Dodig-Trokut, Veaceslav Druta, Ayse Erkmen, Esra Ersen, Mariela Gemisheva, Alla Georgieva, Yervant Gianikian & Angela Lucchi Ricci, Teodor Graur, Alban Hajdinaj, Edi Hila, Irwin, Sanja Ivekovic, Djordje Jandric, Venera Kastrati, Mihaela Kavdanska, Celjko Kipke, Lyuben Kostov, Daniela Kostova, Emir Kusturica, Labin Art Express, Jenny Marketou, Dalibor Martinis, Antoni Maznevski, Ivan Moudov, Vladimir Nikolic, Damír Niksic, Adrian Paci, Goran Petercol, Cristi Petercol, Ivan Posavec, Ivanov Pravdoliub, Franc Purg, Jelena Radic, Edi Rama, Rassim, Anri Sala, Igor Scerbina & Stefan Rusu, Kalin Serapionov, Erzen Shkololli, Gentian Shkurti, Nedko Solakov, son:DA, Aleksandar Stankovski, Mladen Stilinovic, Kamen Stoyanov, Miha Strukelj, subREAL, Patricia Teodorescu, Rasa Todosijevic, Zoran Todorovic, Nasan Tur, Zaneta Vangeli, Dean Verzel, Mark Verlan, Ornela Vorpsi, Sislej Xhafa
 

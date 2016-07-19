@@ -4,6 +4,9 @@ year: 2015-04-21
 tagline: Lecture at Tulla Culture Center
 related-persons: "Adelina Greca, Rubin Beqo, Lorenza Baroncelli"
 value:
+area:
+enddate:
+layout: project
 ---
 >Looking at the landscape from the airplane, as from the satellite, entire portions of the urban territory appear to us completely built. From above, a city is a spotted body. Its solid geographical connotations has been retouched by a liquid grain of urban matter, which has bypassed saddles, flooded plains, filled valleys. From above we see not only the space, we also see the time. We see the results of a phenomenon of extension of the living space that in the last three decades has transformed our urban geography.
 But when you cross cities by car or train, leaving the town centres, moving to their edges, the same disrupted landscapes tell a different city that has changed rhythm. The "new", everything that was built after the early seventies, has the appearance of molecular building block in the center of a land plot. The new urban rhythm is set by a multitude of solitary buildings of a society where the forms of elementary cohesion—the family, the association, the chain stores, the small enterprise— have acquired over the last thirty years the financial and legal resources to build their own portion of space, its urban "monad“ facilitated by tax incentives and wide meshes of a very complicated web of regional, provincial, municipal and sub-municipal rules.

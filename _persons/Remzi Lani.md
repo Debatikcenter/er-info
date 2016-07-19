@@ -6,4 +6,5 @@ tagline: Executive Director of the Albanian Media Institute
 description:
 related-persons:
 connections:
+layout: person
 ---

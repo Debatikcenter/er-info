@@ -4,6 +4,9 @@ year: 2015-09-24
 tagline: Art Fair
 related-persons: "Michael Schultz, Edi Rama, Jean-Yves Klein, SEO, Cornelia Schleime, Gerhard Richter, Andy Denzler, Malgosia Jankowska, Bernd Kirschner, Feng Lu, Sigmar Polke, Rebecca Raue"
 value:
+area:
+enddate:
+layout: project
 ---
 Artists: Edi Rama, Jean Y. Klein, SEO, Cornelia Schleime, Gerhard Richter, Andy Denzler, Malgosia Jankowska, Bernd Kirschner, Feng Lu, Sigmar Polke, Rebecca Raue
 

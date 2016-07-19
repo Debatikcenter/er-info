@@ -4,6 +4,9 @@ year: 2016-04-07
 tagline: A reimplementation of the 51N4E + Anri Sala plan
 related-persons: "Anri Sala, Freek Persyn, Johan Anrys, Erion Veliaj"
 value:
+area:
+enddate:
+layout: project
 ---
 A reinterpretation of the 51N4E + Anri Sala plan for Skënderbeg Square from 2008, this time with a bit more greenery and in alignment with the Faith Park project of UNLAB and Stefano Boeri's overhaul of the Tirana Masterplan. A scale model was presented during the exhibition "mbi Qiell nën" in COD.
 

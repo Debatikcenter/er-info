@@ -6,6 +6,7 @@ tagline: UNLAB
 description:
 related-persons:
 connections:
+layout: person
 ---
 
 Links:

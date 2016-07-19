@@ -6,4 +6,5 @@ tagline: Journalist
 description:
 related-persons:
 connections:
+layout: person
 ---

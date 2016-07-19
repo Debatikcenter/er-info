@@ -4,6 +4,9 @@ year: 2015-11-08
 tagline: Awarded to Studio b&l, Dogma, Andrea Branzi
 related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Pier Vittorio Aureli, Martino Tattara, Andrea Branzi, Niko Peleshi, Sotiria Kornaropoulou, Andreas Ruby, George Brugmans, Xaveer de Geyter, Dorian Tytymçe, Luan Leka"
 value: €65,000
+area:
+enddate:
+layout: project
 ---
 * Winners: [Studio b&l](http://www.arkitekt-bl.com/index.php?/durana/), [Dogma](http://www.dogma.name/), [Andrea Branzi](http://www.andreabranzi.it/)
 * Jury: Niko Peleshi, Sotiria Kornaropoulou, Andreas Ruby, George Brugmans, Xaveer de Geyter, Dorian Tytymçe, Luan Leka

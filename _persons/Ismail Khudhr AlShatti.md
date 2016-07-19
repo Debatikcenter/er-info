@@ -6,4 +6,5 @@ tagline: Kuwaiti investor representative
 description:
 related-persons:
 connections:
+layout: person
 ---

@@ -4,6 +4,9 @@ year: 2014-06-01
 tagline: Swiss Pavilion at the Venice Architecture Biennial 2014
 related-persons: "Hans Ulrich Obrist, Lorenza Baroncelli, Stefano Boeri, Liam Gillick, Carsten Höller, Philippe Parreno, Rirkrit Tiravanija, Maja Hoffman, Anri Sala, Edi Rama, Freek Persyn, Joseph Grima, Olafur Eliasson, Dominique Gonzalez Foerster"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Curated by Hans Ulrich Obrist.

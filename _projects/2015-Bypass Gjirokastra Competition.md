@@ -4,6 +4,9 @@ year: 2015-12-19
 tagline: Awarded to Atelier 4
 related-persons: "Adelina Greca, Alban Efthimi, Leah Whitman-Salkin, Elisabetta Terragni, Arta Dollani, Edi Rama, Mirela Kumbaro"
 value: €30,000
+area:
+enddate:
+layout: project
 ---
 * Winner: Atelier 4
 * Jury: Leah Whitman-Salkin, Elisabetta Terragni, Arta Dollani

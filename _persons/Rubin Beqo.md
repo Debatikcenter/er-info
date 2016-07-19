@@ -6,4 +6,5 @@ tagline: Director of Tulla Culture Center
 description:
 related-persons:
 connections:
+layout: person
 ---

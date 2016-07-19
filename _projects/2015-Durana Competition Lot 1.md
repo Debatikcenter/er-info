@@ -4,6 +4,9 @@ year: 2015-11-08
 tagline: Awarded to PIOVENEFABI, YellowOffice, Stefano Graziani, Vladimir Myrtezai, Mobility in Chain
 related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Stefano Graziani, Benet Beci, Ambra Fabi, Giovanni Piovene, Vladimir Myrtezai, Niko Peleshi, Sotiria Kornaropoulou, Andreas Ruby, George Brugmans, Xaveer de Geyter, Dorian Tytymçe, Luan Leka"
 value: €65,000
+area:
+enddate:
+layout: project
 ---
 * Winners: [PIOVENEFABI](http://www.piovenefabi.it/), [YellowOffice](http://www.yellowoffice.it/index.php/durana-competition-first-prize/), [ArchiSpace Studio](http://www.archi-space.com/), Stefano Graziani, Vladimir Myrtezai, [Mobility in Chain](http://www.michain.com/)
 * Jury: Niko Peleshi, Sotiria Kornaropoulou, Andreas Ruby, George Brugmans, Xaveer de Geyter, Dorian Tytymçe, Luan Leka

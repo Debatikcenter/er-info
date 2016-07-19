@@ -4,6 +4,9 @@ year: 2005-01-01
 tagline: Awarded to MVRDV
 related-persons: "Rossana Atena, Winy Maas, Johan Anrys, Valerio Olgiati, Gener2"
 value:
+area:
+enddate:
+layout: project
 ---
 * Winner: MVRDV
 * Jury: Rossana Atena, Johan Anrys, Valerio Olgiati

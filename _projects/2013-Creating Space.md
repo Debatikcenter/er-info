@@ -4,6 +4,9 @@ year: 2013-01-18
 tagline: Duo Exhibition at Galerie Rüdiger Schöttle
 related-persons: "Anri Sala, Edi Rama, Okwui Enwezor"
 value:
+area:
+enddate:
+layout: project
 ---
 >Galerie Rüdiger Schöttle is pleased to open 2013 with an exhibition project by the artist Anri Sala.
 Galerie Rüdiger Schöttle has been regularly exhibiting Anri Sala's work since 2000. These exhibitions have so far been confined to his film installations. However, the current exhibition is now concentrating on the project "Creating Space Where There Appears to Be None", which has been produced in cooperation with the artist Edi Rama and also encompasses recordings of conversations and a series of drawings by Edi Rama and Anri Sala. Edi Rama, an artist friend of Anri Sala and politician, was actively involved in the initial democracy movement following the collapse of the Communist regime. After a stay in Paris, during which he devoted himself entirely to his career as an artist, he returned to Albania in the Nineties, where he was among other things Minister of Culture, Youth and Sport from 1998 to 2000 and later Mayor of Tirana from 2000 till 2011. Since 2005 he is head of the Socialist Party of Albania (SPA).

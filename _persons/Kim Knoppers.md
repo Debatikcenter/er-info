@@ -6,6 +6,7 @@ tagline: Curator at FOAM
 description:
 related-persons:
 connections:
+layout: person
 ---
 Links:
 * <http://www.kimknoppers.nl/>

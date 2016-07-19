@@ -6,4 +6,5 @@ tagline: Minister of Culture
 description:
 related-persons: Edi Rama
 connections:
+layout: person
 ---

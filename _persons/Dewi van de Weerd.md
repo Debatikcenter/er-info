@@ -6,4 +6,5 @@ tagline: Dutch Ambassador in Albania
 description:
 related-persons:
 connections:
+layout: person
 ---

@@ -4,6 +4,9 @@ year: 2016-02-25
 tagline: Collective Exhibition during Marrakech Biennale 6 at Jnane Tamsna
 related-persons: "Edi Rama, Michael Schultz, Stephan Kaluza, Jean-Yves Klein, Andy Denzler, Maik Wolf, Cornelia Schleime, SEO, Niq Nanu Daah"
 value:
+area:
+enddate:
+layout: project
 ---
 Artists: Stephan Kaluza, Jean Y. Klein, Andy Denzler, Maik Wolf, Cornelia Schleime, SEO, Niq Nanu Daah, Edi Rama
 Location: Jnane Tamsna

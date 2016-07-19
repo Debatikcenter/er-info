@@ -6,4 +6,5 @@ tagline: AS/Architecture Studio
 description:
 related-persons:
 connections:
+layout: person
 ---

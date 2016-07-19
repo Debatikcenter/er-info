@@ -6,6 +6,7 @@ tagline: Casagrande Laboratory
 description:
 related-persons:
 connections:
+layout: person
 ---
-Links: 
+Links:
 * <http://www.casagrandelaboratory.com/>

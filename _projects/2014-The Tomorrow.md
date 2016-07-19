@@ -4,6 +4,9 @@ year: 2014-08-20
 tagline: Venice Architecture Biennale 2014
 related-persons: "Stefano Boeri, Lorenza Baroncelli, Pier Paolo Tamburelli"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Online platform presented at the Architecture Biennale, later incorporated into the 2016 Tirana Masterplan project of Stefano Boeri under the title "Tirana The Tomorrow," which however never materialized.

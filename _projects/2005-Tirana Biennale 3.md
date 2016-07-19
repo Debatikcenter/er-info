@@ -4,6 +4,9 @@ year: 2005-09-10
 tagline:
 related-persons: "Edi Rama, Edi Muka, Gëzim Qëndro, Robert Pinto, Zdenka Badovinać, Joa Ljungberg, Hanru Hou, Armando Lulaj, Edi Hila, Jutta Benzenberg, Olafur Eliasson, Saâdane Afif, Stefano Romano, Erzen Shkololli"
 value:
+area:
+enddate:
+layout: project
 ---
 President of Honor: Edi Rama
 Directors: Edi Muka, Gëzim Qëndro

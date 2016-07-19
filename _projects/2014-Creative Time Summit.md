@@ -4,6 +4,9 @@ year: 2014-11-14
 tagline: Keynote lecture
 related-persons: "Edi Rama, Magdalena Malm, Nato Thompson"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Exhibition in Naples, 31/05/2016 to 22/07/2016 @ Alfonso Artico, curated by Joseph Grima and Lorenza Baroncelli.

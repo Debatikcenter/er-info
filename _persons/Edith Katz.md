@@ -2,8 +2,9 @@
 name: Edith Katz
 type: architect
 country: USA
-tagline: 
+tagline:
 description:
 related-persons:
 connections:
+layout: person
 ---

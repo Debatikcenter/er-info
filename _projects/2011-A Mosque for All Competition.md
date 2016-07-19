@@ -4,6 +4,9 @@ year: 2011-02-05
 tagline: Awarded to Bjarke Ingels
 related-persons: "Edi Rama, Nevzat Sayın, Johan Anrys, Artan Shkreli, Adelina Greca, Ermir Hoxha, Bjarke Ingels, Winy Maas, Valerio Olgiati"
 value:
+area:
+enddate:
+layout: project
 ---
 * Winner: Bjarke Ingels
 * Jury: Nevzat Sayın, Johan Anrys, Artan Shkreli, Adelina Greca, Ermir Hoxha, Winy Maas, Valerio Olgiati

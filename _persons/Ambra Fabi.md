@@ -6,4 +6,5 @@ tagline: PIOVENEFABI
 description:
 related-persons:
 connections:
+layout: person
 ---
