@@ -1,9 +1,10 @@
 ---
 name: Rainer Hehl
 type: architect
-country: 
+country:
 tagline:
 description:
 related-persons: Anne-Charlotte Malterre-Barthes
 connections:
+layout: person
 ---

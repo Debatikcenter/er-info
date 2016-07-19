@@ -2,10 +2,11 @@
 name: Paolo Naldini
 type: curator
 country: Italy
-tagline:
-description: Director of Cittadellarte – Fondazione Pistoletto
+tagline: Director of Cittadellarte – Fondazione Pistoletto
+description:
 related-persons:
 connections:
+layout: person
 ---
 Links:
 *

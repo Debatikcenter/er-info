@@ -6,4 +6,5 @@ tagline: Minister of Urban Development
 description:
 related-persons: Edi Rama
 connections:
+layout: person
 ---

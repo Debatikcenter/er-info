@@ -1,9 +1,10 @@
 ---
 name: Olivier Sobels
 type: architect
-country: 
+country:
 tagline: Openfabric
 description:
 related-persons:
 connections:
+layout: person
 ---

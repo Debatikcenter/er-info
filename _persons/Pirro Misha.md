@@ -6,4 +6,5 @@ tagline: Board member of the Albanian Media Authority
 description:
 related-persons:
 connections:
+layout: person
 ---

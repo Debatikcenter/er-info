@@ -6,6 +6,7 @@ tagline: Businessman
 description:
 related-persons:
 connections:
+layout: person
 ---
 One of the richest men of Albania.
 

@@ -6,6 +6,7 @@ tagline: Sadar+Vuga
 description:
 related-persons:
 connections:
+layout: person
 ---
 
 Links:

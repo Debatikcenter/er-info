@@ -2,8 +2,9 @@
 name: Stefano Romano
 type: artist
 country: Italy
-tagline: 
+tagline:
 description:
 related-persons:
 connections:
+layout: person
 ---

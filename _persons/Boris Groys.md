@@ -6,4 +6,5 @@ tagline: Art theorist
 description:
 related-persons:
 connections:
+layout: person
 ---

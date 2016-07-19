@@ -6,4 +6,5 @@ tagline: Trainer of the national Albanian football team
 description:
 related-persons:
 connections:
+layout: person
 ---

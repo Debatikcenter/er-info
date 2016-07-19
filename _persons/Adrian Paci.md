@@ -6,6 +6,7 @@ tagline:
 description:
 related-persons: Zef Paci
 connections:
+layout: person
 ---
 Links:
 *

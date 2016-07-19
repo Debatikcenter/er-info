@@ -6,4 +6,5 @@ tagline: Director of Serpentine Gallery
 description:
 related-persons:
 connections:
+layout: person
 ---

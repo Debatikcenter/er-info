@@ -6,4 +6,5 @@ tagline: l'AUC
 description:
 related-persons:
 connections:
+layout: person
 ---

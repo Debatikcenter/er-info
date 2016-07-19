@@ -1,9 +1,10 @@
 ---
 name: Philippe Parreno
 type: artist
-country: 
+country:
 tagline:
 description:
 related-persons:
 connections:
+layout: person
 ---

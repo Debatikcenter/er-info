@@ -6,4 +6,5 @@ tagline: Archea Architetti
 description:
 related-persons:
 connections:
+layout: person
 ---

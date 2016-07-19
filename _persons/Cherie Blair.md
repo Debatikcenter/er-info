@@ -6,4 +6,5 @@ tagline: Omnia Strategy
 description:
 related-persons: Tony Blair
 connections:
+layout: person
 ---

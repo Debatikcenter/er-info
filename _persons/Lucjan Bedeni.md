@@ -6,4 +6,5 @@ tagline: Director of the Marubi National Museum
 description:
 related-persons:
 connections:
+layout: person
 ---

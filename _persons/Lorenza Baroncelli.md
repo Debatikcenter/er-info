@@ -6,4 +6,5 @@ tagline: Councillor for Urban Regeneration and International Projects for the ci
 description:
 related-persons: Edi Rama, Erion Veliaj, Stefano Boeri, Mattia Palazzi, Hans Ulrich Obrist
 connections:
+layout: person
 ---

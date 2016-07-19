@@ -6,4 +6,5 @@ tagline: Director of Stacion
 description:
 related-persons:
 connections:
+layout: person
 ---

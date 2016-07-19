@@ -6,4 +6,5 @@ tagline: PolyLester
 description:
 related-persons:
 connections:
+layout: person
 ---

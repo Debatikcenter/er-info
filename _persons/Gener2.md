@@ -6,4 +6,5 @@ tagline: Developer
 description:
 related-persons:
 connections:
+layout: person
 ---

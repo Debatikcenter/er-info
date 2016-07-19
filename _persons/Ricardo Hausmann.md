@@ -6,4 +6,5 @@ tagline: Professor of the Practice of Economic Development; Director of the Cent
 description:
 related-persons:
 connections:
+layout: person
 ---

@@ -6,4 +6,5 @@ tagline: Bureau Bas Smets
 description:
 related-persons:
 connections:
+layout: person
 ---

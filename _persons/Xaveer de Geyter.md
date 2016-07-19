@@ -6,4 +6,5 @@ tagline: Founder of XDGA
 description:
 related-persons:
 connections:
+layout: person
 ---
