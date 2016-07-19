@@ -4,6 +4,9 @@ year: 2014-04-01
 tagline: Research project and publication by IABR
 related-persons: "Joni Baboçi, George Brugmans, Freek Persyn, Johan Anrys, Eric Frijters, Marieke Francke, Sotiria Kornaropoulou, Eglantina Gjermeni, Dewi van de Weerd"
 value:
+area:
+enddate:
+layout: project
 ---
 Collaboration of iabr/UP and 51N4E, together with the IABR and its research partners of Atelier Rotterdam, the [Chair of Landscape Architecture of Delft University of Technology](http://www.bk.tudelft.nl/en/about-faculty/departments/urbanism/organisation/chair-of-landscape-architecture/), the [Netherlands Environmental Assessment Agency](http://www.pbl.nl/en/), and the design office [.Fabric](http://www.fabrications.nl/), have brought their knowledge and experience to the Albanian territory.
 

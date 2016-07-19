@@ -4,6 +4,9 @@ year: 2016-01-09
 tagline: Public intervention by Edi Rama in Mantova
 related-persons: "Edi Rama, Lorenza Baroncelli, Mattia Palazzi"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Public intervention in Mantova, in which Edi Rama painted a former industrial building blue. Lorenza Baroncelli is both councillor to Rama and to the Mayor of Mantova, and later curated the show in Naples featuring this work.

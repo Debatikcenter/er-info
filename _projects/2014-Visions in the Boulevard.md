@@ -4,6 +4,9 @@ year: 2016-01-15
 tagline: Exhibition in COD
 related-persons: "Edi Hila, Edi Rama, Falma Fshazi"
 value:
+area:
+enddate:
+layout: project
 ---
 >The new cycle of paintings by Edi Hila kicked off today the new season at the Center for Openness and Dialogue in the Prime Ministry. The new season’s theme will be "The space where we live, the space we share and the space we leave behind".
 "Visions in the Boulevard", a series of unpublished works by artist Edi Hila, was presented today in the presence of Prime Minister Edi Rama and wife Linda, representatives of the diplomatic corps, prominent artists and personalities of civil society.

@@ -4,6 +4,9 @@ year: 1994-10-22
 tagline:
 related-persons: "Edi Rama, Nelson Aguilar"
 value:
+area:
+enddate:
+layout: project
 ---
 Edi Rama represented Albania.
 

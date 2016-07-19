@@ -4,6 +4,9 @@ year: 2015-12-03
 tagline: Group Exhibition at Palast Galerie
 related-persons: "Michael Schultz, Gerhard Charles Rump, Edi Rama, Jean-Yves Klein, Gerhard Richter"
 value:
+area:
+enddate:
+layout: project
 ---
 >The “Palastgalerie” in Berlin shows “Die Spielchen des Freund Hein / The Little Games of Mr. Joe Black”
 This is most likely going to be the most exciting, most spectacular and maybe most scandalous exhibition of 2015 in Berlin: The “Palastgalerie”, in cooperation with RAR Gallery, shows “Die Spielchen des Freund Hein / The Little Games of Mr Joe Black”, curated by Gerhard Charles Rump, on the subject of death and transitoriness, in which more than 20 international contemporary artists treat this highly topical subject.

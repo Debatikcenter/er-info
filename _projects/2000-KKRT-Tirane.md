@@ -4,6 +4,9 @@ year: 2000-10-26
 tagline: Approved building permits during Rama's period as mayor
 related-persons: "Artan Shkreli, Arben Biçoku, Daniel Gjoni, Edi Rama"
 value:
+area:
+enddate:
+layout: project
 ---
 Members: Edi Rama, Artan Shkreli, Arben Biçoku, Daniel Gjoni.
 

@@ -4,6 +4,9 @@ year: 2015-11-17
 tagline: Awarded to Sadar-Vuga, PRG*B R
 related-persons: "Adelina Greca, Jurij Sadar, Boštjan Vuga, Kenneth Woods, Gregor Bucik, Florian Pollo, Dorian Tytymçe, Edi Rama, Lindita Nikolla, Nasip Naço"
 value:
+area:
+enddate:
+layout: project
 ---
 * Winner: Sadar-Vuga, PRG*BR. Team: Jurij Sadar, Boštjan Vuga, Kenneth Woods, Gregor Bucik, Florian Pollo, Dorian Tytymçe
 * Jury: Elsie Owusu(?)

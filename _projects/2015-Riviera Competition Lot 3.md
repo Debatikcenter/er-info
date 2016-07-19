@@ -4,6 +4,9 @@ year: 2015-11-08
 tagline: Awarded to Atena Studio, Atelier 4
 related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Alban Efthimi, Rossana Atena, Sasa Randic, Jonida Turani, Peter Herrle, Freek Persyn, Johan Anrys, Artan Shkreli"
 value: €85,000
+area:
+enddate:
+layout: project
 ---
 * Winners: [Atena Studio](www.atenastudio.it/), [Atelier 4](http://www.atelier4.al/)
 * Jury: Eglantina Gjermeni, Saša Randić, Jonida Turani, Peter Herrle, Freek Persyn, Johan Anrys, Artan Shkreli

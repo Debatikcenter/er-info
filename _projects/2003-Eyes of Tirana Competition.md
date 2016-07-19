@@ -4,5 +4,8 @@ year: 2003-01-01
 tagline:
 related-persons: "Peter Lynn Wilson, Freek Persyn, Edi Rama"
 value:
+area:
+enddate:
+layout: project
 ---
 Jury: Peter Lynn Wilson

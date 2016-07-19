@@ -4,6 +4,9 @@ year: 2014-02-20
 tagline: Architecture Atelier turned government planning agency
 related-persons: "Edi Rama, George Brugmans, Freek Persyn, Johan Anrys, Adelina Greca, Joni Baboçi, Eglantina Gjermeni"
 value:
+area:
+enddate:
+layout: project
 ---
 
 >In response to Rama’s call to designers worldwide to contribute to Next Generation Albania, George Brugmans (IABR), Freek Persyn and Johan Anrys (51N4E, Brussels) proposed Atelier Albania.

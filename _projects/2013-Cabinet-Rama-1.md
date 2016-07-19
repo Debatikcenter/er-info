@@ -4,6 +4,9 @@ year: 2013-09-11
 tagline: PS-LSI coalition government, headed by PM Edi Rama
 related-persons: "Edi Rama, Niko Peleshi, Arben Ahmetaj, Saimir Tahiri, Erion Veliaj, Eglantina Gjermeni, Lindita Nikolla, Nasip Naço, Milena Harito, Mirela Kumbaro, Ditmir Bushati"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Erion Veliaj became Mayor of Tirana in 2015

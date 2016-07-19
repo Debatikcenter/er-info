@@ -4,6 +4,9 @@ year: 2015-08-01
 tagline: Summer Academy at the Albanian Riviera
 related-persons: "Adelina Greca, Simon Battisti, Eglantina Gjermeni, Hans-Juergen Cassens"
 value:
+area:
+enddate:
+layout: project
 ---
 >**From Bregu i Detit to the Riviera and Back**
 

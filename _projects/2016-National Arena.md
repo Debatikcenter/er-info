@@ -4,6 +4,9 @@ year: 2016-04-29
 tagline: Granted to Arcea Architetti and Atelier 4
 related-persons: "Marco Casamonti, Edi Rama, Alban Efthimi"
 value: 50 M€
+area:
+enddate:
+layout: project
 ---
 
 Reconstruction of the National Arena "Qemal Stafa," granted, without tender procedure, to Arcea Architetti and Atelier 4, who in 2009 came in second in a competition for a multipurpose and commercial center near the same site.

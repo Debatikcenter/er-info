@@ -4,6 +4,9 @@ year: 2003-06-15
 tagline: Series of exhibitions and meetings
 related-persons: "Molly Nesbit, Hans Ulrich Obrist, Rirkrit Tiravanija, Anri Sala, Edi Rama, Stefano Boeri, Philippe Parreno, Liam Gillick, Okwui Enwezor"
 value:
+area:
+enddate:
+layout: project
 ---
 Curated by Molly Nesbit, Hans Ulrich Obrist, and Rirkrit Tiravanija.
 

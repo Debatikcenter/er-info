@@ -4,6 +4,9 @@ year: 2016-02-20
 tagline: Group Exhibition at Haus am Lützowplatz, Berlin
 related-persons: "Michael Schultz, Konstantin Schneider, Edi Rama"
 value:
+area:
+enddate:
+layout: project
 ---
 >20. Februar - 3. April 2016
 Eröffnung, Freitag 19. Februar, 19 Uhr

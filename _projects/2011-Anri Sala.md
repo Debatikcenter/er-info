@@ -4,6 +4,9 @@ year: 2011-02-28
 tagline: Catalogue of Solo Exhibition at MAC Montréal
 related-persons: "Anri Sala, Edi Rama, Michael Fried, Philippe Parreno, Marcus Steinweg, Erion Veliaj, Marie Fraser"
 value:
+area:
+enddate:
+layout: project
 ---
 Edited by Anri Sala, with contributions by Michael Fried, Hans Ulrich Obrist, Philippe Parreno, Marcus Steinweg, and Erion Veliaj.
 Published by MAC Montréal.

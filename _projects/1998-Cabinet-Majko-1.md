@@ -4,6 +4,9 @@ year: 1998-10-02
 tagline: PS government headed by Pandeli Majko
 related-persons: "Pandeli Majko, Edi Rama"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Until 1999-10-25

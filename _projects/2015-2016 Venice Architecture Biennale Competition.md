@@ -4,6 +4,9 @@ year: 2015-01-01
 tagline: Awarded to Simon Battisti and Leah Whitman-Salkin
 related-persons: "Anri Sala, Elisabetta Terragni, Arta Dollani, Adelina Greca, Gëzim Qëndro, Mirela Kumbaro, Simon Battisti, Leah Whitman-Salkin"
 value:
+area:
+enddate:
+layout: project
 ---
 * Winner: Simon Battisti and Leah Whitman-Salkin
 * Jury: Anri Sala, Elisabetta Terragni, Arta Dollani, Adelina Greca, Gëzim Qëndro

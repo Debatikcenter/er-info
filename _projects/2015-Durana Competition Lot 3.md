@@ -4,6 +4,9 @@ year: 2015-11-08
 tagline: Awarded to l'AUC, DEA Studio
 related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Djamel Klouche, Caroline Poulin, François Decoster, Niko Peleshi, Sotiria Kornaropoulou, Andreas Ruby, George Brugmans, Xaveer de Geyter, Dorian Tytymçe, Luan Leka"
 value: €65,000
+area:
+enddate:
+layout: project
 ---
 * Winners: [l'AUC](http://www.laucparis.com/), [DEA studio](http://www.dea-studio.com/)
 * Jury: Niko Peleshi, Sotiria Kornaropoulou, Andreas Ruby, George Brugmans, Xaveer de Geyter, Dorian Tytymçe, Luan Leka
