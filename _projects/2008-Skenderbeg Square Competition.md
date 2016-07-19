@@ -4,6 +4,9 @@ year: 2008-04-10
 tagline: Awarded to 51N4E & Anri Sala, Symbiotica
 related-persons: "Anri Sala, Peter Swinnen, Freek Persyn, Johan Anrys, Andreas Ruby, Alban Efthimi, Marin Biçoku, Maks Velo, Arben Kumbaro, Elia Zenghelis, Ismail Khudhr Al-Shatti, Marco Casamonti, Valerio Olgiati, Vedran Mimica, Xaveer de Geyter, MAK & Sons Group, Ulrike Bega"
 value: €4.3M (First phase)
+area:
+enddate:
+layout: project
 ---
 * Winner: 51N4E & Anri Sala, [SymbioticA](http://www.symbiotica.net/en/projects/programmatic/knr/64)
 * Jury: Andreas Ruby and 10 others (Maks Velo, Arben Kumbaro, Elia Zenghelis, Ismail Khudhr Al-Shatti, Marco Casamonti, Valerio Olgiati, Vedran Mimica, Xaveer de Geyter?)

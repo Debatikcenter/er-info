@@ -4,6 +4,9 @@ year: 2015-05-09
 tagline: Festival of Literature and the Arts
 related-persons: "Vladimir Myrtezai, Helidon Gjergji, Adrian Paci, Mirela Kumbaro, Ibro Hasanović, Cauleen Smith"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Tirana Open, absorbing the paMUR visual arts festival, was supposed to be an event comparable to the former Tirana Biennials and become an annually returning festival of art, music, and literature. It was never held again.

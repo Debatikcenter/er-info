@@ -4,6 +4,9 @@ year: 2015-09-11
 tagline: Solo Exhibition at Galerie Kampl
 related-persons: "Michael Schultz, Edi Rama"
 value:
+area:
+enddate:
+layout: project
 ---
 Sept. 11 – Oct. 10, 2015
 

@@ -4,6 +4,9 @@ year: 2016-07-02
 tagline: Solo Exhibition in Museo Pino Pascali
 related-persons: "Helidon Gjergji, Anri Sala, Edi Rama, Santa Nastro"
 value:
+area:
+enddate:
+layout: project
 ---
 
 >The second personal exhibition is dedicated to the New York based Albanian artist Helidon Gjergj and it is part of a project run by Santa Nastro. Born in Tirana,the artist lives and works in New York. He has taken part in many exhibitions around the world, from the 52nd Venice Biennale, to the 8th edition of   Manifesta in Murcia, Spain, to the first Tirana  Biennale. In addition, and just to mention a few more appearances, he has also shown his works at the 12th Venice Biennale of Architecture and other exhibitions held at important international museums such as the New Museum in New York, the Museo Madre in Naples, the Chelsea Art Museum.

@@ -6,4 +6,5 @@ tagline: Curator at the Centre Pompidou
 description:
 related-persons:
 connections:
+layout: person
 ---

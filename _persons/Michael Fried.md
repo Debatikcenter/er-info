@@ -6,4 +6,5 @@ tagline: Art critic and historian
 description:
 related-persons:
 connections:
+layout: person
 ---

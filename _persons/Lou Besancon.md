@@ -6,4 +6,5 @@ tagline: Openfabric
 description:
 related-persons:
 connections:
+layout: person
 ---

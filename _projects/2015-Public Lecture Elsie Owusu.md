@@ -4,6 +4,9 @@ year: 2015-12-14
 tagline: Faculty of Architecture
 related-persons: "Adelina Greca, Elsie Owusu"
 value:
+area:
+enddate:
+layout: project
 ---
 >The United Kingdom Supreme Court (UKSC) is the nal court of appeal for civil cases of the greatest public or constitutional importance for England, Wales, Scotland and Northern Ireland. The 12 Justices hear criminal ases for England, Wales and Northern Ireland and devolution matters for Scotland. As the Judicial Committee of the Privy Council, they also hear cases from some Commonwealth countries.
 Opened in 2009, by HM Queen Elizabeth, UKSC now serves the needs of the lawyers, users and Justices – providing three courtrooms, with modern oces and workplaces. It is Great Britain’s international symbol

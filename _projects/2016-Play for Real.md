@@ -4,6 +4,9 @@ year: 2016-05-28
 tagline: Exhibition at Venice Architecture Biennale 2016, Arsenale
 related-persons: "Freek Persyn, Johan Anrys"
 value:
+area:
+enddate:
+layout: project
 ---
 Presenting the TID Tower.
 

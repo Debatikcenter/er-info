@@ -4,6 +4,9 @@ year: 2005-01-01
 tagline: Awarded to 51N4E
 related-persons: "Edi Rama, Peter Swinnen, Johan Anrys, Freek Persyn, Ulrike Bega"
 value:
+area:
+enddate:
+layout: project
 ---
 * Winner: 51N4E, [CoRDA](http://corda.epoka.edu.al/home-corda-for-tid-tower-interior-design-1291-1307.html), [SymbioticA](http://www.symbiotica.net/en/projects/programmatic/knr/61)
 * Jury:

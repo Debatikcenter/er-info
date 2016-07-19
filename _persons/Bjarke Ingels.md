@@ -6,4 +6,5 @@ tagline: BIG
 description:
 related-persons:
 connections:
+layout: person
 ---

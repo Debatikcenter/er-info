@@ -6,6 +6,7 @@ tagline: Philosopher
 description:
 related-persons:
 connections:
+layout: person
 ---
 Links:
-* 
+*

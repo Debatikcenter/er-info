@@ -6,6 +6,7 @@ tagline: Botanis
 description:
 related-persons:
 connections:
+layout: person
 ---
 Links:
 * <http://ww2.odu.edu/~lmusselm/>

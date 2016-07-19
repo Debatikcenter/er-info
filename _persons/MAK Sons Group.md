@@ -6,4 +6,5 @@ tagline: Kuwaiti construction company
 description:
 related-persons:
 connections:
+layout: person
 ---

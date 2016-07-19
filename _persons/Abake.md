@@ -6,6 +6,7 @@ tagline: Design Collective
 description:
 related-persons:
 connections:
+layout: person
 ---
 Links:
 * <http://abake.fr/>

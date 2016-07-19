@@ -1,9 +1,12 @@
 ---
 name: Molly Nesbit
-type: artist
-country:
-tagline:
+type: other
+country: USA
+tagline: Art theorist
 description:
 related-persons:
 connections:
+layout: person
 ---
+Links:
+* <http://art.vassar.edu/bios/monesbit.html>

@@ -6,4 +6,5 @@ tagline: Mayor of Tirana
 description:
 related-persons: Edi Rama
 connections:
+layout: person
 ---

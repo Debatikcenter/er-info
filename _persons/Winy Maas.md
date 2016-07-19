@@ -6,4 +6,5 @@ tagline: MVRDV
 description:
 related-persons:
 connections:
+layout: person
 ---

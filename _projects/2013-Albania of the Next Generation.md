@@ -4,6 +4,9 @@ year: 2013-08-27
 tagline: Conference
 related-persons: "Anri Sala, Edi Rama, Xaveer de Geyter, Pier Paolo Tamburelli, Francine Houben, Johan Anrys, Andreas Ruby, Rodo Tisnado, Floris Alkemade, Winy Maas, Bjarke Ingels, Rossana Atena, Sasa Randic, Peter Lynn Wilson"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Large-scale conference on territorial reform organized by Edi Rama after his election victory in 2013. Saw the return of many familiar faces from the architecture of his time as Mayor of Tirana.

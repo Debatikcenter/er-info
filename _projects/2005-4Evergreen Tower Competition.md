@@ -4,6 +4,9 @@ year: 2005-01-01
 tagline: Awarded to Arcea Architetti
 related-persons: "Marco Casamonti, Edi Rama"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Winner: Arcea Architetti

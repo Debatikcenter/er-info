@@ -6,7 +6,8 @@ tagline: Curator at MAC Montréal
 description:
 related-persons:
 connections:
+layout: person
 ---
 
 Links:
-* 
+*

@@ -6,4 +6,5 @@ tagline: Executive Director of IABR + iabr/UP
 description:
 related-persons:
 connections:
+layout: person
 ---

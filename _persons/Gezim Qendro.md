@@ -6,4 +6,5 @@ tagline: Professor of Art History, Polis University
 description:
 related-persons:
 connections:
+layout: person
 ---

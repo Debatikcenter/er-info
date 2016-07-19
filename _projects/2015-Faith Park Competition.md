@@ -4,6 +4,9 @@ year: 2015-12-23
 tagline: Awarded to UNLAB
 related-persons: "Adelina Greca, Andreas Faoro, Francesca Rizzetto, Erion Veliaj, Eglantina Gjermeni, Mirela Kumbaro, Edi Rama, Catherine Mosbach, Lytton John Musselman, Edith Katz, Marco Casagrande, Niko Peleshi, Arbjan Mazniku, Arta Dollani"
 value: €30,000
+area:
+enddate:
+layout: project
 ---
 * Winner: UNLAB. Team: Andreas Faoro, Francesca Rizzetto.
 * Jury: Catherine Mosbach, Lytton John Musselman, Edith Katz, Marco Casagrande, Niko Peleshi, Arbjan Mazniku, Arta Dollani

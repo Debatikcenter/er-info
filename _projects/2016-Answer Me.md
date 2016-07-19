@@ -4,6 +4,9 @@ year: 2016-03-32
 tagline: Solo exhibition of Anri Sala at The New Museum
 related-persons: "Anri Sala, Edi Rama, Maja Hoffman, Michael Schultz"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Solo exhibition @ The New Museum, 03-02-2016 - 10/04/2016

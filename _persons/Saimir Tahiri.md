@@ -6,6 +6,7 @@ tagline: Minister of Interior Affairs
 description:
 related-persons: Edi Rama
 connections:
+layout: person
 ---
 
 Links:

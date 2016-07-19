@@ -4,6 +4,9 @@ year: 2015-12-01
 tagline: Openfabric
 related-persons: "Francesco Garofalo, Olivier Sobels, Ekaterina Andrusenko, Dewi van de Weerd, Martin Sobota"
 value:
+area:
+enddate:
+layout: project
 ---
 
 Openfabric in collaboration with [MVO Nederland](http://mvonederland.nl/), [Cityförster](http://www.cityfoerster.net/index.php?page=6&lng=2), [Alterra](http://www.wageningenur.nl/), [Sawadee](https://www.sawadee.nl/?gclid=CLLIy6PWgc0CFZEy0wodsbICUA), [Boer Bos](http://www.boerbos.nl/), [GutundGut](http://gutundgut.ch/en/), Arber Togani

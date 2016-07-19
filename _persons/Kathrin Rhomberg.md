@@ -6,4 +6,5 @@ tagline: Director of Kontakt. Art Collection
 description:
 related-persons:
 connections:
+layout: person
 ---

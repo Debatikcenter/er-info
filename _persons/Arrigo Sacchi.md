@@ -6,4 +6,5 @@ tagline: Former trainer of A.C. Milan
 description:
 related-persons:
 connections:
+layout: person
 ---

@@ -6,6 +6,7 @@ tagline: .Fabric
 description:
 related-persons:
 connections:
+layout: person
 ---
 Links:
 * <http://www.fabrications.nl/>

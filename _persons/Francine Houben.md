@@ -6,4 +6,5 @@ tagline: Mecanoo
 description:
 related-persons:
 connections:
+layout: person
 ---

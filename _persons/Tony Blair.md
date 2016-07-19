@@ -6,4 +6,5 @@ tagline: Unpaid advisor to Edi Rama
 description:
 related-persons: Edi Rama
 connections:
+layout: person
 ---

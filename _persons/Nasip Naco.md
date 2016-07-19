@@ -6,6 +6,7 @@ tagline: Former Minister of Justice (2013-2016)
 description:
 related-persons: Edi Rama
 connections:
+layout: person
 ---
 
 Links:
