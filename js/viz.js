@@ -6,6 +6,8 @@ var svg = d3.select("#svg"),
     svg.attr("width", width-10)
       .attr("height", height-65);
 
+var container;
+
 var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 var simulation = d3.forceSimulation()
@@ -14,22 +16,11 @@ var simulation = d3.forceSimulation()
     .force("center", d3.forceCenter(width / 2, height / 2));
 
 // var zoom = d3.behavior.zoom()
-svg.call(d3.zoom()
-.scaleExtent([0.1, 10])
-.on("zoom", zoomed));
-
-function zoomed(){
-  // console.log(d3.event.translate);
-  // console.log(d3.event.scale);
-  // var transform = d3.transform();
-  //
-  // svg.attr("transform", "translate(" + transform.x + "," + transform.y + ")scale(" + transform.k + ")");
-}
 
 d3.json( baseurl+"/persons.json", function(error, graph) {
   if (error) throw error;
 
-  var container = svg.append("g");
+  container = svg.append("g");
 
   var link = container.append("g")
       .attr("class", "links")
@@ -112,6 +103,15 @@ d3.json( baseurl+"/persons.json", function(error, graph) {
   }
 });
 
+svg.call(d3.zoom()
+.scaleExtent([0.1, 10])
+.on("zoom", zoomed));
+
+function zoomed(){
+  var transform = d3.event.transform;
+
+  container.attr("transform", "translate(" + transform.x + "," + transform.y + ")scale(" + transform.k + ")");
+}
 
   function ticked() {
     link
