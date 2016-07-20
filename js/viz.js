@@ -1,3 +1,5 @@
+var baseurl = $("p#baseurl").text();
+
 var svg = d3.select("#svg"),
     width = window.innerWidth,
     height = window.innerHeight;
@@ -24,7 +26,7 @@ function zoomed(){
   // svg.attr("transform", "translate(" + transform.x + "," + transform.y + ")scale(" + transform.k + ")");
 }
 
-d3.json("/persons.json", function(error, graph) {
+d3.json( baseurl+"/persons.json", function(error, graph) {
   if (error) throw error;
 
   var container = svg.append("g");

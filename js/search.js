@@ -1,9 +1,9 @@
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '../search.json',
+  json: baseurl + '/search.json',
   searchResultTemplate: '<li><a href="#" data-id={id} title="{desc}">{title}</a></li>',
-  noResultsText: '<span>Nuk u gjet asnjë rezultat</span>',
+  noResultsText: '<span>No results</span>',
   limit: 10,
   fuzzy: false,
 });
