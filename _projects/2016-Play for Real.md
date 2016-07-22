@@ -1,10 +1,10 @@
 ---
 name: Play for Real
 year: 2016-05-28
-tagline: Exhibition at Venice Architecture Biennale 2016, Arsenale
+tagline: Exhibition at 15th Venice Architecture Biennale 2016, Arsenale
 related-persons: "Freek Persyn, Johan Anrys"
 value:
-area:
+area: culture
 enddate:
 layout: project
 ---

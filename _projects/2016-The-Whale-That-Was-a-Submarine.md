@@ -1,19 +1,17 @@
 ---
 name: "The Whale That Was a Submarine: Contemporary Positions from Albania and Kosovo"
-year: 2015-07-15
+year: 2016-07-15
 tagline: Group exhibition at the Ludwig Múzeum Budapest
 related-persons: "Endri Dani, Helidon Gjergji, Alban Hajdinaj, Edi Hila, Ardian Isufi, Ilir Kaso, Olson Lamaj, Armando Lulaj, Violana Murataj, Matilda Odobashi, Adrian Paci, Remijon Pronja, Anri Sala, Gentian Shkurti, Fani Zguro, Jakup Ferri, Flaka Haliti, Haveit, Majlinda Hoxha, Genc Kadriu, Koja, Dren Maliqi, Alban Muja, Driton Selmani, Sislej Xhafa, Julia Fabényi"
 value:
-area:
-enddate:
+area: culture
+enddate: 2016-09-11
 layout: project
 ---
 Participating artists
 * Albania: Endri Dani, Helidon Gjergji, Alban Hajdinaj, Edi Hila, Ardian Isufi, Ilir Kaso, Olson Lamaj, Armando Lulaj, Violana Murataj, Matilda Odobashi, Adrian Paci, Remijon Pronja, Anri Sala, Gentian Shkurti, Fani Zguro
 * Kosovo: Jakup Ferri, Flaka Haliti, Haveit, Majlinda Hoxha, Genc Kadriu, Koja, Dren Maliqi, Alban Muja, Driton Selmani, Sislej Xhafa
 * Curator: Julia Fabényi
-
-09/24/2015 to 09/27/2015
 
 >One of the priorities at Ludwig Museum – Museum of Contemporary Art, Budapest is to keep track of the contemporary art scenes and new tendencies of the Central and Eastern European region and the post-socialist countries. The exhibition presenting a selection of contemporary positions from the art scenes of Albania and Kosovo in the summer of 2016 is part of this tendency. Focusing on the art practices of the last 10–15 years in the two areas, the exhibition juxtaposes the freshest voices from the two countries.
 The exhibition does not aim to be complete: it does not provide retrospective overview of the evolution of the two cultural milieus, nor does it examine the activity of artists from a historical aspect. An array of 25 artists and art collectives, the selection grasps the dynamics pervading the two scenes: the exhibition at once presents works that can be considered milestones, statements that facilitated the international presence of each scene, and projects engendered as imprints or witnesses of long processes. It is through these positions that the selection explores the phenomena that have functioned as the driving force in each country and its artists.

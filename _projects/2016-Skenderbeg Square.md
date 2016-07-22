@@ -4,7 +4,7 @@ year: 2016-04-07
 tagline: A reimplementation of the 51N4E + Anri Sala plan
 related-persons: "Anri Sala, Freek Persyn, Johan Anrys, Erion Veliaj"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

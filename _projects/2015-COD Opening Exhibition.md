@@ -5,7 +5,7 @@ tagline:
 related-persons: "Edi Rama, Falma Fshazi, Carsten Höller, Thomas Demand, Philippe Parreno, Anri Sala, Edit Pulaj, Zef Paci"
 value:
 area:
-enddate:
+enddate: 2015-12-31
 layout: project
 ---
 Designed by 51N4E

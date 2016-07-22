@@ -5,11 +5,9 @@ tagline: PS government headed by Pandeli Majko
 related-persons: "Pandeli Majko, Edi Rama"
 value:
 area:
-enddate:
+enddate: 1999-10-25
 layout: project
 ---
-
-Until 1999-10-25
 Rama was Minister of Culture, Youth, and Sport
 
 Links:

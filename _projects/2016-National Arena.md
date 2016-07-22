@@ -4,7 +4,7 @@ year: 2016-04-29
 tagline: Granted to Arcea Architetti and Atelier 4
 related-persons: "Marco Casamonti, Edi Rama, Alban Efthimi"
 value: 50 M€
-area:
+area: urbanism
 enddate:
 layout: project
 ---

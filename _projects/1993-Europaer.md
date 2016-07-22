@@ -4,8 +4,8 @@ year: 1993-10-02
 tagline: Group Exhibition at Grazer Kunstverein
 related-persons: "Edi Rama, Edi Hila"
 value:
-area: 
-enddate:
+area:
+enddate: 1993-10-26
 layout: project
 ---
 >Eröffnung am Samstag, dem 02. Oktober 1993, um 12.00 Uhr

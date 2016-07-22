@@ -4,8 +4,8 @@ year: 2015-11-07
 tagline: Book presentation of Alastair Campbell's "Winners" at COD
 related-persons: "Edi Rama, Alastair Campbell, Gianni De Biasi, Arrigo Sacchi"
 value:
-area:
-enddate:
+area: culture
+enddate: 2015-11-07
 layout: project
 ---
 [According](http://www.alastaircampbell.org/blog/2014/07/12/albania-me-and-the-sun-on-sunday-a-little-context-via-prebutttal/) to Alastair Campbell:

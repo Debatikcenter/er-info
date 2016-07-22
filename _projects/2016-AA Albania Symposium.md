@@ -4,7 +4,7 @@ year: 2016-04-28
 tagline: Symposium at the Architecture Association, London
 related-persons: "Erion Veliaj, Ulrike Bega, Elsie Owusu, Donna Hasanaj"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

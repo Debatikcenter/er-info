@@ -4,7 +4,7 @@ year: 2015-01-01
 tagline:
 related-persons: "Stefano Boeri, Rem Koolhaas, Petra Blaisse"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

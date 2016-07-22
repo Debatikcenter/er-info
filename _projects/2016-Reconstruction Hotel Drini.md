@@ -4,7 +4,7 @@ year: 2016-02-17
 tagline: Reconstruction by Atelier4
 related-persons: "Edi Rama, Alban Efthimi"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---
