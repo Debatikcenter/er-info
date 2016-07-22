@@ -4,8 +4,8 @@ year: 2016-07-02
 tagline: Solo Exhibition in Museo Pino Pascali
 related-persons: "Helidon Gjergji, Anri Sala, Edi Rama, Santa Nastro"
 value:
-area:
-enddate:
+area: culture
+enddate: 2016-09-02
 layout: project
 ---
 

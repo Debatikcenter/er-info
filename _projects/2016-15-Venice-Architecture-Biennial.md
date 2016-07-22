@@ -1,11 +1,11 @@
 ---
 name: I Have Left You the Mountain
-year: 2016-06-01
-tagline: Albanian Pavilion at the Venice Architecture Biennial 2016
+year: 2016-05-28
+tagline: Albanian Pavilion at the 15th Venice Architecture Biennial 2016
 related-persons: "Mirela Kumbaro, Simon Battisti, Leah Whitman-Salkin, Edit Pulaj, Elisabetta Terragni, Anri Sala, Adelina Greca, Arta Dollani, Gëzim Qëndro, Åbäke"
 value:
 area:
-enddate:
+enddate: 2016-11-27
 layout: project
 ---
 * Winner: Simon Battisti (curator), Leah Whitman-Salkin (curator), Åbäke (design), Edit Pulaj (production)

@@ -1,11 +1,11 @@
 ---
 name: Tirana Open 1 – paMUR
-year: 2015-05-09
+year: 2015-05-06
 tagline: Festival of Literature and the Arts
-related-persons: "Vladimir Myrtezai, Helidon Gjergji, Adrian Paci, Mirela Kumbaro, Ibro Hasanović, Cauleen Smith"
+related-persons: "Vladimir Myrtezai, Helidon Gjergji, Adrian Paci, Mirela Kumbaro, Ibro Hasanović, Cauleen Smith, Alban Muja, Anri Sala, Driant Zeneli, Matilda Odobashi"
 value:
-area:
-enddate:
+area: culture
+enddate: 2015-05-13
 layout: project
 ---
 

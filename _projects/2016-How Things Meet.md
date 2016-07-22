@@ -4,8 +4,8 @@ year: 2016-05-27
 tagline: Publication by 51N4E, Falma Fshazi, and Stefano Graziani
 related-persons: "51N4E, Falma Fshazi, Stefano Graziani, Andreas Ruby, Freek Persyn"
 value:
-area:
-enddate:
+area: culture
+enddate: 2016-05-27
 layout: project
 ---
 

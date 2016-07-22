@@ -1,7 +1,7 @@
 ---
 name: Dominique Gonzalez Foerster
 type: artist
-country:
+country: France
 tagline:
 description:
 related-persons:

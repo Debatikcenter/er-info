@@ -4,8 +4,8 @@ year: 2015-12-23
 tagline: Lecture at Tulla Culture Center
 related-persons: "Adelina Greca, Edith Katz, Rubin Beqo"
 value:
-area:
-enddate:
+area: urbanism
+enddate: 2015-12-23
 layout: project
 ---
 >More than half of the planet’s population are now living in cities. This vast global trend towards urbanization that is underway encompasses a surge of new and old metropolises that are in the process of developing. Decisive to the city’s performance, liveability and sustainability for future generations and underwriting this development is the urban landscape.

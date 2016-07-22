@@ -4,7 +4,7 @@ year: 2016-01-09
 tagline: Public intervention by Edi Rama in Mantova
 related-persons: "Edi Rama, Lorenza Baroncelli, Mattia Palazzi"
 value:
-area:
+area: culture
 enddate:
 layout: project
 ---

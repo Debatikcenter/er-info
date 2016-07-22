@@ -4,8 +4,8 @@ year: 2015-12-03
 tagline: Group Exhibition at Palast Galerie
 related-persons: "Michael Schultz, Gerhard Charles Rump, Edi Rama, Jean-Yves Klein, Gerhard Richter"
 value:
-area:
-enddate:
+area: culture
+enddate: 2015-12-11
 layout: project
 ---
 >The “Palastgalerie” in Berlin shows “Die Spielchen des Freund Hein / The Little Games of Mr. Joe Black”
@@ -16,10 +16,6 @@ What’s fascinating in this show is how many different aspects are treated in t
 Death and Transitoriness in contemporary art
 
 Curated by Gerhard Charles Rump
-
-Palastgalerie (in cooperation with RAR Gallery), Reinhardtstrasse 3, D-10117 Berlin
-Opening: December 3rd, 2015; Duration: Eight days only! Until December 11th, 2015
-Gallery opening times: Tue – Fri 1 to 6 pm, Sat noon to 4 pm, and by appointment
 
 List of participating artists (without liability) in alphabetical order:
 Bernhard Ailinger (Potsdam), Michaela Ernst (Potsdam), Lilli Hill (Zürich/Berlin), David P. Holland (London), Jessica F. Holt (New Jersey/Berlin), Rita Kashap (Berlin), Uwe Kempen (Berlin), Jean-Yves Klein (Berlin), Markus Mende (Berlin), Mari Mssare (Tbilissi/Berlin), Hannah Melnik (Bonn/Düsseldorf), Edi Rama (Tirana), Gerhard Richter (Düsseldorf), Catrin Rothe (Berlin), Gerhard Charles Rump (Palo Alto/Berlin), Sabina Sakoh (Berlin), Susanne Scholz (Lauchheim), Jochem Roman Schneider (Kiel), Marcus Sendlinger & Li Alin, RAE (Berlin/Montréal), Gerard Waskievitz (Berlin), Frank Wegner (Berlin)

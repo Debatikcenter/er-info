@@ -1,11 +1,11 @@
 ---
 name: Edi Rama
-year: 2016-03-32
+year: 2016-03-02
 tagline: Solo exhibition of Anri Sala at The New Museum
 related-persons: "Anri Sala, Edi Rama, Maja Hoffman, Michael Schultz"
 value:
-area:
-enddate:
+area: culture
+enddate: 2016-10-04
 layout: project
 ---
 

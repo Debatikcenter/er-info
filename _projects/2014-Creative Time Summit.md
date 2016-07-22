@@ -8,9 +8,6 @@ area:
 enddate:
 layout: project
 ---
-
-Exhibition in Naples, 31/05/2016 to 22/07/2016 @ Alfonso Artico, curated by Joseph Grima and Lorenza Baroncelli.
-
 Links:
 * <http://creativetime.org/summit/about-the-summit/overview-2014/>
 * <http://creativetime.org/summit/speakers/edi-rama/>

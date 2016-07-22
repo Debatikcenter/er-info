@@ -5,11 +5,9 @@ tagline: PS government headed by Ilir Meta
 related-persons: "Ilir Meta, Edi Rama"
 value:
 area:
-enddate:
+enddate: 2001-09-06
 layout: project
 ---
-
-Until 2001-09-06
 Rama was Minister of Culture, Youth, and Sport, left on 2000-10-26 to become Mayor of Tirana
 
 Links:

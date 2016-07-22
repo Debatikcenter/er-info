@@ -4,8 +4,8 @@ year: 2016-02-22
 tagline: Exhibition in FAB Gallery
 related-persons: "Adelina Greca, Maks Velo, Arben Biçoku, Dorian Tytymçe"
 value:
-area:
-enddate:
+area: culture
+enddate: 2016-03-06
 layout: project
 ---
 * Curators: Adelina Greca, Albana Koçollari, Anna Bruna Menghini, Frida Pashako, Domenico Pastore, Giuseppe Resta.

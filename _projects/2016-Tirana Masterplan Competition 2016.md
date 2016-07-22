@@ -4,7 +4,7 @@ year: 2016-01-01
 tagline: Awarded to Stefano Boeri Architetti, UNLAB, IND
 related-persons: "Stefano Boeri, Erion Veliaj, Lorenza Baroncelli, Joni Baboçi, Andreas Faoro, Michele Brunello, Francesca Rizzetto, Felix Madrazo, Arman Akdogan"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---
