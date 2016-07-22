@@ -2,16 +2,32 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: baseurl + '/search.json',
-  searchResultTemplate: '<li><a href="#" data-id={id} title="{desc}">{title}</a></li>',
+  searchResultTemplate: '<li><a href="#{id}" data-id={id}>{title}</a></li>',
   noResultsText: '<span>No results</span>',
   limit: 10,
   fuzzy: false,
 });
 
 $(document).on( "click", "#results-container li a", function(){
-  var id = $(this).data("id");
-  console.log(id);
-  $("circle[data-id='"+id+"']").focus();
+  query = $(this).attr("data-id");
+  var name = $(this).text();
+  var url = window.location.href;
+  if( url.indexOf('#') != -1 ){
+    var base = url.substring(0, url.indexOf('#'));
+    window.location.href = base + "#" + query;
+  } else {
+    window.location.href = url + "#" + query;
+  }
+  console.log( query );
+  location.reload();
+
+  // $("circle[data-id='"+id+"']").click();
+  // $("svg").css({"margin-left": "-30%"})
+  // $("svg>g").remove();
+  // createGraph( query );
+
+  // $("circle[data-id='"+query+"']").click();
+  console.log("Graph created");
 });
 
 var focus = -1;
