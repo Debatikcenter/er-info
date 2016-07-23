@@ -4,7 +4,7 @@ year: 2015-11-08
 tagline: Awarded to Openfabric, Cityförster, SymbioticA, PolyLester
 related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Francesco Garofalo, Olivier Sobels, Martin Sobota, Ulrike Bega, Gabriel Lester, Martine Vledder, Sasa Randic, Jonida Turani, Peter Herrle, Freek Persyn, Johan Anrys, Artan Shkreli"
 value: €85,000
-area:
+area: urbanism
 enddate:
 layout: project
 ---

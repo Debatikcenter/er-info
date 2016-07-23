@@ -4,7 +4,7 @@ year: 2015-04-11
 tagline: Awarded to UNLAB, Openfabric, CoRDA, TU Delft
 related-persons: "Adelina Greca, Edi Rama, Benet Beci, Andreas Faoro, Francesca Rizzetto, Francesco Garofalo, Emanuele Paladin, Olivier Sobels, Lou Besançon"
 value: €15,000 (first prize); €10,000 (second prize); €5,000 (third prize)
-area:
+area: urbanism
 enddate:
 layout: project
 ---

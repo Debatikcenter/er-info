@@ -4,7 +4,7 @@ year: 2013-06-23
 tagline:
 related-persons: "Edi Rama, Jutta Benzenberg"
 value:
-area:
+area: government
 enddate:
 layout: project
 ---

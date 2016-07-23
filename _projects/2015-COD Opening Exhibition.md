@@ -4,7 +4,7 @@ year: 2015-07-08
 tagline:
 related-persons: "Edi Rama, Falma Fshazi, Carsten Höller, Thomas Demand, Philippe Parreno, Anri Sala, Edit Pulaj, Zef Paci"
 value:
-area:
+area: culture
 enddate: 2015-12-31
 layout: project
 ---

@@ -4,7 +4,7 @@ year: 1999-06-13
 tagline: Albanian Representation
 related-persons: "Edi Rama, Alban Hajdinaj, Edi Hila, Dominique Gonzalez Foerster, Philippe Parreno, Anri Sala, Olafur Eliasson, Rirkrit Tiravanija, Sislej Xhafa, Adrian Paci"
 value:
-area:
+area: culture
 enddate: 1999-11-17
 layout: project
 ---

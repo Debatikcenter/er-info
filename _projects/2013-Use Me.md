@@ -4,8 +4,8 @@ year: 2013-12-03
 tagline: Lecture at Piramida
 related-persons: "Andreas Ruby, Adelina Greca"
 value:
-area:
-enddate:
+area: urbanism
+enddate: 2013-12-03
 layout: project
 ---
 Organized by Atelier Albania in the Pyramid, later to be included in the Cultural Quartet Competition.

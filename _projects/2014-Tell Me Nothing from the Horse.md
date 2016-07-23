@@ -4,7 +4,7 @@ year: 2014-08-24
 tagline: Group Exhibition at Michael Schulz Gallery
 related-persons: "Michael Schultz, Edi Rama, Rebecca Raue, Jean-Yves Klein, Burkhard Held, Stephan Kaluza, Bernd Kirschner, Römer + Römer"
 value:
-area:
+area: culture
 enddate: 2014-09-02
 layout: project
 ---

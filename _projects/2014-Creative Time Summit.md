@@ -4,8 +4,8 @@ year: 2014-11-14
 tagline: Keynote lecture
 related-persons: "Edi Rama, Magdalena Malm, Nato Thompson"
 value:
-area:
-enddate:
+area: culture
+enddate: 2014-11-15
 layout: project
 ---
 Links:

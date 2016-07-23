@@ -4,7 +4,7 @@ year: 2005-01-01
 tagline: Under the Chairmanship of Edi Rama
 related-persons: "Edi Rama, Pandeli Majko, Saimir Tahiri, Artan Gaçi, Niko Peleshi, Eglantina Gjermeni, Lindita Nikolla"
 value:
-area:
+area: government
 enddate:
 layout: project
 ---

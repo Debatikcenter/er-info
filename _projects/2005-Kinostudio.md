@@ -4,7 +4,7 @@ year: 2005-01-01
 tagline: Residential building
 related-persons: "Elia Zenghelis"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

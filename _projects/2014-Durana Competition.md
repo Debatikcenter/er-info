@@ -4,7 +4,7 @@ year: 2015-01-01
 tagline: Awarded to Stefano Graziani
 related-persons: "Stefano Graziani, Andreas Ruby, Xaveer de Geyter, Adelina Greca"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

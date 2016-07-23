@@ -4,8 +4,8 @@ year: 2015-12-01
 tagline: Openfabric
 related-persons: "Francesco Garofalo, Olivier Sobels, Ekaterina Andrusenko, Dewi van de Weerd, Martin Sobota"
 value:
-area:
-enddate:
+area: urbanism
+enddate: 2016-06-01
 layout: project
 ---
 

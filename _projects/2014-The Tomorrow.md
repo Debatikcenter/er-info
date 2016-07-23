@@ -4,7 +4,7 @@ year: 2014-08-20
 tagline: Venice Architecture Biennale 2014
 related-persons: "Stefano Boeri, Lorenza Baroncelli, Pier Paolo Tamburelli"
 value:
-area:
+area: culture
 enddate:
 layout: project
 ---

@@ -4,7 +4,7 @@ year: 2015-01-01
 tagline:
 related-persons: "Edi Rama, Johan Anrys, Freek Persyn"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

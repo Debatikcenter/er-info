@@ -4,7 +4,7 @@ year: 2005-01-01
 tagline: Awarded to 51N4E
 related-persons: "Edi Rama, Peter Swinnen, Johan Anrys, Freek Persyn, Ulrike Bega"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

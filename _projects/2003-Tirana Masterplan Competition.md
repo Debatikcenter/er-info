@@ -4,7 +4,7 @@ year: 2003-01-01
 tagline: Awarded to Architecture Studio
 related-persons: "Edi Rama, Rodo Tisnado"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

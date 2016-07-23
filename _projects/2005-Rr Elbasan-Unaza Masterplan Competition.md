@@ -4,7 +4,7 @@ year: 2005-01-01
 tagline: Awarded to MVRDV
 related-persons: "Rossana Atena, Winy Maas, Johan Anrys, Valerio Olgiati, Gener2"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

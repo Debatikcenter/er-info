@@ -4,8 +4,8 @@ year: 2014-10-16
 tagline: Lecture at te John F. Kennedy Jr. Forum, Harvard University
 related-persons: "Edi Rama, Elaine Papoulias, Ricardo Hausmann"
 value:
-area:
-enddate:
+area: government
+enddate: 2014-10-16
 layout: project
 ---
 

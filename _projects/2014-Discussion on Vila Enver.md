@@ -4,8 +4,8 @@ year: 2014-02-24
 tagline:
 related-persons: "Andreas Ruby, Adelina Greca, Eglantina Gjermeni, Erion Veliaj, Mirela Kumbaro"
 value:
-area:
-enddate:
+area: urbanism
+enddate: 2014-02-24
 layout: project
 ---
 

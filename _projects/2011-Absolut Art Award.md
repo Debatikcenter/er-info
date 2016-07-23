@@ -4,8 +4,8 @@ year: 2011-07-13
 tagline: Awarded to Anri Sala
 related-persons: "Anri Sala, Christine Macel, Rirkrit Tiravanija"
 value:
-area:
-enddate:
+area: culture
+enddate: 2011-07-13
 layout: project
 ---
 * Jury: Christine Macel and Rirkrit Tiravanija, among others.

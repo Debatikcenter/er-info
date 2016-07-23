@@ -4,7 +4,7 @@ year: 2003-01-01
 tagline:
 related-persons: "Elia Zenghelis, Edi Rama, Vedran Mimica, Pier Paolo Tamburelli"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

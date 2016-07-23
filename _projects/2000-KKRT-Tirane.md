@@ -4,7 +4,7 @@ year: 2000-10-11
 tagline: Approved building permits during Rama's period as mayor
 related-persons: "Artan Shkreli, Arben Biçoku, Daniel Gjoni, Edi Rama"
 value:
-area:
+area: government
 enddate: 2011-07-25
 layout: project
 ---

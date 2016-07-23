@@ -4,7 +4,7 @@ year: 2014-03-31
 tagline: Lecture at National Historical Museum
 related-persons: "Adelina Greca, Dietmar Steiner"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

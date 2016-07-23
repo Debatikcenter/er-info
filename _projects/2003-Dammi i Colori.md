@@ -4,7 +4,7 @@ year: 2003-01-01
 tagline:
 related-persons: "Anri Sala, Liam Gillick, Edi Rama"
 value:
-area:
+area: culture
 enddate:
 layout: project
 ---

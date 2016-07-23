@@ -4,7 +4,7 @@ year: 2003-01-01
 tagline: HQ of Tirana Bank
 related-persons: "Alban Efthimi, Rodo Tisnado"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

@@ -4,7 +4,7 @@ year: 2008-12-01
 tagline: Residential building
 related-persons: "Rossana Atena, Marco Sardella, Daniel Gjoni, Edi Rama"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

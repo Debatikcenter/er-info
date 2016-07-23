@@ -4,7 +4,7 @@ year: 2003-05-16
 tagline: Group Exhibition at Sammlung Essl
 related-persons: "Edi Rama, Harald Szeemann, Alban Hajdinaj, Edi Hila, Adrian Paci, Anri Sala, Gentian Shkurti, Ornela Vorpsi, Vénera Kastrati, Sislej Xhafa, Erzen Shkololli"
 value:
-area:
+area: culture
 enddate: 2003-09-28
 layout: project
 ---

@@ -4,7 +4,7 @@ year: 2013-01-01
 tagline: Monument for four civilians killed in opposition protests on January 21, 2011
 related-persons: "Peter Swinnen, Freek Persyn, Johan Anrys, Edi Rama"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---
