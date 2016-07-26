@@ -8,4 +8,4 @@ related-persons: Edi Rama
 connections:
 layout: person
 ---
-Former speech writer of Edi Rama
+Former speech writer of Edi Rama, as Director of Communication and Research at the PM's Office.

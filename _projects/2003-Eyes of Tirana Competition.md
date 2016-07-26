@@ -9,3 +9,4 @@ enddate:
 layout: project
 ---
 Jury: Peter Lynn Wilson
+Never executed, supposedly on the place where there used to be the Fair.

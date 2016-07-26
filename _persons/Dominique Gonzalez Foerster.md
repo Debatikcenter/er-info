@@ -1,5 +1,5 @@
 ---
-name: Dominique Gonzalez Foerster
+name: "Dominique Gonzalez-Foerster"
 type: artist
 country: France
 tagline:

@@ -8,4 +8,4 @@ related-persons: Edi Rama, Daniel Gjoni
 connections:
 layout: person
 ---
-Sfera Studio founded in 1996 with Daniel Gjoni
+Sfera Studio founded in 1996 with Daniel Gjoni. Architect of iconic Tirana landmarks such as "Kompleksi Taiwan" and the building where former PM Sali Berisha lives. (check!)

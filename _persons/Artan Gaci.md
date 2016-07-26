@@ -8,3 +8,7 @@ related-persons:
 connections:
 layout: person
 ---
+Former sculptor.
+
+Links:
+* <https://www.parlament.al/deputet/artan-gaci/>

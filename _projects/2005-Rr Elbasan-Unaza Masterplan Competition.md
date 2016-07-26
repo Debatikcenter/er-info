@@ -2,7 +2,7 @@
 name: Rr. Elbasan/Unaza Urban Complex Competition
 year: 2005-01-01
 tagline: Awarded to MVRDV
-related-persons: "Rossana Atena, Winy Maas, Johan Anrys, Valerio Olgiati, Gener2"
+related-persons: "Rossana Atena, Winy Maas, Johan Anrys, Valerio Olgiati, Bashkim Ulaj"
 value:
 area: urbanism
 enddate:

@@ -8,7 +8,7 @@ area: government
 enddate: 1999-10-25
 layout: project
 ---
-Rama was Minister of Culture, Youth, and Sport
+Rama was Minister of Culture, Youth, and Sport, and officially not yet a member of the Socialist Party.
 
 Links:
 * <http://shtetiweb.org/2013/02/11/qeveria-e-pare-e-pandeli-majkos/>
