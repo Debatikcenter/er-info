@@ -2,7 +2,7 @@
 name: American Business Center
 year: 2008-01-01
 tagline:
-related-persons: "Rodo Tisnado, Alban Xhillari, Edi Rama, Alban Ethimi"
+related-persons: "Rodo Tisnado, Alban Xhillari, Edi Rama, Alban Efthimi"
 value:
 area: urbanism
 enddate: 2016-06-01

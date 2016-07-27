@@ -1,6 +1,6 @@
 ---
-name: Roberto Pinto
-type: curator
+name: Alfred Kedhi
+type:
 country:
 tagline:
 description:

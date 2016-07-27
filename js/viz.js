@@ -64,6 +64,26 @@ function createGraph( query ){
       persons = graph.nodes;
     }
 
+    // var temp = [];
+    // for(var link in links){
+    //   var source = links[link].source.id;
+    //   var target = links[link].target.id;
+    //   links[link].grade = 0;
+    //   for(var i=link; i<links.length; i++){
+    //     if(links[i].source.id == source && links[i].target.id == target){
+    //       links[link].grade++;
+    //       if(i>link){
+    //         links[link].project = links[link].project + ", " + links[i].project
+    //       }
+    //       links.pop(i);
+    //     }
+    //   }
+    //   // var grep = $.grep(links, function(n){ return (n.source.id = source && n.target.id == target && n.index != link) });
+    //   // console.log(grep);
+    //   // break;
+    // }
+    // var newlinks = links; 
+
     container = svg.append("g");
 
     root = persons.find(function(p){ return p.id == query; });

@@ -1,6 +1,6 @@
 ---
-name: Roberto Pinto
-type: curator
+name: Nicholas Bourriaud
+type:
 country:
 tagline:
 description:

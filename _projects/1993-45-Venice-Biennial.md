@@ -2,7 +2,7 @@
 name: 45th Venice Biennial – '93 Aperto
 year: 1993-06-13
 tagline:
-related-persons: "Francesco Bonami, Giancarlo Politi, Dominique Gonzalez-Foerster, Philippe Parreno, Rikrit Tiravanija, Carsten Höller, Nicholas Bourriaud"
+related-persons: "Francesco Bonami, Giancarlo Politi, Dominique Gonzalez-Foerster, Philippe Parreno, Rirkrit Tiravanija, Carsten Höller, Nicholas Bourriaud"
 value:
 area: culture
 enddate: 1993-10-10
