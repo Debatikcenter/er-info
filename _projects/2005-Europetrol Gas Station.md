@@ -2,7 +2,7 @@
 name: Europetrol Gas Station
 year: 2005-01-01
 tagline: 51N4E, Atelier 4
-related-persons: "Peter Swinnen, Freek Persyn, Johan Anrys, Alban Efthimi"
+related-persons: "Peter Swinnen, Freek Persyn, Johan Anrys, Alban Efthimi, Frident Kuqi"
 value:
 area: urbanism
 enddate: 2006-01-01

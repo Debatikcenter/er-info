@@ -19,7 +19,7 @@ Many artists and curators later involved with Albania here come for the first ti
 Check which artists were also in Onufri 1998 and Manifesta 3.
 
 Curators & Artists:
-* Ahu Antmen (Turkey): Canan Beykal, Rüçhan Sahinolu, Melih Görgün, Denizhan özer, Ferhat özgür
+* Ahu Antmen (Turkey): Canan Beykal, Rüçhan Sahinolu, Melih Görgün, Denizhan Özer, Ferhat Özgür
 * Daniele Balice (Fashion): Yagail Azrouel, Benjamin Cho, Pierrot, Raf Simons, United Bamboo
 * Vanessa Beecroft (USA): Autumn Rooney, Giasco Bertoli, Annika Larsson, Tobias Bernstrup, Noah Sheldon, Mai Ueda, Mike Calvert, Daria Martin, Jonah Freeman, Fia Backstrom, Gabriele di Matteo, Luca Stoppini, Roger White, Molly Smith, John Trembley, Gary Rough, HadjIstefanou Panagiotis
 * Francesco Bonami (INTERNATIONAL): Pavel Althamer, Helidon Gjergji, Ludmila Gorlova, Julie Henry, Johannes Kahrs, Gabriel Kuri, Marepe, Damian Ortega, Bojan Sarcevic, Christian Silva

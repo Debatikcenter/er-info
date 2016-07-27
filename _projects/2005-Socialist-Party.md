@@ -8,7 +8,7 @@ area: government
 enddate:
 layout: project
 ---
-Until today.
+Until today. Add other cabinet members
 
 Gramoz Ruçi (??)
 Pandeli Majko (1992, PS MP)

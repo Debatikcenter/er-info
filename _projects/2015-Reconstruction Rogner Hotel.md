@@ -1,7 +1,7 @@
 ---
 name: Reconstruction of Hotel Rogner
 year: 2015-06-03
-tagline: Constructed by Eurocol
+tagline: Constructed by Eurocol shpk
 related-persons: "Daniel Gjoni, Artan Shkreli, Pandi Carapuli"
 value: 99,910,000 ALL
 area: urbanism

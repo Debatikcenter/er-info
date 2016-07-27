@@ -1,7 +1,7 @@
 ---
-name: Nicolas Bourriaud
-type: curator
-country: France
+name: Alfred Kedhi
+type: artist
+country: Albania
 tagline:
 description:
 related-persons:

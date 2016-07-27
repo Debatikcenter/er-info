@@ -8,16 +8,12 @@ area: culture
 enddate:
 layout: project
 ---
-Curator: Gaetano Grillo
+Curator: Gaetano Grillo, Edi Muka
 Artists:
 
-Check in interviews with Edi Muka
-
-Joint show of Albanian and Italian painters organized by Mediterranea, an Italian NGO.
+Joint show of Albanian and Italian painters organized by the Foundation Mediterranea, an Italian NGO. Grillo's neighbor in Rome, Flash Art director Giancarlo Politi joins him on the trip to Albania, where he meets Edi Muka, who invited him to help out with the Onufri exhibition later that year.
 
  >MEDITERRANEA N. 1. ALBANIA-ITALIA, Un comune orizzonte culturale, Museo Nazionale e Galleria Nazionale d’Arte, Tirana. Una mostra con artisti e poeti italiani e albanesi, con il patrocinio dei Presidenti delle due Repubbliche, curata da Franco Buffoni, Chicca Ghiringhelli, Gaetano Grillo e Mira Meksi. Fra gli artisti italiani: Accardi, Boetti, Castellani, Ceccobelli, De Maria, Dessì, Dorazio, Gallo, Levini, Montesano, Salvo, Schifano, Verna ecc. Fra i poeti: Cucchi, De Angelis, Giudici, Lamarque, Luzi, Magrelli, Majorino, Merini, Neri, Roboni, Sanguineti, Valduga, Zanzotto ecc.
-
- Giancarlo Politi (FlashArt) comes here for the first time to Tirana. Meets Edi Muka, wants him to be curator of Onufri.
 
 Links:
 * <https://www.youtube.com/watch?v=_olgXOy0Iss>

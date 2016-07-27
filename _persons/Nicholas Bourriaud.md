@@ -1,7 +1,7 @@
 ---
-name: "Lala Meredith-Vula"
-type: artist
-country: Albania
+name: Nicholas Bourriaud
+type: curator
+country: France
 tagline:
 description:
 related-persons:
