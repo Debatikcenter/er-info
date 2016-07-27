@@ -4,7 +4,7 @@ year: 2015-06-15
 tagline: Awarded to Building Building, Elias Guenoun Architecture, UHO
 related-persons: "Adelina Greca, Max Turnheim, Thomas Reynaud, Elias Guenoun, Benet Beci, Lindita Nikolla, Edi Rama, Saimir Tahiri, Milena Harito"
 value: €45,000 (first prize); €30,000 (second prize); 20,000 (third prize)
-area:
+area: urbanism
 enddate:
 layout: project
 ---

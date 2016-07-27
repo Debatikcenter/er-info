@@ -8,6 +8,4 @@ related-persons: Edi Rama
 connections:
 layout: person
 ---
-
-Links:
-*
+Succeeded by Ylli Manjani (LSI)

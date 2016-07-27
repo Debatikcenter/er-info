@@ -4,8 +4,8 @@ year: 2013-01-18
 tagline: Catalogue of Edi Rama's "doodles"
 related-persons: "Anri Sala, Edi Rama, Michael Fried, Hans Ulrich Obrist, Philippe Parreno, Marcus Steinweg, Erion Veliaj"
 value:
-area:
-enddate:
+area: culture
+enddate: 2013-01-08
 layout: project
 ---
 Edited by Anri Sala, with contributions by Michael Fried, Hans Ulrich Obrist, Philippe Parreno, Marcus Steinweg, and Erion Veliaj.

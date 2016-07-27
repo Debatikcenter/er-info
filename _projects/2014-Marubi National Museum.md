@@ -4,8 +4,8 @@ year: 2014-03-30
 tagline: Awarded to Casanova + Hernandez
 related-persons: "Jesus Hernandez Mayor, Kim Knoppers, Mirela Kumbaro, Zef Paci, Anila Alite, Dietmar Steiner, Rossana Atena, Luçjan Bedeni"
 value:
-area:
-enddate:
+area: urbanism
+enddate: 2016-05-10
 layout: project
 ---
 Winner: Casanova + Hernandez

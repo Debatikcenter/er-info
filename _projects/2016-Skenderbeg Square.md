@@ -8,7 +8,7 @@ area: urbanism
 enddate:
 layout: project
 ---
-A reinterpretation of the 51N4E + Anri Sala plan for Skënderbeg Square from 2008, this time with a bit more greenery and in alignment with the Faith Park project of UNLAB and Stefano Boeri's overhaul of the Tirana Masterplan. A scale model was presented during the exhibition "mbi Qiell nën" in COD.
+A reinterpretation of the 51N4E + Anri Sala plan for Skënderbeg Square from 2008, this time with a bit more greenery (11 "mini parks" that were proposed immediately after the backlash of the park protests) and in alignment with the Faith Park/World Park project of UNLAB and Stefano Boeri's overhaul of the Tirana Masterplan. A scale model was presented during the exhibition "mbi Qiell nën" in COD.
 
 From Erion Veliaj's announcement:
 >The natural stones will be in the forms of stone plaques […] which will be taken from all the lands [trojet] of Albania, starting from Tropoja to Kukës, Bilisht, Librazhd, the quarries of Tirana, Korça, Gjirokastër, Saranda, Berat, Vlora, Kruja, Bulqiza, Prizren, Ersekë, Skrapar, etc. […]
@@ -19,3 +19,4 @@ From the empty center, the full range of buildings defining Albania’s past can
 
 Links:
 * <http://www.tirana.al/projekti-i-sheshit-te-ri-skenderbej/>
+* <https://www.youtube.com/watch?v=MoE_jx9LmLs>

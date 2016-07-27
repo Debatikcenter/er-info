@@ -4,8 +4,8 @@ year: 2013-01-18
 tagline: Duo Exhibition at Galerie Rüdiger Schöttle
 related-persons: "Anri Sala, Edi Rama, Okwui Enwezor"
 value:
-area:
-enddate:
+area: culture
+enddate: 2013-03-16
 layout: project
 ---
 >Galerie Rüdiger Schöttle is pleased to open 2013 with an exhibition project by the artist Anri Sala.

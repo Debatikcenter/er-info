@@ -4,7 +4,7 @@ year: 2015-12-14
 tagline: Faculty of Architecture
 related-persons: "Adelina Greca, Elsie Owusu"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

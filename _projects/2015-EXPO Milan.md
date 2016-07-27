@@ -4,7 +4,7 @@ year: 2015-01-01
 tagline:
 related-persons: "Stefano Boeri, Lorenza Baroncelli, Edi Rama"
 value:
-area:
+area: culture
 enddate:
 layout: project
 ---

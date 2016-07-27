@@ -4,7 +4,7 @@ year: 2015-01-22
 tagline: Lecture at Tulla Culture Center
 related-persons: "Adelina Greca, Rubin Beqo, Elisabetta Terragni"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

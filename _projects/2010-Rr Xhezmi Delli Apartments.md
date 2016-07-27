@@ -4,7 +4,7 @@ year: 2010-01-01
 tagline: Residential building
 related-persons: "Pier Paolo Tamburelli, Artan Gaçi, Edi Rama"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

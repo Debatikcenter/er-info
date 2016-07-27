@@ -4,7 +4,7 @@ year: 2014-01-19
 tagline: Awarded to XDGA
 related-persons: "Xaveer de Geyter, Edi Rama, Adelina Greca, Stefano Boeri, Andreas Ruby, Anne-Charlotte Malterre-Barthes, Daniel Gjoni, Eglantina Gjermeni, Johan Anrys, Niko Peleshi, Patrick Janssens, Rainer Hehl, Benet Beci"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

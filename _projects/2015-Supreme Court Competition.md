@@ -4,7 +4,7 @@ year: 2015-11-17
 tagline: Awarded to Sadar-Vuga, PRG*B R
 related-persons: "Adelina Greca, Jurij Sadar, Boštjan Vuga, Kenneth Woods, Gregor Bucik, Florian Pollo, Dorian Tytymçe, Edi Rama, Lindita Nikolla, Nasip Naço"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---

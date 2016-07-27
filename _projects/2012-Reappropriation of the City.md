@@ -4,8 +4,8 @@ year: 2012-10-09
 tagline: Workshop organized by Polis University
 related-persons: "Winy Maas, Francine Houben, Kees Christiaanse"
 value: €49,020
-area:
-enddate:
+area: urbanism
+enddate: 2012-10-16
 layout: project
 ---
 Funded by Stimuleringsfonds.

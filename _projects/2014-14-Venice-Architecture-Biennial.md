@@ -4,7 +4,7 @@ year: 2014-06-07
 tagline: Albanian Pavilion at the 14th Venice Architecture Biennial 2014
 related-persons: "Edi Hila, Adrian Paci, Mirela Kumbaro, Jonida Turani, Stefano Rabolli Pansera, Edi Rama"
 value:
-area:
+area: culture
 enddate: 2014-11-23
 layout: project
 ---

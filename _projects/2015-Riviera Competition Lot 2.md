@@ -4,7 +4,7 @@ year: 2015-11-08
 tagline: Awarded to Bureau Bas Smets, SON Group, Vadim Vosters
 related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Athina Kavaja, Bas Smets, Vadim Vosters, Sasa Randic, Jonida Turani, Peter Herrle, Freek Persyn, Johan Anrys, Artan Shkreli"
 value: €85,000
-area:
+area: urbanism
 enddate:
 layout: project
 ---

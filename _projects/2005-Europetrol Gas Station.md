@@ -4,12 +4,14 @@ year: 2005-01-01
 tagline: 51N4E, Atelier 4
 related-persons: "Peter Swinnen, Freek Persyn, Johan Anrys, Alban Efthimi"
 value:
-area:
-enddate:
+area: urbanism
+enddate: 2006-01-01
 layout: project
 ---
+[Andreas Ruby](http://www.uncubemagazine.com/blog/10949343):
+>The same kind of urban reasoning drives the design of 51N4E’s  Europetrol station (2005-2006) situated along the biggest approach road to Tirana from the airport. Held by three supports, a monumental steel cupola floats above a small clutch of petrol pumps. Standing beneath it, you get an intense sensation of being sheltered, a feeling you might expect from a chapel perhaps, but not something as banal as a petrol station. It is a calculated collision of scales and atmospheres indicating that, once again, this project is about transforming a functional environment to provide asylum for a public space that otherwise would have no place in the city.
 
-
+>Europetrol’s layout also clearly departs from conventional filling stations. It is situated on a corner site and the small service and café building is located against the small perpendicular road, providing an actual street façade – petrol station buildings are almost always situated away from the road – and a small car wash structure marks the far end of the plot. Together, they frame a small square crowned and accentuated by the tall, hovering cupola that puts the finishing touch to the estrangement from the normal iconography of this program. As you drive by, the structure clearly looks nothing like a petrol station, rather, an inconspicuous monument to public space, which happens to contain a filling station as well.
 
 Links:
 * <http://www.51n4e.com/project/europetrol>

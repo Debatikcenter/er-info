@@ -4,7 +4,7 @@ year: 1999-11-28
 tagline: PS government headed by Ilir Meta
 related-persons: "Ilir Meta, Edi Rama"
 value:
-area:
+area: government
 enddate: 2001-09-06
 layout: project
 ---

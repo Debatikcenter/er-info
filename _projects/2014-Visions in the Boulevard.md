@@ -4,8 +4,8 @@ year: 2016-01-15
 tagline: Exhibition in COD
 related-persons: "Edi Hila, Edi Rama, Falma Fshazi"
 value:
-area:
-enddate:
+area: culture
+enddate: 2016-04-15
 layout: project
 ---
 >The new cycle of paintings by Edi Hila kicked off today the new season at the Center for Openness and Dialogue in the Prime Ministry. The new season’s theme will be "The space where we live, the space we share and the space we leave behind".

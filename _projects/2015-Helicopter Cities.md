@@ -4,8 +4,8 @@ year: 2015-04-21
 tagline: Lecture at Tulla Culture Center
 related-persons: "Adelina Greca, Rubin Beqo, Lorenza Baroncelli"
 value:
-area:
-enddate:
+area: urbanism
+enddate: 2015-04-21
 layout: project
 ---
 >Looking at the landscape from the airplane, as from the satellite, entire portions of the urban territory appear to us completely built. From above, a city is a spotted body. Its solid geographical connotations has been retouched by a liquid grain of urban matter, which has bypassed saddles, flooded plains, filled valleys. From above we see not only the space, we also see the time. We see the results of a phenomenon of extension of the living space that in the last three decades has transformed our urban geography.

@@ -2,14 +2,15 @@
 name: Socialist Party
 year: 2005-01-01
 tagline: Under the Chairmanship of Edi Rama
-related-persons: "Edi Rama, Pandeli Majko, Saimir Tahiri, Artan Gaçi, Niko Peleshi, Eglantina Gjermeni, Lindita Nikolla"
+related-persons: "Edi Rama, Pandeli Majko, Saimir Tahiri, Artan Gaçi, Niko Peleshi, Eglantina Gjermeni, Lindita Nikolla, Gramoz Ruçi"
 value:
-area:
+area: government
 enddate:
 layout: project
 ---
 Until today.
 
+Gramoz Ruçi (??)
 Pandeli Majko (1992, PS MP)
 Edi Rama (1998, Minister of Culture under Majko I)
 Lindita Nikolla (2003, Councilperson in Tirana Municipal Unit 1)

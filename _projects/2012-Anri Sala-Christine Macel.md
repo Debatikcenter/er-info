@@ -4,8 +4,8 @@ year: 2012-03-17
 tagline:
 related-persons: "Anri Sala, Christine Macel"
 value:
-area:
-enddate:
+area: culture
+enddate: 2012-03-17
 layout: project
 ---
 

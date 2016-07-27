@@ -4,7 +4,7 @@ year: 2014-02-20
 tagline: Architecture Atelier turned government planning agency
 related-persons: "Edi Rama, George Brugmans, Freek Persyn, Johan Anrys, Adelina Greca, Joni Baboçi, Eglantina Gjermeni"
 value:
-area:
+area: urbanism
 enddate:
 layout: project
 ---
