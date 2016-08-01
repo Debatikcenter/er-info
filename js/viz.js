@@ -33,9 +33,9 @@ if( url.indexOf("#") != -1 ){
 
 var root;
 
-createGraph( query );
+createGraph( query, 1 );
 
-function createGraph( query ){
+function createGraph( query, grade ){
   d3.json( data, function(error, graph) {
     if (error) throw error;
 
@@ -64,26 +64,6 @@ function createGraph( query ){
       persons = graph.nodes;
     }
 
-    // var temp = [];
-    // for(var link in links){
-    //   var source = links[link].source.id;
-    //   var target = links[link].target.id;
-    //   links[link].grade = 0;
-    //   for(var i=link; i<links.length; i++){
-    //     if(links[i].source.id == source && links[i].target.id == target){
-    //       links[link].grade++;
-    //       if(i>link){
-    //         links[link].project = links[link].project + ", " + links[i].project
-    //       }
-    //       links.pop(i);
-    //     }
-    //   }
-    //   // var grep = $.grep(links, function(n){ return (n.source.id = source && n.target.id == target && n.index != link) });
-    //   // console.log(grep);
-    //   // break;
-    // }
-    // var newlinks = links; 
-
     container = svg.append("g");
 
     root = persons.find(function(p){ return p.id == query; });
@@ -96,8 +76,7 @@ function createGraph( query ){
         .attr( "stroke-width", "1" )
         .attr( "source", function(d) { return d.source; } )
         .attr( "target", function(d) { return d.target; } )
-        .attr( "project", function(d) { return d.project;  } )
-        .attr( "year", function(d){ return d.year; } );
+        .attr( "grade", function(d) { return d.grade; } )
 
     var node = container.append("g")
         .attr("class", "nodes")
@@ -125,7 +104,15 @@ function createGraph( query ){
 
     $(".nodes circle").each(function(){
       var id = $(this).data("id");
-       $(this).attr("r", 5 + ($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length)/7 );
+      // var r = 0;
+      // $(".links [source='"+id+"']").each(function(){
+      //   r += $(this).attr("grade");
+      // });
+      // $(".links [target='"+id+"']").each(function(){
+      //   r += $(this).attr("grade");
+      // });
+      //  $(this).attr("r", 5 + r/7 );
+      $(this).attr("r", 5 + ($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length)/7 );
     });
 
     simulation.nodes(persons)
@@ -216,7 +203,7 @@ $(document).on('click', 'circle', function(){
 
   // $("svg").css({"margin-left": "-30%"})
   $("svg>g").remove();
-  createGraph( query );
+  createGraph( query, 1 );
   // var url = window.location.href;
   // var q = url.indexOf("#");
   // if(q!=-1) url = url.substring(0, q);

@@ -1,6 +1,15 @@
+---
+layout: none
+---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-<li>{{ page.name }}</li>
-<li>{{ page.tagline }}</li>
+<b>{{ page.name }}</b><br/>
+<span>{{ page.tagline }}</span><br/>
+
+{% for project in site.projects %}
+  {% if project.related-persons contains page.name %}
+    <li><a href="{{ project.url }}">{{ project.name }}</a></li>
+  {% endif %}
+{% endfor %}
 
 </article>

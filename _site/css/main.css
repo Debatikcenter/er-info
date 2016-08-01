@@ -286,7 +286,13 @@ nav#menu {
 .personal-data {
   position: absolute;
   top: 10px;
-  right: 300px; }
+  right: 0;
+  width: 30%; }
+
+.slider {
+  position: absolute;
+  bottom: 20px;
+  left: 10px; }
 
 /**
  * Site footer
