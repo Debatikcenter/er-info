@@ -1,5 +1,5 @@
 ---
-name: Aleksander Carapuli
+name: Pandi Carapuli
 type: other
 country: Albania
 tagline: CEO of Eurocol shpk

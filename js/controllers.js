@@ -19,5 +19,17 @@ $(document).ready(function(){
         }
       });
     }
+  });
+
+  $(".slider input").change(function(){
+    var val = $(this).val();
+    $(".slider span").text(val);
+    $("line").each(function(){
+      if( parseInt( $(this).attr("grade") ) < val ){
+        $(this).hide();
+      } else {
+        $(this).show();
+      }
+    })
   })
 })

@@ -1,9 +1,21 @@
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+---
+layout: default
+---
+<span id="query" style="display:none;">{{ page.name | replace: ' ', '.' }}</span>
 
-<li>Name: {{ page.name }}</li>
-<li>Type: {{ page.type }}</li>
-<li>Country: {{ page.country }}</li>
-<li>Tagline: {{ page.tagline }}</li>
-<li>Related persons: {{ page.related-persons }}</li>
+<svg id="svg" class="col-sm-8"></svg>
+
+<article class="post col-sm-4 personal-data" itemscope itemtype="http://schema.org/BlogPosting">
+
+<p><b>{{ page.name }}</b></p>
+<p><span>{{ page.tagline }}</span></p>
+
+<div class="list-of-projects">
+  {% for project in site.projects %}
+    {% if project.related-persons contains page.name %}
+      <li><a href="{{ project.url }}">{{ project.name }}</a></li>
+    {% endif %}
+  {% endfor %}
+</div>
 
 </article>

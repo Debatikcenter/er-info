@@ -2,7 +2,7 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: baseurl + '/search.json',
-  searchResultTemplate: '<li><a href="#{id}" data-id={id}>{title}</a></li>',
+  searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
   noResultsText: '<span>No results</span>',
   limit: 10,
   fuzzy: false,
@@ -50,5 +50,8 @@ $(document).keydown(function(e){
 $(document).keyup(function(e){
   if( $("#search-input").val().length == 0 ){
     $("#results-container li").remove();
+    $("#results-container").hide();
+  } else {
+    $("#results-container").show();
   }
 });

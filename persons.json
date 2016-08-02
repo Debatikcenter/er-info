@@ -3,14 +3,22 @@ layout: null
 ---
 {
   "nodes": [
-    {% for person in site.persons %}{"id": "{{ person.name | replace: ' ', '.' }}", "name": "{{ person.name }}", "type": "{{ person.type }}", "tagline": "{{ person.tagline | join: ', ' }}", "description": "{{ person.description }}", "related-persons": "{{ person.related-persons }}" }{% unless forloop.last %},{% endunless %}
+    {% for person in site.persons %}{"id": "{{ person.name | replace: ' ', '.' }}", "name": "{{ person.name }}", "type": "{{ person.type }}", "tagline": "{{ person.tagline | join: ', ' }}", "description": "{{ person.description }}", "related-persons": "{{ person.related-persons }}", "url": "{{ person.url }}" }{% unless forloop.last %},{% endunless %}
     {% endfor %}],
   {% capture list %}{% for project in site.projects %}{% assign persons = project.related-persons | split:", " | sort %}{% for person in persons %}{% assign i1 = forloop.index %}{% for p2 in persons %}{% assign i2 = forloop.index %}{% if i2 > i1 %}{{ person | replace: ' ', '.' }},{{ p2 | replace: ' ', '.' }},{{ project.name }},{{ project.year }},{{ project.tagline | escape }},{{ project.value }},{{ project.content }}1^{% endif %}{% endfor %}{% endfor %}{% endfor %}{% endcapture %}
 
   {% assign thelist = list | split: "^" %}
 
+  {% capture links %}
+  {% for item in thelist %}{% assign this = item | split: "," %}{% unless forloop.last %}{{this[0]}}|{{this[1]}}{% if forloop.rindex != 2 %}---{% endif %}{% endunless %}
+  {% endfor %}
+  {% endcapture %}
+
+  {% assign linksArray = links | split: "---" | sort %}
+  {% capture editedLinks %}{% assign counter = 0 %}{% assign control = "" %}{% for link in linksArray %}{% assign thisLink = link | split: "|" %}{% if link != control %}{% assign counter2 = 0 %}{% assign counter3 = counter %}{% assign counter4 = counter3 | plus: 40 %}{% for i in (counter3..counter4) %}{% if link == linksArray[i] %}{% assign counter2 = counter2 | plus: 1 %}{% assign control = linksArray[i] %}{% endif %}{% endfor %}
+  { "source": "{{thisLink[0] | strip }}", "target": "{{thisLink[1] | strip }}", "grade": "{{counter2}}" }{% unless forloop.last %},{% endunless %}{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}{% endcapture %}
+
   "links": [
-    {% for item in thelist %}{% assign this = item | split: "," %}{% unless forloop.last %}{ "source": "{{ this[0] }}", "target": "{{ this[1] }}", "project": "{{ this[2] }}", "year":"{{ this[3] }}", "tagline":"{{ this[4] }}", "value":"{{ this[5] }}" }{% if forloop.rindex != 2 %},{% endif %}{% endunless %}
-    {% endfor %}
+    {{editedLinks}}
   ]
 }

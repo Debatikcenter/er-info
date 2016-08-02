@@ -2,20 +2,9 @@
 layout: default
 ---
 <svg id="svg" width="960" height="600"></svg>
-<nav id="menu">
-  <ul>
-    <li><button type="control" name="architect">Architect</button></li>
-    <li><button type="control" name="artist">Artist</button></li>
-    <li><button type="control" name="curator">Curator</button></li>
-    <li><button type="control" name="bureaucrat">Bureaucrat</button></li>
-    <li><button type="control" name="politician">Politician</button></li>
-    <li><button type="control" name="other">Other</button></li>
-  </ul>
-</nav>
-<div class="search">
-  <input type="text" name="search-input" id="search-input" value="" placeholder="">
-  <ul id="results-container" ></ul>
-</div>
-<div class="personal-data">
-  
+
+<div class="slider">
+  Number of projects in common
+  <input type="range" min="1" max="18" value="2" step="1">
+  <span>2</span>
 </div>

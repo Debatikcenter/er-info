@@ -1,7 +1,7 @@
 ---
-name: Roberto Pinto
-type: curator
-country:
+name: Jan Dibbets
+type: artist
+country: Netherlands
 tagline:
 description:
 related-persons:
