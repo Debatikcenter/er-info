@@ -1,5 +1,5 @@
 ---
-name: Sasa Randic
+name: Saša Randić
 type: architect
 country: Croatia
 tagline: Randić and Associates

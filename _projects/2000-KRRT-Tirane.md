@@ -13,3 +13,6 @@ Members: Edi Rama, Artan Shkreli, Arben Biçoku, Daniel Gjoni.
 As Mayor of Tirana (until 2011-07-25), Edi Rama was chairman of this council.
 
 Many of the former members of the KRRT Tirana appeared in new positions once Rama was elected Prime Minister.
+
+Links:
+* <http://javanews.al/bicoku-inatet-e-politikes-e-kane-mbajtur-peng-tiranen/>

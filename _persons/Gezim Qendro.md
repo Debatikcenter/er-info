@@ -1,6 +1,6 @@
 ---
 name: Gëzim Qëndro
-type: bureaucrat
+type: other
 country: Albania
 tagline: Professor of Art History, Polis University
 description:

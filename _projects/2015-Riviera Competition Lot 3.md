@@ -2,7 +2,7 @@
 name: Riviera Competition Lot 3
 year: 2015-11-08
 tagline: Awarded to Atena Studio, Atelier 4
-related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Alban Efthimi, Rossana Atena, Sasa Randic, Jonida Turani, Peter Herrle, Freek Persyn, Johan Anrys, Artan Shkreli"
+related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Alban Efthimi, Rossana Atena, Saša Randić, Jonida Turani, Peter Herrle, Freek Persyn, Johan Anrys, Artan Shkreli"
 value: €85,000
 area: urbanism
 enddate:
