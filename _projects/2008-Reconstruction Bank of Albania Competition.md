@@ -15,7 +15,7 @@ layout: project
 Many unknowns about this competition, most probably not held by Edi Rama.
 The Bank of Albania was built in 1937 by Giovanni Michelucci.
 
-Petreschi was also commissioned, illegally without tender, to [restore Hotel Dajti](http://www.marcopetreschi.com/project/hotel-dajti/), the famous socialist hotel in central Tirana, which former PM Sali Berisha had sold to Bank of Albania.
+Petreschi was also commissioned, illegally without tender, to [restore Hotel Dajti](http://www.marcopetreschi.com/project/hotel-dajti/), the famous socialist hotel in central Tirana, which former PM Sali Berisha had sold to Bank of Albania for €30M in February 2010.
 
 Links:
 * <http://www.archdaily.com/602573/bank-of-albania-hq-renovation-petreschi-achitects>

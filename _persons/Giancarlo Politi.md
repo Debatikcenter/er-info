@@ -1,8 +1,8 @@
 ---
 name: Giancarlo Politi
-type: other
+type: curator
 country: Italy
-tagline: Founder of FlashArt
+tagline: Founder of Flash Art Magazine
 description:
 related-persons:
 connections:
@@ -10,9 +10,9 @@ layout: person
 ---
 Giancarlo Politi, the founder of FlashArt, left one of his first marks in contemporary art with the organization of Aperto '93 at the 45th Venice Biennial, which included many young artists that would later form the "Relation Aesthetics" movement and cluster around curator Hans Ulrich Obrist.
 
-He came to Tirana for the first time in 1998, in the context of the *Mediterranea N. 1* exhibition, and later that year co-curated the Onufri International exhibition, both in the period Edi Rama was Minister of Culture. In 2001 he co-curated the first Tirana Biennial, but left the Albanian scene after that.
+He came to Tirana for the first time in 1998, in the context of the *Mediterranea N. 1* exhibition curated by his neighbor, Gaetano Grillo. He later that year co-curated the Onufri 1998 exhibition with Edi Muka, both in the period Edi Rama was Minister of Culture. In 2001 he co-curated the first Tirana Biennial, but left the Albanian scene after failing to move the Tirana Biennale to Prague in 2003 and a rather comedic court case over the copyright on the name Tirana Biennale in 2005.
 
-When Edi Rama was elected Prime Minister in 2013, Politi wrote the following in [FlashArt newsletter](http://lists.c3.hu/pipermail/artinfo/2013-June/010399.html):
+Nevertheless, when Edi Rama was elected Prime Minister in 2013, Politi wrote the following in [FlashArt newsletter](http://lists.c3.hu/pipermail/artinfo/2013-June/010399.html):
 >Artist Edi Rama is officially Prime Minister of Albania
 
 >Let's hope that Tirana will now become a world capital for art, with

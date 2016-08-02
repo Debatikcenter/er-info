@@ -1,8 +1,8 @@
 ---
-name: Dede Maluta
+name: Dedë Malutaj
 type: other
 country: Albania
-tagline: CEO of Junik shpk
+tagline: Owner of Junik shpk
 description:
 related-persons:
 connections:
@@ -12,3 +12,4 @@ Local construction contractor from Lezhë.
 
 Links:
 * <http://www.lezha.eu/junik-shpk/>
+* <http://open.data.al/sq/corporates/view/id/J68007522L>

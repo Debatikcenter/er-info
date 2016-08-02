@@ -2,7 +2,7 @@
 name: Garden Side
 year: 2008-12-01
 tagline: Residential building
-related-persons: "Rossana Atena, Marco Sardella, Daniel Gjoni, Edi Rama"
+related-persons: "Rossana Atena, Marco Sardella, Daniel Gjoni, Edi Rama, Pandi Carapuli"
 value: 7.600.000 euro
 area: urbanism
 enddate:

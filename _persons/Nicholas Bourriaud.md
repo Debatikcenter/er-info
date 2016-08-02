@@ -1,7 +1,7 @@
 ---
 name: Nicholas Bourriaud
-type:
-country:
+type: curator
+country: France
 tagline:
 description:
 related-persons:

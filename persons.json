@@ -3,7 +3,7 @@ layout: null
 ---
 {
   "nodes": [
-    {% for person in site.persons %}{"id": "{{ person.name | replace: ' ', '.' }}", "name": "{{ person.name }}", "type": "{{ person.type }}", "tagline": "{{ person.tagline | join: ', ' }}", "description": "{{ person.description }}", "related-persons": "{{ person.related-persons }}" }{% unless forloop.last %},{% endunless %}
+    {% for person in site.persons %}{"id": "{{ person.name | replace: ' ', '.' }}", "name": "{{ person.name }}", "type": "{{ person.type }}", "tagline": "{{ person.tagline | join: ', ' }}", "description": "{{ person.description }}", "related-persons": "{{ person.related-persons }}", "url": "{{ person.url }}" }{% unless forloop.last %},{% endunless %}
     {% endfor %}],
   {% capture list %}{% for project in site.projects %}{% assign persons = project.related-persons | split:", " | sort %}{% for person in persons %}{% assign i1 = forloop.index %}{% for p2 in persons %}{% assign i2 = forloop.index %}{% if i2 > i1 %}{{ person | replace: ' ', '.' }},{{ p2 | replace: ' ', '.' }},{{ project.name }},{{ project.year }},{{ project.tagline | escape }},{{ project.value }},{{ project.content }}1^{% endif %}{% endfor %}{% endfor %}{% endfor %}{% endcapture %}
 

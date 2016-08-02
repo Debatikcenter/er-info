@@ -1,5 +1,5 @@
 ---
-name: Lucius Burckhardt and Cedric Price – A stroll through a fun palace
+name: "Lucius Burckhardt and Cedric Price – A stroll through a fun palace"
 year: 2014-06-07
 tagline: Swiss Pavilion at the Venice Architecture Biennial 2014
 related-persons: "Hans Ulrich Obrist, Lorenza Baroncelli, Stefano Boeri, Liam Gillick, Carsten Höller, Philippe Parreno, Rirkrit Tiravanija, Maja Hoffman, Anri Sala, Edi Rama, Freek Persyn, Joseph Grima, Olafur Eliasson, Dominique Gonzalez-Foerster"

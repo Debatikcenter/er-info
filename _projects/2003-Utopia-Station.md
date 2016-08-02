@@ -10,7 +10,7 @@ layout: project
 ---
 Curated by Molly Nesbit, Hans Ulrich Obrist, and Rirkrit Tiravanija.
 
-The important and lengthy series of projects under the title "Utopia Station" counts as the first inclusion of Anri Sala and Edi Rama in the inner circle of Hans Ulrich Obrist, through participation with their work "Dammi i Colori."
+The important and lengthy series of projects under the title "Utopia Station" counts as the first inclusion of Anri Sala and Edi Rama in the inner circle of Hans Ulrich Obrist, through participation with their work *Dammi i Colori*.
 
 This project also marks their first encounters with figures such as Stefano Boeri and Philippe Parreno, which will play an important role in cementing Rama's art and architecture career: Parreno as board member of the Center for Openness and Dialogue, and Boeri as masterplan architect for Tirana.
 

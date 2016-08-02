@@ -1,7 +1,7 @@
 ---
 name: Alfred Kedhi
-type:
-country:
+type: artist
+country: Albania
 tagline:
 description:
 related-persons:

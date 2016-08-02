@@ -5,7 +5,7 @@ layout: null
   {% for person in site.persons %}
     {
     "title"    : "{{ person.name | escape }}",
-    "id"    : "{{ person.name | replace: " ", "." }}"
+    "url"    : "{{ person.url }}"
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
 ]

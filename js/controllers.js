@@ -25,9 +25,9 @@ $(document).ready(function(){
     var val = $(this).val();
     $(".slider span").text(val);
     $("line").each(function(){
-      if( $(this).attr("grade") < val ){
+      if( parseInt( $(this).attr("grade") ) < val ){
         $(this).hide();
-      } else if( $(this).attr("grade") >= val ){
+      } else {
         $(this).show();
       }
     })

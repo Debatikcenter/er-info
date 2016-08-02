@@ -1,7 +1,7 @@
 ---
-name: Nicolas Bourriaud
-type: curator
-country: France
+name: Jan Dibbets
+type: artist
+country: Netherlands
 tagline:
 description:
 related-persons:
