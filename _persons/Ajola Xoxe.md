@@ -9,7 +9,3 @@ connections:
 layout: person
 ---
 Former founding member of Soros funded political party G99, married co-founder Erion Veliaj in 2015.
-
-Links:
-* <http://www.lezha.eu/junik-shpk/>
-* <http://open.data.al/sq/corporates/view/id/J68007522L>
