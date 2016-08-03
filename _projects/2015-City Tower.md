@@ -2,7 +2,7 @@
 name: City Tower
 year: 2015-09-09
 tagline: Multifunctional complex
-related-persons: "Saimir Mane, Edi Rama"
+related-persons: "Samir Mane, Edi Rama"
 value:
 area: urbanism
 enddate: 2019-12-30

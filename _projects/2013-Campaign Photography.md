@@ -2,7 +2,7 @@
 name: Campaign Photography
 year: 2013-06-23
 tagline:
-related-persons: "Edi Rama, Jutta Benzenberg"
+related-persons: "Edi Rama, Jutta Benzenberg, Endri Fuga"
 value:
 area: government
 enddate:

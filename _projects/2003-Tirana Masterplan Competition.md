@@ -2,15 +2,17 @@
 name: Tirana Masterplan Competition
 year: 2003-01-01
 tagline: Awarded to Architecture Studio
-related-persons: "Edi Rama, Rodo Tisnado"
+related-persons: "Edi Rama, Rodo Tisnado, Olafur Eliasson, Elia Zenghelis, Fatos Nano, Rudy Stroink, Helmut Schroeder, Mario Pisani, Jean-Michel Guénod, Lothar Greulich"
 value:
 area: urbanism
 enddate:
 layout: project
 ---
 * Winner: Architecture Studio
-* Jury:
-* Other competitors:
+* Jury: Fatos Nano (chairman), Edi Rama, Helmut Schroeder, Jean-Michel Guénod, Mario Pisani, Rudy Stroink, Olafur Eliasson, Lothar Greulich, Elia Zenghelis
+* Other competitors: Mecanoo; Bolles + Wilson
+
+"resigned jury?"
 
 The first masterplan competition held under Edi Rama, and was won by Architecture Studio. The masterplan specifically included the following elements:
 1. Skënderbeg Square: An additional competition was held, which was won by 51N4E + Anri Sala. The plan was partially executed with Kuwaiti funds, but was aborted in 2011 when Lulzim Basha became mayor of Tirana. In 2016 Erion Veliaj pledged to implement the original designs, including additional park space.
@@ -23,5 +25,12 @@ The first masterplan competition held under Edi Rama, and was won by Architectur
 
 The competition for the second stage started on 2005-03-08 <http://www.skyscrapercity.com/showpost.php?p=6775688&postcount=204>
 
+In a critical evaluation of the "French masterplan" architect [Wim Cuyvers](https://issuu.com/tiranaworkshop/docs/wim_cuyvers_tirana_houses_and_rubbish) states that
+>Architecture Studio failed to see that in the previous ten years the city had experienced a fivefold increase in size, growing in the 1990s from a relatively small city of 200,000 inhabitants into a city of almost a million inhabitants. Even more incredibly, the architects have not seen how special this growth really was and what a special kind of city it has created, not did they realise that this spectacular growth might well be significant, because the collapse had made Tirana a kind of laboratory, and what happened there could be an important test case, with something to say about the world to come.
+
+
 Links:
 * <http://www.architecture-studio.fr/fr/projets/tir2/conception_urbaine_du_centre_ville.html>
+* <https://issuu.com/tiranaworkshop/docs/wim_cuyvers_tirana_houses_and_rubbish>
+* <https://sheshet.wordpress.com/2008/04/15/sheshet-e-tiranes/>
+* <http://www.shqiperia.com/faqjapare/qendra_tiranes_projekti.php>

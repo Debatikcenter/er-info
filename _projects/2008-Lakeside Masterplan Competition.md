@@ -18,3 +18,6 @@ Later taken over by Gener2.
 Links:
 * <https://www.mvrdv.nl/projects/299-tirana-lakside-masterplan>
 * <https://www.shqiperia.com/Projekti-per-Liqenin-fitojne-holandezet.4522/>
+
+Literature:
+* <https://sheshet.wordpress.com/2008/08/05/ruthless-mvrdv/>

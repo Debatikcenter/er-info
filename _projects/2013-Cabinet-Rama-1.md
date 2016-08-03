@@ -2,7 +2,7 @@
 name: First Rama Government
 year: 2013-09-11
 tagline: PS-LSI coalition government, headed by PM Edi Rama
-related-persons: "Edi Rama, Niko Peleshi, Arben Ahmetaj, Saimir Tahiri, Erion Veliaj, Eglantina Gjermeni, Lindita Nikolla, Nasip Naço, Milena Harito, Mirela Kumbaro, Ditmir Bushati, Milva Ekonomi, Ylli Manjani, Damian Gjiknuri, Edmond Panariti, Lefter Koka"
+related-persons: "Edi Rama, Niko Peleshi, Arben Ahmetaj, Saimir Tahiri, Erion Veliaj, Eglantina Gjermeni, Lindita Nikolla, Nasip Naço, Milena Harito, Mirela Kumbaro, Ditmir Bushati, Milva Ekonomi, Ylli Manjani, Damian Gjiknuri, Edmond Panariti, Lefter Koka, Mimi Kodheli"
 value:
 area: government
 enddate:

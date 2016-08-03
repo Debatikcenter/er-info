@@ -16,15 +16,31 @@ Historically, one of the reasons that architecture and construction are so inter
 
 The line of artistic and cultural projects included follows naturally from the first contact of Albanian post-socialist culture with contemporary art, starting concretely with two exhibitions in 1998, "Mediterranea N. 1" and especially "Onufri 1998 – Permanent Instability," curated by Albania's trail-blazing curator, Edi Muka. Edi Rama, in his first role as Minister of Culture, was essential here. He realized the potential of contemporary art in reshaping Albanian cultural life, as well as a tool to gain political credit. At the same time, his position, first as minister and later as mayor, allowed him to shield both Edi Muka and Gëzim Qëndro, the director of the National Gallery, from the persistent attacks of the now dethroned eminences in art.
 
+Celebrity Architecture
+Managing public space through architecture competitions.
+
+### Legal Framework
+
+#### Public Procurement
+
+#### Private-Public Partnerships or Concessions
+
+#### Strategic Investments
+
 ## Methodology
 
 Following the aim of this database to visualize the development of a close connection between art, politics, and urbanism in Albania since the fall of Communism following the career of Edi Rama, the projects that have been included are directly or indirectly related to the advent of his career as artist, politician, and urbanist. Considering his nearly consecutive periods as Minister of Culture, Youth, and Sports (1998–2000), Mayor of Tirana (2000–2011), and Prime Minister (2013–), his influence on the developments in these domains, and their increased complexity are tightly related to his own career. Thus, the Relational Esthetics database does not intend to be a fully representative overview of the developments in above fields, but is certainly a clear illustration of the evolving relation between arts, politics, and urbanism, especially after 2000.
 
+Architecture: Inclusion in the database was based on the following criteria: 1) funded with public money; 2) actively involving public institutions; 3) landmark objects designed by international architecture studios or project built in the context of local masterplans. Due to a lack of archival materials and a nearly completely absent historiography of architecture in Albania over the last twenty years, the data presented here cannot be but lapidary, especially in the earlier years of Rama's period as mayor. However, we feel these data are representative of general trends.
+
+## Sources
+
 Data regarding artistic and cultural projects were gathered from institutional websites, [e-flux Announcements](http://www.e-flux.com/announcements/), and [ArtFacts](http://www.artfacts.net/index.php).
 
-Architectural and urban planning data were gathered from the legally sanctioned announcements placed next to construction projects, and the [database of construction permits](http://www.akpt.gov.al/Tpi_Permits.aspx) and [architecture competitions](http://competitions.planifikimi.gov.al/) at the website of [AKPT](http://www.planifikimi.gov.al/). Additional information was gathered at the [Albanian Construction Portal](http://acp.al/), the Albanian Forum on [Skyscrapercity](http://www.skyscrapercity.com/forumdisplay.php?f=1346), the websites of different architectural companies. Inclusion in the database was based on the following criteria: 1) funded with public money; 2) actively involving public institutions; 3) landmark objects designed by international architecture studios or project built in the context of local masterplans. Due to a lack of archival materials and a nearly completely absent historiography of architecture in Albania over the last twenty years, the data presented here cannot be but lapidary, especially in the earlier years of Rama's period as mayor. However, we feel these data are representative of general trends.
-
+Architectural and urban planning data were gathered from the legally sanctioned announcements placed next to construction projects, and the [database of construction permits](http://www.akpt.gov.al/Tpi_Permits.aspx) and [architecture competitions](http://competitions.planifikimi.gov.al/) at the website of [AKPT](http://www.planifikimi.gov.al/). Additional information was gathered at the [Albanian Construction Portal](http://acp.al/), the Albanian Forum on [Skyscrapercity](http://www.skyscrapercity.com/forumdisplay.php?f=1346), the websites of different architectural companies.
 Data regarding construction companies was gathered from Open [Corporates Albania](http://open.data.al/sq/corporates/list/)
+
+Several blogs, written by both foreigners and Albanians were consulted: [Peshku pa Ujë](http://www.peshkupauje.com/) (2003-); Fatos Lubonja's [Përpjekja](https://perpjekja.blogspot.al/) (2007–); Alwyn's [Our Man in Tirana](https://ourmanintirana.blogspot.al/) (2005–2007); [Peizazhe të fjalës](http://peizazhe.com/) (2007-); Lorjan Agalliu's [Sheshet](https://sheshet.wordpress.com/) (2008-2009); Vincent W.J. van Gerven Oei's [The Unofficial View of Tirana](http://www.berfrois.com/tag/vincent-w-j-van-gerven-oei/) (2011-); Joe Bonk's [Dude, Where's My Gomar?](https://dudewheresmygomar.wordpress.com/) (2012-2015); Raino Isto's [afterart](https://afterart.org/) (2012-)
 
 ## Presentation of the Data
 

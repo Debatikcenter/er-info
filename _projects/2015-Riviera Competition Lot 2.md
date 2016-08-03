@@ -2,7 +2,7 @@
 name: Riviera Competition Lot 2
 year: 2015-11-08
 tagline: Awarded to Bureau Bas Smets, SON Engineering and Construction, Vadim Vosters
-related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Athina Kavaja, Bas Smets, Vadim Vosters, Sasa Randic, Jonida Turani, Peter Herrle, Freek Persyn, Johan Anrys, Artan Shkreli, Erind Bejleri"
+related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Athina Kavaja, Bas Smets, Vadim Vosters, Saša Randić, Jonida Turani, Peter Herrle, Freek Persyn, Johan Anrys, Artan Shkreli, Erind Bejleri"
 value: €85,000
 area: urbanism
 enddate:

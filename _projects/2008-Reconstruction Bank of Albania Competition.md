@@ -2,7 +2,7 @@
 name: Reconstruction of the Bank of Albania Competition
 year: 2008-01-01
 tagline: Awarded to Petreschi Architects
-related-persons: "Marco Petreschi, Adrian Fullani"
+related-persons: "Marco Petreschi, Ardian Fullani"
 value:
 area: urbanism
 enddate: 2015-01-01

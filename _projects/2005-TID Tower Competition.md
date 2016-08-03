@@ -2,7 +2,7 @@
 name: TID Tower Competition
 year: 2005-01-01
 tagline: Awarded to 51N4E
-related-persons: "Edi Rama, Peter Swinnen, Johan Anrys, Freek Persyn, Ulrike Bega"
+related-persons: "Edi Rama, Peter Swinnen, Johan Anrys, Freek Persyn, Ulrike Bega, Behar Male"
 value:
 area: urbanism
 enddate:
@@ -14,9 +14,11 @@ layout: project
 
 Interior design by CoRDA
 Role of SymbioticA unclear
+Developer: TID Albania
 
 The TID Tower was completed in 2016 and presented at the Venice Architecture Biennale 2016, in the main exhibition at the Arsenale.
 
 Links:
 * <http://www.sadarvuga.com/component/content/article/131-2005/975-tower-complex-at-the-sulejman-pasha-monument-area>
 * <http://www.51n4e.com/project/tid-tower-0>
+* <http://www.tidalbania.com/sq/node/10>

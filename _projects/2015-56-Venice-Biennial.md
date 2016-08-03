@@ -1,7 +1,7 @@
 ---
 name: "Albanian Trilogy: A Serious of Devious Stratagems"
 year: 2015-05-09
-tagline: Albanian Pavilion at the 65th Venice Biennial 2015
+tagline: Albanian Pavilion at the 56th Venice Biennial 2015
 related-persons: "Mirela Kumbaro, Armando Lulaj, Boris Groys, Marco Scotini, Adrian Paci, Albert Heta, Kathrin Rhomberg"
 value:
 area: culture

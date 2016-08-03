@@ -25,3 +25,4 @@ Links:
 * <http://competitions.planifikimi.gov.al/atelier-4/>
 * <http://competitions.planifikimi.gov.al/metropolis-polis-university-gk-chwb/>
 * <http://competitions.planifikimi.gov.al/son-cs-cappai-associate-fm-ingeneria/>
+* <http://www.atelier4.al/?avada_portfolio=gjirokastra-bypass-winning-entry>
