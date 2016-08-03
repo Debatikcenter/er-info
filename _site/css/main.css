@@ -238,7 +238,7 @@ pre {
   fill: #0093D0; }
 
 [type="other"] {
-  fill: #A1988A; }
+  fill: #633c00; }
 
 nav#menu {
   position: absolute;
@@ -268,7 +268,7 @@ nav#menu {
     nav#menu ul [name="bureaucrat"] {
       background-color: #0093D0; }
     nav#menu ul [name="other"] {
-      background-color: #A1988A; }
+      background-color: #633c00; }
 
 .search {
   position: absolute;
@@ -293,7 +293,7 @@ nav#menu {
   height: 90vh;
   padding: 5vh 0 0 0; }
   .personal-data p:first-child {
-    margin-bottom: 15px; }
+    margin-bottom: 0; }
   .personal-data p:nth-child(2) {
     margin-bottom: 15px; }
   .personal-data .list-of-projects {

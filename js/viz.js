@@ -84,7 +84,7 @@ function createGraph( query, grade ){
         .attr("class", "nodes")
       .selectAll("circle")
       .data(persons)//.data(graph.nodes)
-      .enter().append("a").attr("xlink:href", function(d){ return d.url; }).append("circle")
+      .enter().append("a").attr("xlink:href", function(d){ return baseurl + d.url; }).append("circle")
         .attr("stroke", "none")
         .attr("title", function(d) { return d.name; })
         .attr("data-id", function(d) { return d.id; })
@@ -153,20 +153,13 @@ function createGraph( query, grade ){
           //     .attr("cy", function(d) { return d.y = Math.max(10, Math.min(height - 10, d.y)); });
         }
 
-
-        // if(query != ""){
-        //   var name;
-        //   while(query.indexOf(".") == -1){
-        //     name = query.replace('.', ' ');
-        //   }
-        //   console.log(name);
-        //   jQuery.get(url + '/persons/'+name+'.html', function(data) {
-        //       // console.log(data);
-        //       $(".personal-data").html("");
-        //       $(".personal-data").append(data);
-        //   });
-        // }
-
+        if( query == "" ){
+          $("line").each(function(){
+            if( parseInt( $(this).attr("grade") ) < 2 ){
+              $(this).hide();
+            }
+          });
+        }
 });
 }
 
