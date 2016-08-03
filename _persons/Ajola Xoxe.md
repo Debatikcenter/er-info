@@ -1,14 +1,14 @@
 ---
-name: Dedë Malutaj
+name: Ajola Xoxe
 type: other
 country: Albania
-tagline: Owner of Junik shpk
+tagline: Former founding member of G99, wife of Erion Veliaj
 description:
 related-persons:
 connections:
 layout: person
 ---
-Local construction contractor from Lezhë.
+Former founding member of Soros funded political party G99, married co-founder Erion Veliaj in 2015.
 
 Links:
 * <http://www.lezha.eu/junik-shpk/>

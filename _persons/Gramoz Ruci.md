@@ -8,4 +8,4 @@ related-persons:
 connections:
 layout: person
 ---
-Former high-level communist
+Leader of the parliamentary fraction of the PS and former head of the State Security during the socialist period.
