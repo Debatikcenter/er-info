@@ -8,3 +8,4 @@ related-persons: Edi Rama
 connections:
 layout: person
 ---
+Former Research Director at the Agenda Institute.
