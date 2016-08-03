@@ -1,6 +1,6 @@
 ---
 name: Fatos Nano
-type: politian
+type: politician
 country: Albania
 tagline: Former Prime Minister and Leader of the Socialist Party
 description:
