@@ -1,6 +1,6 @@
 ---
 name: Gëzim Qëndro
-type: other
+type: curator
 country: Albania
 tagline: Professor of Art History, Polis University
 description:

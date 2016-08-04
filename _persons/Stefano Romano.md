@@ -1,6 +1,6 @@
 ---
 name: Stefano Romano
-type: artist
+type: curator
 country: Italy
 tagline:
 description:

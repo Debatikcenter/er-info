@@ -12,7 +12,8 @@ layout: project
 * Jury: Boris Groys, Jonida Gashi, Adrian Paci, Albert Heta, Kathrin Rhomberg
 * Other competitors:
 
-Concept text missing
+"Restart" of the Albanian presence at the Venice Biennale, with a new space in the Arsenale.
 
 Links:
 * <http://www.albanianpavilion.org/>
+* <https://en.wikipedia.org/wiki/Venice_Biennale#Albania>
