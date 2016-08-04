@@ -1,7 +1,7 @@
 ---
 name: "Lala Meredith-Vula"
 type: artist
-country: Albania
+country: Kosovo
 tagline:
 description:
 related-persons:
