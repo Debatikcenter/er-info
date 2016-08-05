@@ -1,5 +1,5 @@
 ---
-name: Joanna Rytel
+name: Monica Melin
 type: artist
 country: Sweden
 tagline:
@@ -9,4 +9,4 @@ connections:
 layout: person
 ---
 Links:
-* <http://www.joannarytel.com/>
+* <http://www.monicamelin.se/>

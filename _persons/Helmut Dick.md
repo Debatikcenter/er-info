@@ -1,7 +1,7 @@
 ---
-name: Joanna Rytel
+name: Helmut Dick
 type: artist
-country: Sweden
+country: Netherlands
 tagline:
 description:
 related-persons:
@@ -9,4 +9,4 @@ connections:
 layout: person
 ---
 Links:
-* <http://www.joannarytel.com/>
+* <http://www.helmutdick.com/>
