@@ -1,9 +1,10 @@
 ---
 name: Carsten Höller
 type: artist
-country:
+country: Belgium
 tagline:
 description:
 related-persons:
 connections:
+layout: person
 ---

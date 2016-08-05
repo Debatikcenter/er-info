@@ -1,0 +1,23 @@
+---
+name: "The Whale That Was a Submarine: Contemporary Positions from Albania and Kosovo"
+year: 2016-07-15
+tagline: Group exhibition at the Ludwig Múzeum Budapest
+related-persons: "Endri Dani, Helidon Gjergji, Alban Hajdinaj, Edi Hila, Ardian Isufi, Ilir Kaso, Olson Lamaj, Armando Lulaj, Violana Murataj, Matilda Odobashi, Adrian Paci, Remijon Pronja, Anri Sala, Gentian Shkurti, Fani Zguro, Jakup Ferri, Flaka Haliti, Haveit, Majlinda Hoxha, Genc Kadriu, Koja, Dren Maliqi, Alban Muja, Driton Selmani, Sislej Xhafa, Julia Fabényi"
+value:
+area: culture
+enddate: 2016-09-11
+layout: project
+---
+Participating artists
+* Albania: Endri Dani, Helidon Gjergji, Alban Hajdinaj, Edi Hila, Ardian Isufi, Ilir Kaso, Olson Lamaj, Armando Lulaj, Violana Murataj, Matilda Odobashi, Adrian Paci, Remijon Pronja, Anri Sala, Gentian Shkurti, Fani Zguro
+* Kosovo: Jakup Ferri, Flaka Haliti, Haveit, Majlinda Hoxha, Genc Kadriu, Koja, Dren Maliqi, Alban Muja, Driton Selmani, Sislej Xhafa
+* Curator: Julia Fabényi
+
+>One of the priorities at Ludwig Museum – Museum of Contemporary Art, Budapest is to keep track of the contemporary art scenes and new tendencies of the Central and Eastern European region and the post-socialist countries. The exhibition presenting a selection of contemporary positions from the art scenes of Albania and Kosovo in the summer of 2016 is part of this tendency. Focusing on the art practices of the last 10–15 years in the two areas, the exhibition juxtaposes the freshest voices from the two countries.
+The exhibition does not aim to be complete: it does not provide retrospective overview of the evolution of the two cultural milieus, nor does it examine the activity of artists from a historical aspect. An array of 25 artists and art collectives, the selection grasps the dynamics pervading the two scenes: the exhibition at once presents works that can be considered milestones, statements that facilitated the international presence of each scene, and projects engendered as imprints or witnesses of long processes. It is through these positions that the selection explores the phenomena that have functioned as the driving force in each country and its artists.
+The exhibition is arranged into thematic units along relevant issues that shape the two scenes separately or collectively. The selected works revolve around thematic threads focusing, for instance, on the critical analysis of the geographical location and social status of the artists; visual experiments reflecting on the weight of past regimes; the attitude aiming to push the delicate boundaries between personal narratives and collective memory; the painful, occasionally absurd phenomenon of seeking an identity; gender issues through the visualization of unwritten stories; the decoding of the urban environment of Albania and Kosovo as a kind of social, economic, and political imprint, relying on “landscape schemes.”
+Spanning several generations, The Whale That Was a Submarine attempts to explore the powerful contemporary artistic positions of the two countries, Albania and Kosovo, outside the context of the Balkans. The selection endeavors to create a dialogue and to provide a possible interpretation of the relation between the two scenes, outlining common points, contrasts as well as delicate, subtle tones and transitions, opening up further considerations and inquiries, and providing an opportunity for the international public to get acquainted with these cultural milieus.
+
+Links:
+* <http://www.e-flux.com/announcements/contemporary-positions-from-albania-and-kosovo/>
+* <http://www.ludwigmuseum.hu/site.php?inc=program&programId=4690&menuId=64>

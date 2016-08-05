@@ -4,7 +4,7 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    height: 60px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -92,6 +92,122 @@
     }
 }
 
+/**
+ * visualization
+ */
+ .links line {
+   stroke: #999;
+   stroke-opacity: 0.6;
+ }
+
+ .nodes circle {
+   stroke-width: 0;
+ }
+ .nodes circle:hover, .nodes circle:focus {
+   stroke-width: 2px;
+   stroke: #fff;
+ }
+ [type="artist"]{
+   fill: #EF5032;
+ }
+ [type="architect"]{
+   fill: #FFDC01;
+ }
+ [type="politician"]{
+   fill: #C1D72F;
+ }
+ [type="curator"]{
+   fill: #7E3F98;
+ }
+ [type="bureaucrat"]{
+   fill: #0093D0;
+ }
+ [type="other"]{
+   fill: #A1988A;
+ }
+ nav#menu {
+   position: absolute;
+   top:0;
+   left:0;
+   z-index: 2;
+   ul {
+     list-style-type: none;
+     margin: 0;
+     button {
+       width: 90px;
+       color: #fff;
+       text-align: left;
+       border: 0;
+       margin-left: 0;
+       transition: margin-left .5s ease;
+     }
+     button.active {
+       margin-left: 20px;
+     }
+     [name="architect"] {
+       background-color: #FFDC01;
+     }
+     [name="artist"] {
+       background-color: #EF5032;
+     }
+     [name="politician"] {
+       background-color: #C1D72F;
+     }
+     [name="curator"] {
+       background-color: #7E3F98;
+     }
+     [name="bureaucrat"] {
+       background-color: #0093D0;
+     }
+     [name="other"] {
+       background-color: #A1988A;
+     }
+   }
+ }
+
+.search {
+  position: absolute;
+  top:15px;
+  right:10px;
+  z-index: 2;
+  input {
+    text-align: center;
+    width: 100%;
+  }
+  ul {
+    display: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 15px 5px;
+    background-color: #fff;
+    border: 1px solid #bbb;
+    li {
+      text-align: center;
+      max-width: 164px;
+    }
+  }
+}
+
+.personal-data {
+  height: 90vh;
+  padding: 5vh 0 0 0;
+  p:first-child {
+    margin-bottom: 15px;
+  }
+  p:nth-child(2) {
+    margin-bottom: 15px;
+  }
+  .list-of-projects{
+    max-height: 90%;
+    overflow-y: auto;
+  }
+}
+
+.slider {
+  position:absolute;
+  bottom: 20px;
+  left: 10px;
+}
 
 
 /**
@@ -168,7 +284,8 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: 0;
+    position: relative;
 }
 
 .page-heading {

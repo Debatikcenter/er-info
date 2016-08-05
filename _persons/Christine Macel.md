@@ -6,4 +6,5 @@ tagline: Chief Curator of the Centre Pompidou; Director of the 57th Venice Bienn
 description:
 related-persons:
 connections:
+layout: person
 ---

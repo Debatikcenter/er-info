@@ -1,0 +1,10 @@
+---
+name: Ambra Fabi
+type: architect
+country: Italy
+tagline: PIOVENEFABI
+description:
+related-persons:
+connections:
+layout: person
+---

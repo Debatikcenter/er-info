@@ -150,7 +150,7 @@ pre {
 .site-header {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
-  min-height: 56px;
+  height: 60px;
   position: relative; }
 
 .site-title {
@@ -209,6 +209,103 @@ pre {
           margin-right: 0; } }
 
 /**
+ * visualization
+ */
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6; }
+
+.nodes circle {
+  stroke-width: 0; }
+
+.nodes circle:hover, .nodes circle:focus {
+  stroke-width: 2px;
+  stroke: #fff; }
+
+[type="artist"] {
+  fill: #EF5032; }
+
+[type="architect"] {
+  fill: #FFDC01; }
+
+[type="politician"] {
+  fill: #C1D72F; }
+
+[type="curator"] {
+  fill: #7E3F98; }
+
+[type="bureaucrat"] {
+  fill: #0093D0; }
+
+[type="other"] {
+  fill: #A1988A; }
+
+nav#menu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2; }
+  nav#menu ul {
+    list-style-type: none;
+    margin: 0; }
+    nav#menu ul button {
+      width: 90px;
+      color: #fff;
+      text-align: left;
+      border: 0;
+      margin-left: 0;
+      transition: margin-left .5s ease; }
+    nav#menu ul button.active {
+      margin-left: 20px; }
+    nav#menu ul [name="architect"] {
+      background-color: #FFDC01; }
+    nav#menu ul [name="artist"] {
+      background-color: #EF5032; }
+    nav#menu ul [name="politician"] {
+      background-color: #C1D72F; }
+    nav#menu ul [name="curator"] {
+      background-color: #7E3F98; }
+    nav#menu ul [name="bureaucrat"] {
+      background-color: #0093D0; }
+    nav#menu ul [name="other"] {
+      background-color: #A1988A; }
+
+.search {
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  z-index: 2; }
+  .search input {
+    text-align: center;
+    width: 100%; }
+  .search ul {
+    display: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 15px 5px;
+    background-color: #fff;
+    border: 1px solid #bbb; }
+    .search ul li {
+      text-align: center;
+      max-width: 164px; }
+
+.personal-data {
+  height: 90vh;
+  padding: 5vh 0 0 0; }
+  .personal-data p:first-child {
+    margin-bottom: 15px; }
+  .personal-data p:nth-child(2) {
+    margin-bottom: 15px; }
+  .personal-data .list-of-projects {
+    max-height: 90%;
+    overflow-y: auto; }
+
+.slider {
+  position: absolute;
+  bottom: 20px;
+  left: 10px; }
+
+/**
  * Site footer
  */
 .site-footer {
@@ -264,7 +361,8 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 0;
+  position: relative; }
 
 .page-heading {
   font-size: 20px; }

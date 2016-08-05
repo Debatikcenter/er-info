@@ -6,6 +6,7 @@ tagline: Inter.National.Design
 description:
 related-persons:
 connections:
+layout: person
 ---
 
 Links:

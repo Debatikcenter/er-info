@@ -6,6 +6,7 @@ tagline:
 description:
 related-persons: Adrian Paci
 connections:
+layout: person
 ---
 Links:
-* 
+*

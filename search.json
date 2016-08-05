@@ -1,0 +1,11 @@
+---
+layout: null
+---
+[
+  {% for person in site.persons %}
+    {
+    "title"    : "{{ person.name | escape }}",
+    "url"    : "{{ person.url }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]

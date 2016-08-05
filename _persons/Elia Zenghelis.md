@@ -6,4 +6,5 @@ tagline: Gigantes Zenghelis Architects
 description:
 related-persons:
 connections:
+layout: person
 ---

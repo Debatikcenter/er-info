@@ -4,6 +4,9 @@ year: 2014-02-01
 tagline: Article in Art Forum
 related-persons: "Hans Ulrich Obrist, Anri Sala, Edi Rama"
 value:
+area: culture
+enddate: 2014-02-01
+layout: project
 ---
 
 Links:

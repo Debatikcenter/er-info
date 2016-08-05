@@ -2,22 +2,9 @@
 layout: default
 ---
 <svg id="svg" width="960" height="600"></svg>
-<div class="home" style="display:none;" >
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="slider">
+  Number of projects in common
+  <input type="range" min="1" max="18" value="2" step="1">
+  <span>2</span>
 </div>

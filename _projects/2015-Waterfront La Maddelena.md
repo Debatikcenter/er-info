@@ -4,6 +4,9 @@ year: 2015-01-01
 tagline:
 related-persons: "Stefano Boeri, Rem Koolhaas, Petra Blaisse"
 value:
+area: urbanism
+enddate:
+layout: project
 ---
 
 Masterplan for waterfront in La Maddalena, Sardinia

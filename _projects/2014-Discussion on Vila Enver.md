@@ -4,6 +4,9 @@ year: 2014-02-24
 tagline:
 related-persons: "Andreas Ruby, Adelina Greca, Eglantina Gjermeni, Erion Veliaj, Mirela Kumbaro"
 value:
+area: urbanism
+enddate: 2014-02-24
+layout: project
 ---
 
 Organized by Atelier Albania in the former villa of Enver Hoxha, later to be included in the Cultural Quartet Competition.
