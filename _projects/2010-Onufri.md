@@ -2,7 +2,7 @@
 name: "Onufri International Exhibition XVII – I Am Art(ist)"
 year: 2010-12-01
 tagline:
-related-persons: "Gazmend Leka, Andi Hila, Edmond Gjikopulli, Yllka Gjollesha, Gjergj Shoshi, Ledia Konstandini, Heldi Pema, Endri Dani, Gentian Gjikopulli, Matilda Odobashi, Genti Korini, Alketa Ramaj, Oriana Kamberi, Artan Draçini, Sidi Kanani, Nikolin Bujari, Rrezeart Galica, Sabile Tmava, Driton Selmani, Sara Çapaliku, Violana Murataj, Enkelejd Zonja, Greta Dhaskali Lami, Ilirjan Shima, Entela Kasemi, Ilirian Shima, Rubens Shima"
+related-persons: "Gazmend Leka, Andi Hila, Edmond Gjikopulli, Yllka Gjollesha, Gjergj Shoshi, Ledia Konstandini, Heldi Pema, Endri Dani, Gentian Gjikopulli, Matilda Odobashi, Genti Korini, Alketa Ramaj, Oriana Kamberi, Artan Draçini, Sidi Kanani, Nikolin Bujari, Rrezeart Galica, Sabile Tmava, Driton Selmani, Sara Çapaliku, Violana Murataj, Enkelejd Zonja, Greta Dhaskali Lami, Entela Kasemi, Ilirian Shima, Rubens Shima"
 value:
 area: culture
 enddate: 2011-01-01

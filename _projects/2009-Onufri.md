@@ -2,7 +2,7 @@
 name: "Onufri International Exhibition XVI"
 year: 2009-12-01
 tagline:
-related-persons: "Parid Teferiçi, Robert Aliaj Dragot, Ervin Bërxolli, Albion Bogdani, Klodian Dedja, Najada Hamza,  Eugert Hykaj, Edmond Gjikopulli, Gentian Gjikopulli, Yllka Gjollesha, Gjelosh Gjokaj, Helidon Haliti, Ziso Kamberaj, Blerta Kambo, Greta Dhaskali Lami, Olson Lamaj, Gazmend Leka, Elsa Martini, Gazmend Muka, Fatmir Musaj, Vladimir Myrtezaj, Hasan Nallbani, Zinni Veshi, Pleurad Xhafa, Gent Pipa, Gëzim Tafa, Aldi Zgjani, Enkelejd Zonja, Rubens Shima"
+related-persons: "Parid Tefereçi, Robert Aliaj Dragot, Ervin Bërxolli, Albion Bogdani, Klodian Dedja, Najada Hamza, Eugert Hykaj, Edmond Gjikopulli, Gentian Gjikopulli, Yllka Gjollesha, Gjelosh Gjokaj, Helidon Haliti, Ziso Kamberaj, Blerta Kambo, Greta Dhaskali Lami, Olson Lamaj, Gazmend Leka, Elsa Martini, Gazmend Muka, Fatmir Musaj, Vladimir Myrtezai, Hasan Nallbani, Zinni Veshi, Pleurad Xhafa, Gent Pipa, Gëzim Tafa, Aldi Zgjani, Enkelejd Zonja, Rubens Shima"
 value:
 area: culture
 enddate: 2010-01-01

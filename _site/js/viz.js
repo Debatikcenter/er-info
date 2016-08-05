@@ -65,9 +65,9 @@ function createGraph( query, grade ){
       persons = graph.nodes;
     }
 
-    if( grade != 1 ) {
-      links = $.grep( links, function(n, i){ return parseInt(n.grade) >= grade; } );
-    }
+    // if( grade != 1 ) {
+    //   links = $.grep( links, function(n, i){ return parseInt(n.grade) >= grade; } );
+    // }
 
     container = svg.append("g");
 
@@ -110,10 +110,10 @@ function createGraph( query, grade ){
     $(".nodes circle").each(function(){
       var id = $(this).data("id");
       var r = 0;
-      $(".links [source='"+id+"']").each(function(){
+      $('.links [source="'+id+'"]').each(function(){
         r += parseInt( $(this).attr("grade") );
       });
-      $(".links [target='"+id+"']").each(function(){
+      $('.links [target="'+id+'"]').each(function(){
         r += parseInt( $(this).attr("grade") );
       });
       if(query==""){
@@ -131,7 +131,7 @@ function createGraph( query, grade ){
         .on("tick", ticked)
 
     simulation.force("collide", d3.forceCollide().radius(function(d) {
-              return $(".nodes circle[data-id='"+ d.id +"']").attr("r");
+              return $('.nodes circle[data-id="'+ d.id +'"]').attr("r");
             }).iterations(2)); // return 5 + ($(".links [source='"+d.id+"']").length + $(".links [target='"+d.id+"']").length)/7;
 
     simulation.force()

@@ -2,7 +2,7 @@
 name: "T.I.C.A.B – Tirana International Contemporary Art Biannual"
 year: 2009-09-18
 tagline: 4th Tirana Biennale held in Hotel Dajti
-related-persons: "Joa Ljungberg, Edi Muka, Ana Dzokic, Marc Neelen, Helidon Gjergji, Adrian Paci, Leonard Qylafi, Ardian Isufi, Gëzim Qëndro, Adelina Greca, Anri Sala, Helidon Gjergji, Yae Bartana"
+related-persons: "Joa Ljungberg, Edi Muka, Ana Dzokic, Marc Neelen, Helidon Gjergji, Adrian Paci, Leonard Qylafi, Ardian Isufi, Gëzim Qëndro, Adelina Greca, Anri Sala, Helidon Gjergji, Yael Bartana"
 value:
 area: culture
 enddate: 2009-10-22
