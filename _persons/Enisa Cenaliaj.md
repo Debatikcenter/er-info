@@ -1,7 +1,7 @@
 ---
-name: Joanna Rytel
+name: Enisa Cenaliaj
 type: artist
-country: Sweden
+country: Albania
 tagline:
 description:
 related-persons:
@@ -9,4 +9,4 @@ connections:
 layout: person
 ---
 Links:
-* <http://www.joannarytel.com/>
+* <http://performingtheeast.com/enisa-cenaliaj/>

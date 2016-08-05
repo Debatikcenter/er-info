@@ -1,12 +1,10 @@
 ---
-name: Joanna Rytel
+name: Mandla Reuter
 type: artist
-country: Sweden
+country: Germany
 tagline:
 description:
 related-persons:
 connections:
 layout: person
 ---
-Links:
-* <http://www.joannarytel.com/>

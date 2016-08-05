@@ -1,12 +1,10 @@
 ---
-name: Joanna Rytel
+name: Tatiana
 type: artist
-country: Sweden
+country: Italy
 tagline:
 description:
 related-persons:
 connections:
 layout: person
 ---
-Links:
-* <http://www.joannarytel.com/>

@@ -1,12 +1,10 @@
 ---
-name: Joanna Rytel
+name: Elda Gjikondi
 type: artist
-country: Sweden
+country: Albania
 tagline:
 description:
 related-persons:
 connections:
 layout: person
 ---
-Links:
-* <http://www.joannarytel.com/>
