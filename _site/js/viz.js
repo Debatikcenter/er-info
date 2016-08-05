@@ -70,6 +70,7 @@ function createGraph( query, grade ){
     // }
 
     container = svg.append("g");
+    container.attr("transform", "translate(400, 200)scale(0.5)");
 
     root = persons.find(function(p){ return p.id == query; });
 
@@ -173,6 +174,7 @@ svg.call(d3.zoom()
 function zoomed(){
   var transform = d3.event.transform;
   container.attr("transform", "translate(" + transform.x + "," + transform.y + ")scale(" + transform.k + ")");
+  // console.log("translate(" + transform.x + "," + transform.y + ")scale(" + transform.k + ")");
 }
 
 
