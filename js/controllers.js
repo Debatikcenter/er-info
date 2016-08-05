@@ -47,6 +47,8 @@ $(document).ready(function(){
   $(".slider input").change(function(){
     var val = $(this).val();
     $(".slider span").text(val);
+    // links = $.grep( links, function(n, i){ return parseInt(n.grade) >= val; } );
+    // simulation.restart();
     $("line").each(function(){
       if( parseInt( $(this).attr("grade") ) < val ){
         $(this).hide();

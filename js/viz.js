@@ -65,6 +65,10 @@ function createGraph( query, grade ){
       persons = graph.nodes;
     }
 
+    // if( grade != 1 ) {
+    //   links = $.grep( links, function(n, i){ return parseInt(n.grade) >= grade; } );
+    // }
+
     container = svg.append("g");
 
     root = persons.find(function(p){ return p.id == query; });
@@ -89,8 +93,6 @@ function createGraph( query, grade ){
         .attr("title", function(d) { return d.name; })
         .attr("data-id", function(d) { return d.id; })
         .attr("type", function(d) { return d.type; })
-
-        // .attr("r", 5)
         .call(d3.drag()
             .on("start", dragstarted)
             .on("drag", dragged)
@@ -132,34 +134,34 @@ function createGraph( query, grade ){
               return $(".nodes circle[data-id='"+ d.id +"']").attr("r");
             }).iterations(2)); // return 5 + ($(".links [source='"+d.id+"']").length + $(".links [target='"+d.id+"']").length)/7;
 
+    simulation.force()
+
         // Just for debugging
         // console.log("Links");
         // console.log(graph.links);
 
-        simulation.force("link")
-            .links(links);
+    simulation.force("link")
+        .links(links);
 
-        function ticked() {
-          link
-              .attr("x1", function(d) { return d.source.x; })
-              .attr("y1", function(d) { return d.source.y; })
-              .attr("x2", function(d) { return d.target.x; })
-              .attr("y2", function(d) { return d.target.y; });
+    function ticked() {
+      link
+          .attr("x1", function(d) { return d.source.x; })
+          .attr("y1", function(d) { return d.source.y; })
+          .attr("x2", function(d) { return d.target.x; })
+          .attr("y2", function(d) { return d.target.y; });
 
-          node
-              .attr("cx", function(d) { return d.x; })
-              .attr("cy", function(d) { return d.y; });
-          // node.attr("cx", function(d) { return d.x = Math.max(10, Math.min(width - 10, d.x)); })
-          //     .attr("cy", function(d) { return d.y = Math.max(10, Math.min(height - 10, d.y)); });
+      node
+          .attr("cx", function(d) { return d.x; })
+          .attr("cy", function(d) { return d.y; });
+    }
+
+    if( query == "" ){
+      $("line").each(function(){
+        if( parseInt( $(this).attr("grade") ) < 2 ){
+          $(this).hide();
         }
-
-        if( query == "" ){
-          $("line").each(function(){
-            if( parseInt( $(this).attr("grade") ) < 2 ){
-              $(this).hide();
-            }
-          });
-        }
+      });
+    }
 });
 }
 
