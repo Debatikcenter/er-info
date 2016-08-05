@@ -12,7 +12,7 @@ layout: project
 * Jury:
 * Other competitors:
 
-After the first failed attempt to expand the parliament building at the Boulevard of the Martyrs, a new competition was announced in late 2010 to build a completely new parliament at the site of the Pyramid, the former Mausoleum of Enver Hoxha and International Cultural Center. At the same time, the Council of Ministers, then headed by Sali Berisha, decided to destroy the Pyramid, which, however, never happened. Like the former plan by Mario Campi, Fabio Reinhart, and Agron Jano, the Coop Himmelb(l)au design for an "Open Parliament" was never realized.
+After the first failed attempt to expand the parliament building at the Boulevard of the Martyrs, a new competition was announced in late 2010 to build a completely new parliament at the site of the Pyramid, the former Mausoleum of Enver Hoxha and International Cultural Center. At the same time, the Council of Ministers, then headed by Sali Berisha, decided to destroy the Pyramid, which, however, never happened; President Bamir Topi refused to sign the decree. Like the former plan by Mario Campi, Fabio Reinhart, and Agron Jano, the Coop Himmelb(l)au design for an "Open Parliament" was never realized.
 
 According to [Wolf D. Prix](http://derstandard.at/1304554312065/Letztendlich-sind-die-Studenten-auch-selber-schuld):
 >But the thing that delights me the most, is that we’re gonna build the parliament of Tirana, Albania. To design a building for democracy, is one of the most prestigious tasks.

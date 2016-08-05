@@ -2,7 +2,7 @@
 name: "MJAFT!"
 year: 2003-01-01
 tagline: NGO
-related-persons: "Erion Veliaj, Milva Ekonomi, Endri Fuga, George Soros, Rubin Beqo, Arbjan Mazniku, Valdete Sala, Arbër Veliaj, Delina Fico"
+related-persons: "Erion Veliaj, Milva Ekonomi, Endri Fuga, George Soros, Rubin Beqo, Arbjan Mazniku, Valdete Sala, Arbër Veliaj, Delina Fico, Aldo Bumçi"
 value:
 area: government
 enddate:
