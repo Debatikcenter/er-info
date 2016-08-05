@@ -1,11 +1,10 @@
 ---
 name: Erzen Shkololli
-type: curator
+type: artist
 country: Kosovo
-tagline: Curator of COD (2016-)
+tagline:
 description:
 related-persons:
 connections:
 layout: person
 ---
-Former Director of the National Gallery of Arts in Prishtina, Kosovo.
