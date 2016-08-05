@@ -238,7 +238,7 @@ pre {
   fill: #0093D0; }
 
 [type="other"] {
-  fill: #633c00; }
+  fill: #905700; }
 
 nav#menu {
   position: absolute;
@@ -268,7 +268,7 @@ nav#menu {
     nav#menu ul [name="bureaucrat"] {
       background-color: #0093D0; }
     nav#menu ul [name="other"] {
-      background-color: #633c00; }
+      background-color: #905700; }
 
 .search {
   position: absolute;

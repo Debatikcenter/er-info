@@ -6,7 +6,6 @@ var svg = d3.select("#svg"),
       .attr("height", height);
 
 var width = parseInt( $("#svg").css("width"), 10 );
-console.log(width);
 
 var container;
 var data = baseurl+"/persons.json";
@@ -25,6 +24,7 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody().strength(function(){ if(query!="") return -300; else return -150; }))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
+simulation.alphaTarget(0.1);
 // var query = "";
 
 // if( url.indexOf("person") != -1 ){
@@ -70,7 +70,10 @@ function createGraph( query, grade ){
     // }
 
     container = svg.append("g");
-    container.attr("transform", "translate(400, 200)scale(0.5)");
+
+    if(query == ""){
+        container.attr("transform", "translate(400, 200)scale(0.5)");
+    }
 
     root = persons.find(function(p){ return p.id == query; });
 
@@ -135,7 +138,6 @@ function createGraph( query, grade ){
               return $('.nodes circle[data-id="'+ d.id +'"]').attr("r");
             }).iterations(2)); // return 5 + ($(".links [source='"+d.id+"']").length + $(".links [target='"+d.id+"']").length)/7;
 
-    simulation.force()
 
         // Just for debugging
         // console.log("Links");
@@ -194,6 +196,8 @@ function dragended(d) {
   d.fx = null;
   d.fy = null;
 }
+
+// setInterval(function(){ simulation.alpha(0.15); }, 1000);
 
 // click on a circle
 // $(document).on('click', 'circle', function(){

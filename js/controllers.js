@@ -15,8 +15,8 @@ $(document).ready(function(){
             $(this).css({ "opacity": "1", "transition": "opacity .5s ease" });
           } else {
             $(this).css({ "opacity": "0", "transition": "opacity .5s ease" });
-            $("line[source='"+$(this).data('id')+"']").css({ "opacity": "0", "transition": "opacity .5s ease" });
-            $("line[target='"+$(this).data('id')+"']").css({ "opacity": "0", "transition": "opacity .5s ease" });
+            $('line[source="'+$(this).data('id')+'"]').css({ "opacity": "0", "transition": "opacity .5s ease" });
+            $('line[target="'+$(this).data('id')+'"]').css({ "opacity": "0", "transition": "opacity .5s ease" });
           }
         });
       }
@@ -34,8 +34,8 @@ $(document).ready(function(){
           var type = $(this).attr("type");
           if(activeNodes.indexOf(type) != -1){
             $(this).css({ "opacity": "1", "transition": "opacity .5s ease" });
-            $("line[source='"+$(this).data('id')+"']").css({ "opacity": "1", "transition": "opacity .5s ease" });
-            $("line[target='"+$(this).data('id')+"']").css({ "opacity": "1", "transition": "opacity .5s ease" });
+            $('line[source="'+$(this).data('id')+'"]').css({ "opacity": "1", "transition": "opacity .5s ease" });
+            $('line[target="'+$(this).data('id')+'"]').css({ "opacity": "1", "transition": "opacity .5s ease" });
           } else {
             $(this).css({ "opacity": "0", "transition": "opacity .5s ease" });
           }
@@ -58,16 +58,3 @@ $(document).ready(function(){
     })
   })
 })
-
-
-// if( query != "" ) {
-//   $("line").css({ "opacity": "0", "transition": "opacity .5s ease" });
-//   $("circle[data-id='"+query+"']").css({ "opacity": "1", "transition": "opacity .5s ease" });
-//   $("circle").each(function(){
-//     var type = $(this).attr("type");
-//     if(activeNodes.indexOf(type) != -1){
-//       $("line[target='"+$(this).data('id')+"']").css({ "opacity": "1", "transition": "opacity .5s ease" });
-//       $("line[source='"+$(this).data('id')+"']").css({ "opacity": "1", "transition": "opacity .5s ease" });
-//     }
-//   });
-// }
