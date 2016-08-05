@@ -1,12 +1,10 @@
 ---
-name: Joanna Rytel
+name: Driton Hajredini
 type: artist
-country: Sweden
+country: Kosovo
 tagline:
 description:
 related-persons:
 connections:
 layout: person
 ---
-Links:
-* <http://www.joannarytel.com/>

@@ -1,5 +1,5 @@
 ---
-name: Joanna Rytel
+name: Henrik Eriksson
 type: artist
 country: Sweden
 tagline:
@@ -8,5 +8,3 @@ related-persons:
 connections:
 layout: person
 ---
-Links:
-* <http://www.joannarytel.com/>

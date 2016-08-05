@@ -1,7 +1,7 @@
 ---
-name: Joanna Rytel
+name: Alessandro Nassiri Tabibzadeh
 type: artist
-country: Sweden
+country: Italy
 tagline:
 description:
 related-persons:
@@ -9,4 +9,4 @@ connections:
 layout: person
 ---
 Links:
-* <http://www.joannarytel.com/>
+* <http://www.alessandronassiri.net/>

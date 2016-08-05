@@ -1,12 +1,10 @@
 ---
-name: Joanna Rytel
+name: Kirsten Pieroth
 type: artist
-country: Sweden
+country: Germany
 tagline:
 description:
 related-persons:
 connections:
 layout: person
 ---
-Links:
-* <http://www.joannarytel.com/>

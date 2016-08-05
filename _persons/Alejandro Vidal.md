@@ -1,7 +1,7 @@
 ---
-name: Joanna Rytel
+name: Alejandro Vidal
 type: artist
-country: Sweden
+country: Spain
 tagline:
 description:
 related-persons:
@@ -9,4 +9,4 @@ connections:
 layout: person
 ---
 Links:
-* <http://www.joannarytel.com/>
+* <http://www.alejandrovidal.info/>
