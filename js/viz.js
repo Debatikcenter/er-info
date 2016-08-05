@@ -63,7 +63,7 @@ function createGraph( query, grade ){
     } else {
       links = graph.links;
       persons = graph.nodes;
-      simulation.alphaTarget(0.15);
+      simulation.alphaTarget(0.2);
     }
 
     // if( grade != 1 ) {

@@ -24,7 +24,6 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody().strength(function(){ if(query!="") return -300; else return -150; }))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
-simulation.alphaTarget(0.1);
 // var query = "";
 
 // if( url.indexOf("person") != -1 ){
@@ -60,9 +59,11 @@ function createGraph( query, grade ){
       persons  = $.grep(graph.nodes, function(n, i){
         return ( ($.inArray(n.id, nodes) != -1) || n.id==query )
       });
+      simulation.alphaTarget(0.1);
     } else {
       links = graph.links;
       persons = graph.nodes;
+      simulation.alphaTarget(0.15);
     }
 
     // if( grade != 1 ) {
