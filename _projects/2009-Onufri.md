@@ -2,7 +2,7 @@
 name: "Onufri International Exhibition XVI"
 year: 2009-12-01
 tagline:
-related-persons: "Parid Tefereçi, Robert Aliaj Dragot, Ervin Bërxolli, Albion Bogdani, Klodian Dedja, Najada Hamza, Eugert Hykaj, Edmond Gjikopulli, Gentian Gjikopulli, Yllka Gjollesha, Gjelosh Gjokaj, Helidon Haliti, Ziso Kamberaj, Blerta Kambo, Greta Dhaskali Lami, Olson Lamaj, Gazmend Leka, Elsa Martini, Gazmend Muka, Fatmir Musaj, Vladimir Myrtezai, Hasan Nallbani, Zinni Veshi, Pleurad Xhafa, Gent Pipa, Gëzim Tafa, Aldi Zgjani, Enkelejd Zonja, Rubens Shima"
+related-persons: "Parid Tefereçi, Robert Aliaj Dragot, Ervin Bërxolli, Albion Bogdani, Klodian Dedja, Najada Hamza, Eugert Hykaj, Edmond Gjikopulli, Gentian Gjikopulli, Yllka Gjollesha, Gjelosh Gjokaj, Helidon Haliti, Ziso Kamberaj, Blerta Kambo, Greta Dhaskali Lami, Olson Lamaj, Gazmend Leka, Elsa Martini, Gazmend Muka, Fatmir Musaj, Vladimir Myrtezai, Hasan Nallbani, Zinni Veshi, Pleurad Xhafa, Gent Pipa, Gëzim Tafa, Aldi Zgjani, Enkelejd Zonja, Rubens Shima, Ferdinand Xhaferraj"
 value:
 area: culture
 enddate: 2010-01-01
@@ -14,7 +14,7 @@ layout: project
 * First Prize: Hasan Nallbani
 * Second Prize: Enkelejd Zonja, Aldi Zgjani
 
-Organized in the National Gallery of Arts.
+Organized in the National Gallery of Arts, under the auspices of the Ministry of Tourism, Culture, Youth, and Sports.
 
 
 Links:
