@@ -1,8 +1,8 @@
 ---
-name: Vladimir Myrtezai
-type: curator
+name: Najada Mehmetaj
+type: artist
 country: Albania
-tagline: Director of paMUR and Tirana Open
+tagline:
 description:
 related-persons:
 connections:

@@ -1,8 +1,8 @@
 ---
-name: Francesca Kaufmann
-type: curator
+name: Daniela Comani
+type: artist
 country: Italy
-tagline: Gallerist at Kaufmann Repetto
+tagline: 
 description:
 related-persons:
 connections:

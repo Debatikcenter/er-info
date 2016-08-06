@@ -1,8 +1,8 @@
 ---
-name: Tirana Open 1 – paMUR
+name: "Tirana Open 1 – paMUR"
 year: 2015-05-06
 tagline: Festival of Literature and the Arts
-related-persons: "Vladimir Myrtezai, Helidon Gjergji, Adrian Paci, Mirela Kumbaro, Ibro Hasanović, Cauleen Smith, Alban Muja, Anri Sala, Driant Zeneli, Matilda Odobashi"
+related-persons: "Vladimir Myrtezai, Helidon Gjergji, Adrian Paci, Mirela Kumbaro, Ibro Hasanović, Cauleen Smith, Alban Muja, Anri Sala, Driant Zeneli, Matilda Odobashi, Mirela Kumbaro, Edi Rama, Yllka Gjollesha"
 value:
 area: culture
 enddate: 2015-05-13
@@ -11,8 +11,9 @@ layout: project
 
 Tirana Open, absorbing the paMUR visual arts festival, was supposed to be an event comparable to the former Tirana Biennials and become an annually returning festival of art, music, and literature. It was never held again.
 
-Directed by Vladimir Myrtezai and Helidon Gjergji.
-Special Artist Lecture by Adrian Paci
+Directed by Vladimir Myrtezai and Helidon Gjergji, under the auspices of Edi Rama.
+Special Artist Lecture: Adrian Paci
+Special Guest Artist: William Kentridge
 
 Danish Jukniu Award
 Winners: Ibro Hasanović, Cauleen Smith

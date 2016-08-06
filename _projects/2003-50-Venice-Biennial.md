@@ -2,7 +2,7 @@
 name: 50th Venice Biennial
 year: 2003-05-14
 tagline:
-related-persons: "Dominique Gonzalez-Foerster, Molly Nesbit, Rirkrit Tiravanija, Hans Ulrich Obrist, Philippe Parreno, Carsten Höller, Edi Rama, Anri Sala, Gerhard Richter, Thomas Demand, Olafur Eliasson, Liam Gillick, Francesco Bonami"
+related-persons: "Dominique Gonzalez-Foerster, Molly Nesbit, Rirkrit Tiravanija, Hans Ulrich Obrist, Philippe Parreno, Carsten Höller, Edi Rama, Anri Sala, Thomas Demand, Olafur Eliasson, Liam Gillick, Francesco Bonami"
 value:
 area: culture
 enddate: 2003-11-02

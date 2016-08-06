@@ -1,8 +1,8 @@
 ---
-name: Francesca Kaufmann
+name: Roberto Lacarbonara
 type: curator
 country: Italy
-tagline: Gallerist at Kaufmann Repetto
+tagline:
 description:
 related-persons:
 connections:

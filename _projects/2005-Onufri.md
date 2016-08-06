@@ -2,7 +2,7 @@
 name: "Onufri International Exhibition XII –  Experiment in Terror"
 year: 2005-12-01
 tagline:
-related-persons: "Ilir Butka, Ardian Isufi, Artan Shabani, Gazmend Leka, Suela Qoshja, Heldi Pema, Ali Oseku, Eleni Laperi, Hasan Nallbani, Rudina Memaga, Harri Pälviranta, Knutte Wester, Claudia Maria Luenig, Fred Misik, Maria Paschalidou, Irini Linardaki"
+related-persons: "Ilir Butka, Ardian Isufi, Artan Shabani, Gazmend Leka, Suela Qoshja, Heldi Pema, Ali Oseku, Eleni Laperi, Hasan Nallbani, Rudina Memaga, Harri Pälviranta, Knutte Wester, Claudia Maria Luenig, Fred Misik, Maria Paschalidou, Irini Linardaki, Bujar Leskaj"
 value:
 area: culture
 enddate: 2006-01-01
@@ -15,7 +15,7 @@ layout: project
 * Second Prize:
 * Special Prize: Ilir Butka, Ardian Isufi
 
-Organized in the National Gallery of Arts.
+Organized in the National Gallery of Arts, under the auspices of the Ministry of Tourism, Culture, Youth, and Sport.
 The first Onufri exhibition under the new Sali Berisha government, and without the collaboration of any of its three initiators: Edi Rama, Edi Muka, and Gëzim Qëndro. For the coming years, there is a resurgence in reactionary art, marked by a decreasing participation of international artists and a curatorial preference for traditional art practices.
 
 Links:

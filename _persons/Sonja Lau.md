@@ -1,8 +1,8 @@
 ---
-name: Francesca Kaufmann
+name: Sonja Lau
 type: curator
-country: Italy
-tagline: Gallerist at Kaufmann Repetto
+country: Germany
+tagline: Curator at T.I.C.A.
 description:
 related-persons:
 connections:
