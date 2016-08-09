@@ -19,6 +19,8 @@ Danish Jukniu Award
 Winners: Ibro Hasanović, Cauleen Smith
 Other competitors: Yuri Ancarani, Olivo Barbieri, Henry Chapman, Donika Çina, Alberto di Fabio, Nathalie Djurberg, DZT Collective, Yllka Gjollesha, Elis Gjoni, Felix Gmelin, Aurora Kalemi, Santiago Mostyn, Alban Muja, Marzena Nowak, Matilda Odobashi, Anri Sala, Sissi, Stefanos Tsivopoulos, The Two Gullivers, Nasan Tur, Nico Vascellari, Kostis Velonis, Driant Zeneli
 
+(Include international artists, too)
+
 
 >Tirana Open is a NGO, based in Tirana with focus on a variety of developments on contemporary culture, and promotion of these developments in various forms, where one of the foremost is the great festive event (annual) that gathers under a roof visual arts, architecture, book, film and music, to make it accessible to a wider public the latest updates on these areas.
 Bearing in mind the international culture and not only that local, we strive to raise a broader dialogue between people and culture institutions, which promises a significant climate cultural exchange.
