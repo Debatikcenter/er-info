@@ -1,6 +1,6 @@
 ---
 name: Blendi Klosi
-type: politian
+type: politician
 country: Albania
 tagline: Minister of Social Welfare and Youth (2015-)
 description:

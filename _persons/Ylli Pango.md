@@ -1,6 +1,6 @@
 ---
 name: Ylli Pango
-type: politian
+type: politician
 country: Albania
 tagline: Former Minister of Tourism, Culture, Youth, and Sport (2007-2009)
 description:

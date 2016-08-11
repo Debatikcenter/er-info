@@ -1,6 +1,6 @@
 ---
 name: Agron Tato
-type: politian
+type: politician
 country: Albania
 tagline: Former Minister of Culture, Youth, and Sports (2002-2003)
 description:

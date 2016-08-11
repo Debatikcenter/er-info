@@ -1,6 +1,6 @@
 ---
 name: Luan Rama
-type: politian
+type: politician
 country: Albania
 tagline: Former Minister of Culture, Youth, and Sport (2001-2002)
 description:
