@@ -1,6 +1,6 @@
 ---
 name: Kastriot Ponari
-type: other
+type: entrepreneur
 country: Albania
 tagline: CEO of Kassel shpk
 description:

@@ -1,6 +1,6 @@
 ---
 name: Cherie Blair
-type: other
+type: entrepreneur
 country: UK
 tagline: Founder and Chair at Omnia Strategy
 description:

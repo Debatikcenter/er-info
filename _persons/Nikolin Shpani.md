@@ -1,6 +1,6 @@
 ---
 name: Nikolin Shpani
-type: other
+type: entrepreneur
 country: Albania
 tagline: Owner of Uleza Ndërtim shpk
 description:

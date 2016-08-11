@@ -1,6 +1,6 @@
 ---
 name: Luan Leka
-type: other
+type: entrepreneur
 country: Albania
 tagline: Businessman
 description:

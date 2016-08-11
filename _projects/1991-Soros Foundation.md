@@ -2,7 +2,7 @@
 name: Soros Open Society Foundation
 year: 1991-01-01
 tagline: One of the first international NGOs to open in Albania
-related-persons: "George Soros, Milva Ekonomi, Remzi Lani, Valdete Sala, Piro Misha, Delina Fico, Olsi Rama, Edi Rama, Eglantina Gjermeni"
+related-persons: "George Soros, Milva Ekonomi, Remzi Lani, Valdete Sala, Piro Misha, Delina Fico, Olsi Rama, Edi Rama, Eglantina Gjermeni, Fron Nahzi"
 value:
 area: government
 enddate:
@@ -10,6 +10,7 @@ layout: project
 ---
 Founders: Milva Ekonomi (Chairperson of the board), Remzi Lani, Valdete Sala, Piro Misha, Delina Fico, Çapajev Gjokutaj
 Former board members: Edi Rama (199?-199?), Eglantina Gjermeni (1996-?)
+First Director: Fron Nahzi
 
 One of the first international NGOs to open a branch in society, the Soros Foundation has had a tremendous influence on Albanian civil society, and the way in which civil society related to politics. Soros stands at the foundation of the Gender Alliance for Development Center (formerly Women's Center) (1994), Remzi Lani's Albanian Media Institute (1995), Piro Misha's Institute for Dialogue and Communication (formerly Book & Communication House) (2000), the Albanian Institute for International Studies (2002), the civil society movement MJAFT! (2003), the Agenda Institute (2006), and political party G99 (2008).
 

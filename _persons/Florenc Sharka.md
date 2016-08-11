@@ -1,6 +1,6 @@
 ---
 name: Florenc Sharka
-type: other
+type: entrepreneur
 country: Albania
 tagline: Director of Leon Konstruksion shpk
 description:
