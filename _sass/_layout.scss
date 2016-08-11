@@ -122,6 +122,9 @@
  [type="bureaucrat"]{
    fill: #0093D0;
  }
+ [type="entrepreneur"]{
+   fill: #006b09;
+ }
  [type="other"]{
    fill: #905700;; //#A1988A;
  }
@@ -158,6 +161,9 @@
      }
      [name="bureaucrat"] {
        background-color: #0093D0;
+     }
+     [name="entrepreneur"] {
+       background-color: #006b09;
      }
      [name="other"] {
        background-color: #905700;
@@ -201,6 +207,9 @@
     max-height: 90%;
     overflow-y: auto;
   }
+}
+#related-persons {
+  display: none;
 }
 
 .slider {

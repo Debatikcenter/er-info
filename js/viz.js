@@ -15,14 +15,23 @@ var links, persons;
 var json;
 
 var query = $("#query").text();
+var projectQuery = $("#project-name").text();
 var url = window.location.href;
 
 var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody().strength(function(){ if(query!="") return -300; else return -150; }))
-    .force("center", d3.forceCenter(width / 2, height / 2));
+    .force("charge", d3.forceManyBody().strength(function(){ if(query!="") return -400; else if(projectQuery != "") return -2000; else return -150; }))
+    .force("center", d3.forceCenter(width / 2, height / 2))
+    // .alphaTarget( function(){ if( query == "" ) return 0.2; else return 0.1 } )
+
+if( query == "" ){
+  simulation.alphaTarget(0.2);
+} else {
+  simulation.alphaTarget(0.1);
+}
+
 
 // var query = "";
 
@@ -59,11 +68,17 @@ function createGraph( query, grade ){
       persons  = $.grep(graph.nodes, function(n, i){
         return ( ($.inArray(n.id, nodes) != -1) || n.id==query )
       });
-      simulation.alphaTarget(0.1);
+    } else if( $("#project-name").text() != "" ) {
+      var relatedPersons = $("#related-persons li").text();
+      persons = $.grep( graph.nodes, function(n, i){
+        return ( relatedPersons.indexOf( n.id ) != -1 );
+      } );
+      links = $.grep( graph.links, function(n, i){
+        return (relatedPersons.indexOf( n.source ) != -1) && (relatedPersons.indexOf( n.target ) != -1)
+      } );
     } else {
       links = graph.links;
       persons = graph.nodes;
-      simulation.alphaTarget(0.2);
     }
 
     // if( grade != 1 ) {
@@ -72,7 +87,7 @@ function createGraph( query, grade ){
 
     container = svg.append("g");
 
-    if(query == ""){
+    if( query == "" && projectQuery == "" ){
         container.attr("transform", "translate(400, 200)scale(0.5)");
     }
 
@@ -98,6 +113,9 @@ function createGraph( query, grade ){
         .attr("title", function(d) { return d.name; })
         .attr("data-id", function(d) { return d.id; })
         .attr("type", function(d) { return d.type; })
+        .attr("r", function(d) { if(query == "" ) { return 5 + parseInt(d.nr_projects); }
+                                  else { if( (5 + parseInt(d.nr_projects)) > 40 ) return 40; else return (5 + parseInt(d.nr_projects));  }
+                                })
         .call(d3.drag()
             .on("start", dragstarted)
             .on("drag", dragged)
@@ -112,25 +130,25 @@ function createGraph( query, grade ){
     node.append("title")
         .text(function(d) { return d.name; });
 
-    $(".nodes circle").each(function(){
-      var id = $(this).data("id");
-      var r = 0;
-      $('.links [source="'+id+'"]').each(function(){
-        r += parseInt( $(this).attr("grade") );
-      });
-      $('.links [target="'+id+'"]').each(function(){
-        r += parseInt( $(this).attr("grade") );
-      });
-      if(query==""){
-        $(this).attr("r", 5 + r/8 );
-      }
-      else {
-        r = r/2 + 5;
-        if(r > 50) r = 60;
-        $(this).attr("r", r );
-      }
-      // $(this).attr("r", 5 + ($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length)/7 );
-    });
+    // $(".nodes circle").each(function(){
+    //   var id = $(this).data("id");
+    //   var r = 0;
+    //   $('.links [source="'+id+'"]').each(function(){
+    //     r += parseInt( $(this).attr("grade") );
+    //   });
+    //   $('.links [target="'+id+'"]').each(function(){
+    //     r += parseInt( $(this).attr("grade") );
+    //   });
+    //   if(query==""){
+    //     $(this).attr("r", 5 + r/8 );
+    //   }
+    //   else {
+    //     r = r/2 + 5;
+    //     if(r > 50) r = 60;
+    //     $(this).attr("r", r );
+    //   }
+    //   // $(this).attr("r", 5 + ($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length)/7 );
+    // });
 
     simulation.nodes(persons)
         .on("tick", ticked)

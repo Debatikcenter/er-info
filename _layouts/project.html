@@ -1,9 +1,23 @@
 ---
-layout: null
+layout: default
 ---
+<ul id="related-persons">
+  {% assign persons = page.related-persons | split: ", " %}
+  {% for person in persons %}
+    <li>{{ person | replace: " ", "." }}</li>
+  {% endfor %}
+</ul>
+<svg id="svg" class="col-sm-8"></svg>
 
-<p><b>{{ page.name }}</b></p>
-<p>{{ page.tagline }}</p>
-<p>{{ page.related-persons }}</p>
+<article class="post col-sm-4 personal-data" itemscope itemtype="http://schema.org/BlogPosting">
 
-{{ content }}
+<p id="project-name"><b>{{ page.name }}</b></p>
+<p><span>{{ page.tagline }}</span></p>
+{% if page.value %}
+<p>{{ page.value }}</p>
+{% endif %}
+<p>
+  {{ page.content }}
+</p>
+
+</article>

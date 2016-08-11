@@ -237,6 +237,9 @@ pre {
 [type="bureaucrat"] {
   fill: #0093D0; }
 
+[type="entrepreneur"] {
+  fill: #006b09; }
+
 [type="other"] {
   fill: #905700; }
 
@@ -267,6 +270,8 @@ nav#menu {
       background-color: #7E3F98; }
     nav#menu ul [name="bureaucrat"] {
       background-color: #0093D0; }
+    nav#menu ul [name="entrepreneur"] {
+      background-color: #006b09; }
     nav#menu ul [name="other"] {
       background-color: #905700; }
 
@@ -299,6 +304,9 @@ nav#menu {
   .personal-data .list-of-projects {
     max-height: 90%;
     overflow-y: auto; }
+
+#related-persons {
+  display: none; }
 
 .slider {
   position: absolute;
