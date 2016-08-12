@@ -1,6 +1,6 @@
 ---
 name: Shkëlqim Fusha
-type: other
+type: entrepreneur
 country: Albania
 tagline: Director of Fusha shpk
 description:

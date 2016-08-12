@@ -1,6 +1,6 @@
 ---
 name: Dritan Çelaj
-type: other
+type: entrepreneur
 country: Albania
 tagline: Owner of Riviera shpk
 description:

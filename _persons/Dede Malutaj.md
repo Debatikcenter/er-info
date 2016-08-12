@@ -1,6 +1,6 @@
 ---
 name: Dedë Malutaj
-type: other
+type: entrepreneur
 country: Albania
 tagline: Owner of Junik shpk
 description:

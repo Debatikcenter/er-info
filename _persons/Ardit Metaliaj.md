@@ -1,6 +1,6 @@
 ---
 name: Ardit Metaliaj
-type: other
+type: entrepreneur
 country: Albania
 tagline: Director of 4A-M shpk
 description:

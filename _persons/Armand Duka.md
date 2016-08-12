@@ -1,6 +1,6 @@
 ---
 name: Armand Duka
-type: other
+type: entrepreneur
 country: Albania
 tagline: President of the Albanian Football Association (2002-)
 description:

@@ -1,6 +1,6 @@
 ---
 name: Artan Dulaku
-type: other
+type: entrepreneur
 country: Albania
 tagline: Businessman
 description:

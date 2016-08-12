@@ -1,6 +1,6 @@
 ---
 name: Pandi Carapuli
-type: other
+type: entrepreneur
 country: Albania
 tagline: CEO of Eurocol shpk
 description:

@@ -1,6 +1,6 @@
 ---
 name: Alban Xhillari
-type: other
+type: entrepreneur
 country: Albania
 tagline: CEO of Millennium Group and IDA sh.a.
 description:

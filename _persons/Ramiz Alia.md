@@ -1,8 +1,8 @@
 ---
-name: Pirro Misha
+name: Ramiz Alia
 type: politician
 country: Albania
-tagline: Board member of the Albanian Media Authority
+tagline:
 description:
 related-persons:
 connections:

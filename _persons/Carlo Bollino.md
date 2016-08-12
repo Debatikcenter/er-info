@@ -1,6 +1,6 @@
 ---
 name: Carlo Bollino
-type: other
+type: entrepreneur
 country: Albania
 tagline: Media magnate
 description:

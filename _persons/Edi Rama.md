@@ -15,7 +15,9 @@ Mayor of Tirana (2000-2011)
 Chairman of the Socialist Party (2005-)
 Prime Minister of Albania (2013-)
 
-Emigrated in 1994 to France, returned definitively to Albania in 1998, when PS lader Fatos Nano invited him at the occasion of his father's funeral to become Minister of Culture.
+founded in 1993/4 the Partia Kristian-Islame (KIS) Edi Rama + Spartak Ngjela
+
+Emigrated in 1996/7 to France, returned definitively to Albania in 1998, when PS lader Fatos Nano invited him at the occasion of his father's funeral (April 1998) to become Minister of Culture.
 
 In the article "Tirana – Mercedes, Houses and Rubbish," architect Wim Cuyvers cites Rama's words "being mayor of Tirana is the highest form of conceptual art. It's art in a pure state."
 

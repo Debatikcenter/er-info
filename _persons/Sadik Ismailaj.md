@@ -1,6 +1,6 @@
 ---
 name: Sadik Ismailaj
-type: other
+type: entrepreneur
 country: Albania
 tagline: Co-owner of Alb-Star shpk
 description:

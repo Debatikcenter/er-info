@@ -1,6 +1,6 @@
 ---
 name: Bashkim Ulaj
-type: other
+type: entrepreneur
 country: Albania
 tagline: CEO of Gener2
 description:

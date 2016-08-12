@@ -1,6 +1,6 @@
 ---
 name: Shefqet Kastrati
-type: other
+type: entrepreneur
 country: Albania
 tagline: CEO of Kastrati sha and owner of Kastrati shpk
 description:

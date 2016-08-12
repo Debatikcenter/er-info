@@ -1,6 +1,6 @@
 ---
 name: Lulëzim Mehmetaj
-type: other
+type: entrepreneur
 country: Albania
 tagline: CEO of Startek shpk
 description:
