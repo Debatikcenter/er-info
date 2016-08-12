@@ -57,4 +57,19 @@ $(document).ready(function(){
       }
     })
   })
+
+  $(".multiselector span").on("click", function(){
+    $(this).toggleClass("active");
+    if($(this).hasClass("active"))
+      $('a').on('click.myDisable', function(e) { e.preventDefault(); });
+    else
+      $('a').off('click.myDisable');
+  })
+
+  $("#svg").on("click", ".person-node", function(){
+    if($(".multiselector span.active")){
+      
+    }
+  })
+
 })

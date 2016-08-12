@@ -313,6 +313,17 @@ nav#menu {
   bottom: 20px;
   left: 10px; }
 
+.multiselector {
+  font-size: 32px;
+  position: absolute;
+  left: 20px;
+  top: 170px;
+  text-align: center;
+  width: 30px; }
+  .multiselector span {
+    display: block;
+    cursor: pointer; }
+
 /**
  * Site footer
  */

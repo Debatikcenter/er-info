@@ -22,7 +22,7 @@ var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody().strength(function(){ if(query!="") return -400; else if(projectQuery != "") return -2000; else return -150; }))
+    .force("charge", d3.forceManyBody().strength(function(){ if(query!="") return -800; else if(projectQuery != "") return -2000; else return -150; }))
     .force("center", d3.forceCenter(width / 2, height / 2))
     // .alphaTarget( function(){ if( query == "" ) return 0.2; else return 0.1 } )
 
@@ -108,13 +108,13 @@ function createGraph( query, grade ){
         .attr("class", "nodes")
       .selectAll("circle")
       .data(persons)//.data(graph.nodes)
-      .enter().append("a").attr("xlink:href", function(d){ return baseurl + d.url; }).append("circle")
+      .enter().append("a").attr("class", "person-node").attr("xlink:href", function(d){ return baseurl + d.url; }).append("circle")
         .attr("stroke", "none")
         .attr("title", function(d) { return d.name; })
         .attr("data-id", function(d) { return d.id; })
         .attr("type", function(d) { return d.type; })
         .attr("r", function(d) { if(query == "" ) { return 5 + parseInt(d.nr_projects); }
-                                  else { if( (5 + parseInt(d.nr_projects)) > 40 ) return 40; else return (5 + parseInt(d.nr_projects));  }
+                                  else { if( (5 + parseInt(d.nr_projects)) > 60 ) return 60; else return (5 + parseInt(d.nr_projects));  }
                                 })
         .call(d3.drag()
             .on("start", dragstarted)
@@ -161,7 +161,6 @@ function createGraph( query, grade ){
         // Just for debugging
         // console.log("Links");
         // console.log(graph.links);
-
     simulation.force("link")
         .links(links);
 
