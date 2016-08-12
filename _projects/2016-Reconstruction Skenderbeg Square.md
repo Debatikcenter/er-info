@@ -2,7 +2,7 @@
 name: Reconstruction of Skënderbeg Square
 year: 2016-04-05
 tagline:
-related-persons: "Anri Sala, Freek Persyn, Johan Anrys, Artan Shkreli, Edi Rama, Alban Ethimi, Erion Veliaj"
+related-persons: "Anri Sala, Freek Persyn, Johan Anrys, Artan Shkreli, Edi Rama, Alban Efthimi, Erion Veliaj"
 value:
 area: urbanism
 enddate:

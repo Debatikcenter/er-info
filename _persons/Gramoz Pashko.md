@@ -1,5 +1,5 @@
 ---
-name: Sali Berisha
+name: Gramoz Pashko
 type: politician
 country: Albania
 tagline:

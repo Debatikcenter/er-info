@@ -5,7 +5,7 @@ $(document).ready(function(){
       $("line").css({ "opacity": "1", "transition": "opacity .5s ease" });
       var activeNodes = [];
       $(".active[type='control']").each(function(){ activeNodes.push($(this).attr("name")); });
-      if(activeNodes.length == 6 || activeNodes.length == 0 ) {
+      if(activeNodes.length == 7 || activeNodes.length == 0 ) {
         $("button[type='control']").removeClass("active");
         $("circle").css({ "opacity": "1", "transition": "opacity .5s ease" });
       } else {
@@ -25,7 +25,7 @@ $(document).ready(function(){
       $("line").css({ "opacity": "0", "transition": "opacity .5s ease" });
       var activeNodes = [];
       $(".active[type='control']").each(function(){ activeNodes.push($(this).attr("name")); });
-      if(activeNodes.length == 6 || activeNodes.length == 0 ) {
+      if(activeNodes.length == 7 || activeNodes.length == 0 ) {
         $("button[type='control']").removeClass("active");
         $("circle").css({ "opacity": "1", "transition": "opacity .5s ease" });
         $("line").css({ "opacity": "1", "transition": "opacity .5s ease" });

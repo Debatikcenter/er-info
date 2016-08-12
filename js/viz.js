@@ -29,7 +29,7 @@ var simulation = d3.forceSimulation()
 if( query == "" ){
   simulation.alphaTarget(0.2);
 } else {
-  simulation.alphaTarget(0.1);
+  simulation.alphaTarget(0.05);
 }
 
 

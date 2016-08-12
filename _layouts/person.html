@@ -16,7 +16,7 @@ layout: default
 <div class="list-of-projects">
   {% for project in site.projects %}
     {% if project.related-persons contains page.name %}
-      <li><a href="{{ project.url }}">{{ project.name }}</a></li>
+      <li><a href="{{ project.url | prepend: site.baseurl }}">{{ project.name }}</a></li>
     {% endif %}
   {% endfor %}
 </div>
