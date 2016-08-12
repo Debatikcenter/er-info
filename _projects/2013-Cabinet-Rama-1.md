@@ -1,38 +1,36 @@
 ---
 name: First Rama Government
 year: 2013-09-11
-tagline: PS-LSI coalition government, headed by PM Edi Rama
-related-persons: "Edi Rama, Niko Peleshi, Arben Ahmetaj, Saimir Tahiri, Erion Veliaj, Eglantina Gjermeni, Lindita Nikolla, Nasip Naço, Milena Harito, Mirela Kumbaro, Ditmir Bushati, Milva Ekonomi, Ylli Manjani, Damian Gjiknuri, Edmond Panariti, Lefter Koka, Mimi Kodheli, Blendi Klosi"
+tagline: Socialist Party and Socialist Movement for Integration
+related-persons: "Edi Rama, Niko Peleshi, Ditmir Bushati, Mimi Kodheli, Saimir Tahiri, Klajda Gjosha, Shkëlqim Cani, Arben Ahmetaj, Edmond Haxhinasto, Eglantina Gjermeni, Milva Ekonomi, Lindita Nikolla, Nasip Naço, Ylli Manjani, Mirela Kumbaro, Erion Veliaj, Blendi Klosi, Damian Gjiknuri, Edmond Panariti, Ilir Beqaj, Lefter Koka, Milena Harito, Bledi Çuçi, Ilirjan Celibashi"
 value:
 area: government
 enddate:
 layout: project
 ---
-1.    Zoti Edi Rama, Kryeministër
-2.    Zoti Niko Peleshi, Zëvendëskryeministër
-3.    Zoti Ditmir Bushati, Ministër i Punëve të Jashtme
-4.    Zonja Mimi Kodheli, Ministër i Mbrojtjes
-5.    Zoti Saimir Tahiri, Ministër i Punëve të Brendshme
-6.    Zonja Klajda Gjosha, Ministër i Integrimit Evropian
-7.    Zoti Shkëlqim Cani, Ministër i Financave
-8.    Zoti Edmond Haxhinasto, Ministër i  Transportit dhe Infrastrukturës
-9.    Zonja Eglantina Gjermeni, Ministër i  Zhvillimit Urban dhe Turizmit
-10.    Zoti Arben Ahmetaj, Ministër i Zhvillimit Ekonomik, Tregëtisë dhe Sipërmarrjes
-11.    Zonja Lindita Nikolla, Ministër i  Arsimit dhe Sportit
-12.    Zoti Nasip Naço, Ministër i  Drejtësisë
-13.    Zonja Mirela Kumbaro Furxhi, Ministër i  Kulturës
-14.    Zoti Erion Veliaj, Ministër i Mirëqenies Sociale dhe Rinisë
-15.    Zoti Damian Gjiknuri, Ministër i Energjisë dhe Industrisë
-16.    Zoti Edmond Panariti, Ministër i Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujrave
-17.    Zoti Ilir Beqaj, Ministër i Shëndetësisë
-18.    Zoti Lefter Koka, Ministër i Mjedisit
-19.    Zonja Milena Harito, Ministër Shteti për Inovacionin dhe Administratën Publike
-20.    Zoti Bledi Çuçi, Ministër Shteti për Çështjet Vendore
-21.    Zoti Ilirjan Celibashi, Ministër Shteti për Marrëdhëniet me Parlamentin
+1. Edi Rama, Kryeministër (PS)
+2. Niko Peleshi, Zëvendëskryeministër (PS)
+3. Ditmir Bushati, Ministër i Punëve të Jashtme (PS)
+4. Mimi Kodheli, Ministër i Mbrojtjes (PS)
+5. Saimir Tahiri, Ministër i Punëve të Brendshme (PS)
+6. Klajda Gjosha, Ministër i Integrimit Evropian (LSI)
+7. Shkëlqim Cani (Arben Ahmetaj, February 18, 2016), Ministër i Financave (PS)
+8. Edmond Haxhinasto, Ministër i Transportit dhe Infrastrukturës (LSI)
+9. Eglantina Gjermeni, Ministër i Zhvillimit Urban dhe Turizmit (PS)
+10. Arben Ahmetaj (Milva Ekonomi, February 18, 2016), Ministër i Zhvillimit Ekonomik, Tregëtisë dhe Sipërmarrjes (PS)
+11. Lindita Nikolla, Ministër i  Arsimit dhe Sportit (PS)
+12. Nasip Naço (Ylli Manjani, November 11, 2015), Ministër i  Drejtësisë (LSI)
+13. Mirela Kumbaro Furxhi, Ministër i  Kulturës (PS)
+14. Erion Veliaj (Blendi Klosi, May 21, 2015), Ministër i Mirëqenies Sociale dhe Rinisë (PS)
+15. Damian Gjiknuri, Ministër i Energjisë dhe Industrisë (PS)
+16. Edmond Panariti, Ministër i Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujrave (LSI)
+17. Ilir Beqaj, Ministër i Shëndetësisë (PS)
+18. Lefter Koka, Ministër i Mjedisit (LSI)
+19. Milena Harito, Ministër Shteti për Inovacionin dhe Administratën Publike (PS)
+20. Bledi Çuçi, Ministër Shteti për Çështjet Vendore (PS)
+21. Ilirjan Celibashi, Ministër Shteti për Marrëdhëniet me Parlamentin (PS)
 
-Erion Veliaj became Mayor of Tirana in 2015, replaced by Blendi Klosi
-Arben Ahmetaj became Minister of Finance in 2016, replaced by Milva Ekonomi
-Nasip Naço left the government in 2016, replaced by Ylli Manjani
+
 
 Links:
 * <https://en.wikipedia.org/wiki/Rama_Government>
