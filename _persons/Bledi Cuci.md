@@ -1,6 +1,6 @@
 ---
-name: Alfred Pema
-type: politician
+name: Bledi Çuçi
+type: bureaucrat
 country: Albania
 tagline:
 description:

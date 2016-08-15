@@ -1,5 +1,5 @@
 ---
-name: Alfred Pema
+name: Shkëlqim Cani
 type: politician
 country: Albania
 tagline:
