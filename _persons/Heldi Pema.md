@@ -8,3 +8,4 @@ related-persons:
 connections:
 layout: person
 ---
+Former student of Edi Rama.

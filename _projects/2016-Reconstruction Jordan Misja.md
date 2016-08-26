@@ -2,7 +2,7 @@
 name: Reconstruction of Liceu Artistik Jordan Misja
 year: 2016-06-01
 tagline: Designed by MetroPOLIS and G&K
-related-persons: "Erion Veliaj, Benet Beci"
+related-persons: "Erion Veliaj, Benet Beci, Ardit Metaliaj"
 value: 83,069,501 ALL (me TVSH)
 area: urbanism
 enddate: 2017-03-01

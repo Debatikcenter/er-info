@@ -61,4 +61,4 @@ As Albanian politics and business is primarily a personal affair, all institutio
 
 ## Who we are
 
-*Relational Esthetics* is research project by [Vincent W.J. van Gerven Oei](http://www,vangervenoei.com/). The contents of this site have profited immensely from the contributions of Gëzim Qëndro, Neritan and Linda Sejamini, xxxxxx. Design and visualization by xxxx. We thank the team of the [New World Summit](http://www.newworldsummit.eu) for the donation of the website address.
+*Relational Esthetics* is research project by [Vincent W.J. van Gerven Oei](http://www,vangervenoei.com/). The contents of this site have profited immensely from the contributions of Elona Pira, Eriola Pira, Gëzim Qëndro, Stefano Romano, Neritan and Linda Sejamini, Vincent Triest xxxxxx. Design and visualization by xxxx. We thank the team of the [New World Summit](http://www.newworldsummit.eu) for the donation of the website address.
