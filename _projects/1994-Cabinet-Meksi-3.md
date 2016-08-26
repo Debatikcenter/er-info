@@ -20,7 +20,7 @@ layout: project
 10. Xhezair Teliti – ministër i Arsimit
 11. Maksim Cikuli – ministër i Shëndetësisë dhe Mjedisit
 12. Hasan Halili – ministër i Bujqësisë dhe Ushqimit
-13. Teodor Laço – ministër i i Kulturës, Rinisë dhe Sporteve
+13. Teodor Laço – ministër i i Kulturës, Rinisë dhe Gruas
 14. Engjëll Dakli ( 9 dhjetor 1994) – ministër i Punës, Emigracionit, Përkrahjes sociale dhe ish të Përndjekurve Politikë
 15. Maksim Konomi – kryetar i Komitetit të Shkencës dhe Teknikës
 16. Albert Brojka (Suzana Panariti, 16 gusht 1995) – ministër i Industrisë, Transportit dhe Tregtisë

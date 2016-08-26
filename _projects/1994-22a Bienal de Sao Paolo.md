@@ -8,6 +8,8 @@ area: culture
 enddate: 1994-12-11
 layout: project
 ---
+* Curator: Nelson Aguilar
+
 Edi Rama represented Albania.
 
 Links:

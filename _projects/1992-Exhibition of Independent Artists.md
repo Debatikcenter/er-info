@@ -10,8 +10,8 @@ layout: project
 ---
 This was the first exhibition of contemporary artists in Albania after the fall of the communist regime. It was funded by SOROS Open Society Foundation, which had just opened as the first Albanian NGO.
 
-Curator:
-Artists: Edi Hila, Vladimir Myrtezai, Gazmend Leka, Shpend Bengu
+* Curator:
+* Artists: Edi Hila, Vladimir Myrtezai, Gazmend Leka, Shpend Bengu
 
 [Edi Muka](http://v2.nl/archive/articles/media-art-in-albania-first-steps/?searchterm=edi%20muka):
 > In 1992, the Soros Foundation organized an exhibition of paintings, because that was the only known medium at the time. This was the first moment where you could see some different tendencies (let's not call them new). There was this huge gap of information since the mid-fifties between Albania and what was going on elsewhere in the world. All these people were raised according to the socialist realist methods. Artists, which are supposed to be a rebel, having suffered a lot under this cruel regime, scarcely dared to take the ship and get to Italy. So in 1992, in this first exihibition, artists tried to escape reality. No escape from the country (because they did not have the courage), but an escape from the known schemes into formalism. It was a revival of abstract painting, looking outmoded, if you put it out of it's context.
