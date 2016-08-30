@@ -1,3 +1,5 @@
+var selectedNodes = [];
+var deselectedNodes = [];
 $(document).ready(function(){
   $("button[type='control']").click(function(){
     if( query == "" ){
@@ -58,18 +60,52 @@ $(document).ready(function(){
     })
   })
 
-  $(".multiselector span").on("click", function(){
-    $(this).toggleClass("active");
-    if($(this).hasClass("active"))
-      $('a').on('click.myDisable', function(e) { e.preventDefault(); });
-    else
-      $('a').off('click.myDisable');
-  })
 
-  $("#svg").on("click", ".person-node", function(){
-    if($(".multiselector span.active")){
-      
-    }
-  })
+//   $(".multiselector span").on("click", function(){
+//     var id = $(this).attr("id");
+//     $(this).toggleClass("active");
+//     $(".multiselector span:not(#"+id+")").removeClass("active");
+//     if($(this).hasClass("active")) {
+//       $('a').on('click.myDisable', function(e) { e.preventDefault(); });
+//       if( $(this).attr("id") == "plus" ){
+//         if( selectedNodes.length == 0 )
+//           // $("#svg .person-node").css({"opacity": "0.3"})
+//           $("#svg .person-node").removeClass("selected-node").addClass( "deselected-node" );
+//       }
+//       if( $(this).attr("id") == "minus"  ) {
+//         if( selectedNodes.length == 0 )
+//           // $("#svg .person-node").css({"opacity": "1"})
+//           $("#svg .person-node").removeClass("deselected-node").addClass( "selected-node" );
+//       }
+//     }
+//     else {
+//       $('a').off('click.myDisable');
+//       // $("#svg .person-node").css({"opacity": "1"})
+//       $("#svg .person-node").removeClass("deselected-node").removeClass( "selected-node" );
+//     }
+//
+//
+//
+//   })
+//
+//   $("#svg").on("click", ".person-node", function(){
+//     if( $(".multiselector span.active").length > 0 ){
+//       if( $(".multiselector span.active").attr("id") == "plus" ){
+//         var personName = $(this).find("title").text();
+//         if( selectedNodes.indexOf( personName ) == -1 )
+//           selectedNodes.push( personName );
+//         // $(this).css({"opacity": "1"});
+//         $(this).removeClass( "deselected-node" ).addClass( "selected-node" );
+//       } else if( $(".multiselector span.active").attr("id") == "minus" ){
+//         var personName = $(this).find("title").text();
+//         var index = selectedNodes.indexOf( personName );
+//         if( index != -1 )
+//           selectedNodes.splice( index, 1 );
+//         // $(this).css({"opacity": "0.3"});
+//         $(this).removeClass( "selected-node" ).addClass( "deselected-node" );
+//       }
+//       updateList();
+//     }
+//   })
 
 })

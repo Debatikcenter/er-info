@@ -68,7 +68,8 @@ function createGraph( query, grade ){
       persons  = $.grep(graph.nodes, function(n, i){
         return ( ($.inArray(n.id, nodes) != -1) || n.id==query )
       });
-    } else if( $("#project-name").text() != "" ) {
+    }
+    else if( projectQuery != "" ) {
       var relatedPersons = $("#related-persons li").text();
       persons = $.grep( graph.nodes, function(n, i){
         return ( relatedPersons.indexOf( n.id ) != -1 );
@@ -76,7 +77,8 @@ function createGraph( query, grade ){
       links = $.grep( graph.links, function(n, i){
         return (relatedPersons.indexOf( n.source ) != -1) && (relatedPersons.indexOf( n.target ) != -1)
       } );
-    } else {
+    }
+    else {
       links = graph.links;
       persons = graph.nodes;
     }
@@ -120,6 +122,11 @@ function createGraph( query, grade ){
             .on("start", dragstarted)
             .on("drag", dragged)
             .on("end", dragended));
+
+      if( query != "" ){
+        $("circle[data-id='"+query+"']").closest("a").attr("root", "true");
+        console.log("done");
+      }
 
       // if(root){
       //   root.x = width/2;

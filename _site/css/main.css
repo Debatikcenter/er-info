@@ -314,7 +314,6 @@ nav#menu {
   left: 10px; }
 
 .multiselector {
-  font-size: 32px;
   position: absolute;
   left: 20px;
   top: 170px;
@@ -323,6 +322,62 @@ nav#menu {
   .multiselector span {
     display: block;
     cursor: pointer; }
+    .multiselector span.active {
+      font-size: 1.5em;
+      text-shadow: 0px 0px 5px #000000;
+      color: #a4f9e1; }
+
+.switch-container {
+  position: absolute;
+  top: 200px;
+  left: 10px; }
+  .switch-container input.switch:empty {
+    margin-left: -999px;
+    position: absolute; }
+    .switch-container input.switch:empty ~ label {
+      position: relative;
+      float: left;
+      line-height: 1.6em;
+      margin: 0.2em 0;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none; }
+      .switch-container input.switch:empty ~ label::before, .switch-container input.switch:empty ~ label::after {
+        position: absolute;
+        display: block;
+        top: 2em;
+        bottom: -2em;
+        left: 0;
+        content: '';
+        color: #777;
+        width: 3.6em;
+        background-color: #bbb;
+        border-radius: 0.3em;
+        -webkit-transition: all 100ms ease-in;
+        transition: all 100ms ease-in; }
+      .switch-container input.switch:empty ~ label::after {
+        content: '';
+        width: 1.4em;
+        top: 2.1em;
+        bottom: -1.9em;
+        margin-left: 0.1em;
+        background-color: #fff;
+        border-radius: 0.15em; }
+  .switch-container input.switch:checked ~ label:before {
+    background-color: #11bdff; }
+  .switch-container input.switch:checked ~ label:after {
+    margin-left: 2em; }
+
+.selected-node {
+  opacity: 1; }
+  .selected-node circle {
+    stroke-width: 3px;
+    stroke: #a4f9e1; }
+
+.deselected-node {
+  opacity: 0.3; }
 
 /**
  * Site footer

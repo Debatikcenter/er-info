@@ -4,12 +4,16 @@ layout: default
 <span id="query" style="display:none;">{{ page.name | replace: ' ', '.' }}</span>
 
 <svg id="svg" class="col-sm-8"></svg>
-<div class="multiselector">
-  <span id="plus">+</span>
-  <span id="minus">-</span>
-  <span id="gt">></span>
+<div class="multiselector hidden">
+  <span id="ms">Multiselector mode: <span>off</span></span>
 </div>
-<div class="slider">
+
+<div class="switch-container">
+	<input type="checkbox" id="switch1" name="switch1" class="switch" />
+	<label for="switch1">Multiselect</label>
+</div>
+
+<div class="slider hidden">
   Number of projects in common
   <input type="range" min="1" max="20" value="2" step="1">
   <span>2</span>
@@ -22,13 +26,14 @@ layout: default
 <p>
   {{ page.content }}
 </p>
-
+<p id="selected-persons" ></p>
 <div class="list-of-projects">
   {% for project in site.projects %}
     {% if project.related-persons contains page.name %}
-      <li><a href="{{ project.url | prepend: site.baseurl }}">{{ project.name }}</a></li>
+      <li data-related-persons="{{ project.related-persons }}"><a href="{{ project.url | prepend: site.baseurl }}">{{ project.name }}</a></li>
     {% endif %}
   {% endfor %}
 </div>
 
 </article>
+<script src="{{ "/js/multiselect.js" | prepend: site.baseurl }}"></script>

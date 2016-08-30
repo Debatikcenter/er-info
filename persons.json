@@ -16,8 +16,22 @@ layout: null
   {% endcapture %}
 
   {% assign linksArray = links | split: "---" | sort %}
-  {% capture editedLinks %}{% assign counter = 0 %}{% assign control = "" %}{% for link in linksArray %}{% assign thisLink = link | split: "|" %}{% if link != control %}{% assign counter2 = 0 %}{% assign counter3 = counter %}{% assign counter4 = counter3 | plus: 40 %}{% for i in (counter3..counter4) %}{% if link == linksArray[i] %}{% assign counter2 = counter2 | plus: 1 %}{% assign control = linksArray[i] %}{% endif %}{% endfor %}
-  { "source": "{{thisLink[0] | strip }}", "target": "{{thisLink[1] | strip }}", "grade": "{{counter2}}" }{% unless forloop.last %},{% endunless %}{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}{% endcapture %}
+  {% capture editedLinks %}
+  {% assign counter = 0 %}{% assign control = "" %}
+  {% for link in linksArray %}
+    {% assign thisLink = link | split: "|" %}
+    {% if link != control %}
+      {% assign counter2 = 0 %}{% assign counter3 = counter %}{% assign counter4 = counter3 | plus: 40 %}
+      {% for i in (counter3..counter4) %}
+        {% if link == linksArray[i] %}
+          {% assign counter2 = counter2 | plus: 1 %}{% assign control = linksArray[i] %}
+        {% endif %}
+      {% endfor %}
+      { "source": "{{thisLink[0] | strip }}", "target": "{{thisLink[1] | strip }}", "grade": "{{counter2}}" }{% unless forloop.last %},{% endunless %}
+    {% endif %}
+    {% assign counter = counter | plus: 1 %}
+  {% endfor %}
+  {% endcapture %}
 
   "links": [
     {{editedLinks}}
