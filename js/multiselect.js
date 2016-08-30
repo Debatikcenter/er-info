@@ -28,7 +28,7 @@ $(".switch-container label").click(function(){
     $('a').off('click.myDisable');
     $("#svg .person-node").removeClass( "deselected-node" );
     selectedNodes = [];
-
+    $(".list-of-projects li").show();
   }
 });
 
