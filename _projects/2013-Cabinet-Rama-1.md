@@ -2,7 +2,7 @@
 name: First Rama Government
 year: 2013-09-11
 tagline: Socialist Party and Socialist Movement for Integration
-related-persons: "Edi Rama, Niko Peleshi, Ditmir Bushati, Mimi Kodheli, Saimir Tahiri, Klajda Gjosha, Shkëlqim Cani, Arben Ahmetaj, Edmond Haxhinasto, Eglantina Gjermeni, Milva Ekonomi, Lindita Nikolla, Nasip Naço, Ylli Manjani, Mirela Kumbaro, Erion Veliaj, Blendi Klosi, Damian Gjiknuri, Edmond Panariti, Ilir Beqaj, Lefter Koka, Milena Harito, Bledi Çuçi, Ilirjan Celibashi"
+related-persons: "Edi Rama, Niko Peleshi, Ditmir Bushati, Mimi Kodheli, Saimir Tahiri, Klajda Gjosha, Shkëlqim Cani, Arben Ahmetaj, Edmond Haxhinasto, Eglantina Gjermeni, Milva Ekonomi, Lindita Nikolla, Nasip Naço, Ylli Manjani, Mirela Kumbaro, Erion Veliaj, Blendi Klosi, Damian Gjiknuri, Edmond Panariti, Ilir Beqaj, Lefter Koka, Milena Harito, Bledi Çuçi, Ilirjan Celibashi, Sokol Dervishi, Ermonela Felaj"
 value:
 area: government
 enddate:
@@ -15,7 +15,7 @@ layout: project
 5. Saimir Tahiri, Ministër i Punëve të Brendshme (PS)
 6. Klajda Gjosha, Ministër i Integrimit Evropian (LSI)
 7. Shkëlqim Cani (Arben Ahmetaj, February 18, 2016), Ministër i Financave (PS)
-8. Edmond Haxhinasto, Ministër i Transportit dhe Infrastrukturës (LSI)
+8. Edmond Haxhinasto (Sokol Dervishi, September 2, 2016), Ministër i Transportit dhe Infrastrukturës (LSI)
 9. Eglantina Gjermeni, Ministër i Zhvillimit Urban dhe Turizmit (PS)
 10. Arben Ahmetaj (Milva Ekonomi, February 18, 2016), Ministër i Zhvillimit Ekonomik, Tregëtisë dhe Sipërmarrjes (PS)
 11. Lindita Nikolla, Ministër i  Arsimit dhe Sportit (PS)
@@ -28,8 +28,9 @@ layout: project
 18. Lefter Koka, Ministër i Mjedisit (LSI)
 19. Milena Harito, Ministër Shteti për Inovacionin dhe Administratën Publike (PS)
 20. Bledi Çuçi, Ministër Shteti për Çështjet Vendore (PS)
-21. Ilirjan Celibashi, Ministër Shteti për Marrëdhëniet me Parlamentin (PS)
+21. Ilirjan Celibashi (Ermonela Felaj, August 2, 2014), Ministër Shteti për Marrëdhëniet me Parlamentin (PS)
 
+In Fall 2016, the PDIU was announced as third coalition member.
 
 
 Links:

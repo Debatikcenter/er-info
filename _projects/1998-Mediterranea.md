@@ -1,11 +1,11 @@
 ---
 name: "Mediterranea N. 1 Albania–Italia"
-year: 1998-01-01
+year: 1998-11-07
 tagline:
 related-persons: "Gaetano Grillo, Edi Muka, Edi Rama, Gëzim Qëndro"
 value:
 area: culture
-enddate:
+enddate: 1998-11-27
 layout: project
 ---
 Curator: Gaetano Grillo, Edi Muka

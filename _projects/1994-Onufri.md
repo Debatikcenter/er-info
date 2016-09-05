@@ -2,7 +2,7 @@
 name: "Onufri '94"
 year: 1994-11-26
 tagline:
-related-persons: "Sali Berisha, Dhimitër Anagnosti, Alush Shima, Edi Hila, Perikli Culi, Tonin Vuksani, Edi Muka, Merita Selimi, Bujar Asllani, Çlirim Ceka, Sadri Ahmeti, Arben Laze, Thoma Thomai, Sadik Spahia, Orion Shima, Ali Oseku, Gazmend Leka, Kastriot Dervishi, Ilir Pojani, Ilia Xhokaxhi, Najada Hamza, Edi Rama, Vladimir Myrtezai"
+related-persons: "Sali Berisha, Dhimitër Anagnosti, Alush Shima, Edi Hila, Perikli Culi, Tonin Vuksani, Edi Muka, Merita Selimi, Bujar Asllani, Çlirim Ceka, Sadri Ahmeti, Arben Laze, Thoma Thomai Dhamo, Sadik Spahia, Orion Shima, Ali Oseku, Gazmend Leka, Kastriot Dervishi, Ilir Pojani, Ilia Xhokaxhi, Najada Hamza, Edi Rama, Vladimir Myrtezai"
 value:
 area: culture
 enddate: 1995-02-01
@@ -17,7 +17,7 @@ Presenting 181 artists with 338 works. Poster and invitation by Tonin Vuksani. O
 * Graphical arts, second prize: Bujar Asllani
 * Graphical arts, third prize: Çlirim Ceka, Sadri Ahmeti
 * Sculpture, first prize: Arben Laze
-* Sculpture, second prize: Thoma Thomai
+* Sculpture, second prize: Thoma Thomai Dhamo
 * Sculpture, third prize: Sadik Spahia
 * Painting, first prize: Orion Shima
 * Painting, second prize: Ali Oseku, Gazmend Leka, Kastriot Dervishi

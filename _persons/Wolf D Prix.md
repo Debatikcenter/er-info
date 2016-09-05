@@ -1,6 +1,6 @@
 ---
 name: "Wolf D. Prix"
-type: architects
+type: architect
 country: Austria
 tagline: Architect at Coop Himmelb(l)au
 description:

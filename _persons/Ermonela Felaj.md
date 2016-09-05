@@ -1,8 +1,8 @@
 ---
-name: Ilirjan Celibashi
+name: Ermonela Felaj
 type: politician
 country: Albania
-tagline: Former Minister of Relations with the Parliament (2013-2014)
+tagline: Minister of Relations with the Parliament (2014-)
 description:
 related-persons:
 connections:

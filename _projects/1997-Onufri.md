@@ -2,7 +2,7 @@
 name: "Onufri '97"
 year: 1997-12-22
 tagline:
-related-persons: "Rexhep Mejdani, Kreshnik Tartari, Gëzim Qëndro, Ali Oseku, Suzana Varvarica Kuka, Eleni Laperi, Pjerin Kolnika, Gazmend Muka, Lumturi Blloshmi, Mikel Temo, Gentian Gjikopulli, Thoma Dhamo, Kreshnik Xhiku, Artan Peqini, Vladimir Myrtezai, Adrian Kapo, Edmond Papathimiu"
+related-persons: "Rexhep Mejdani, Kreshnik Tartari, Gëzim Qëndro, Ali Oseku, Suzana Varvarica Kuka, Eleni Laperi, Pjerin Kolnika, Gazmend Muka, Lumturi Blloshmi, Mikel Temo, Gentian Gjikopulli, Thoma Thomai Dhamo, Kreshnik Xhiku, Artan Peqini, Vladimir Myrtezai, Adrian Kapo, Edmond Papathimiu"
 value:
 area: culture
 enddate: 1998-02-01
@@ -17,7 +17,7 @@ Presenting 96 works out of 325 words submitted by 230 artists. Poster and invita
 * Painting, first prize: Lumturi Blloshmi
 * Painting, second prize: Mikel Temo
 * Painting, third prize: Gentian Gjikopulli
-* Sculpture, first prize: Thoma Dhamo
+* Sculpture, first prize: Thoma Thomai Dhamo
 * Sculpture, second prize: Kreshnik Xhiku
 * Sculpture, third prize: Artan Peqini
 * Graphical and installation arts, first prize: Vladimir Myrtezai
