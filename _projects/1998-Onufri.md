@@ -1,11 +1,11 @@
 ---
 name: Onufri International Exhibition VI – Permanent Instability
-year: 1998-12-14
+year: 1998-12-22
 tagline:
 related-persons: "Edi Muka, Giancarlo Politi, Edi Rama, Gëzim Qëndro, Neue Slowenische Kunst, Luchezar Boyadiev, Lala Meredith-Vula, Edi Hila"
 value:
 area: culture
-enddate:
+enddate: 1999-01-20
 layout: project
 ---
 * Curator: Edi Muka

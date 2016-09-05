@@ -1,8 +1,8 @@
 ---
-name: Thoma Thomai
-type: artist
+name: Ilirjan Proko
+type: architect
 country: Albania
-tagline:
+tagline: HP Studio
 description:
 related-persons:
 connections:

@@ -2,7 +2,7 @@
 name: Durana Competition Lot 2
 year: 2015-11-08
 tagline: Awarded to Studio b&l, Dogma, Andrea Branzi
-related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Pier Vittorio Aureli, Martino Tattara, Andrea Branzi, Niko Peleshi, Sotiria Kornaropoulou, Andreas Ruby, George Brugmans, Xaveer de Geyter, Dorian Tytymçe, Luan Leka"
+related-persons: "Adelina Greca, Edi Rama, Eglantina Gjermeni, Pier Vittorio Aureli, Martino Tattara, Andrea Branzi, Niko Peleshi, Sotiria Kornaropoulou, Andreas Ruby, George Brugmans, Xaveer de Geyter, Dorian Tytymçe, Luan Leka, Ermal Lika, Roland Bleta"
 value: €65,000
 area: urbanism
 enddate:
@@ -15,8 +15,6 @@ layout: project
 Organized by Atelier Albania.
 Mandated by the Ministry of Urban Development and Tourism and the Office of the Prime Minister.
 Funded through Albanian Development Fund.
-
-Unclear who is Studio b&l
 
 Links:
 * <http://competitions.planifikimi.gov.al/durana/>

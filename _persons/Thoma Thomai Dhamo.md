@@ -1,5 +1,5 @@
 ---
-name: Thoma Dhamo
+name: Thoma Thomai Dhamo
 type: artist
 country: Albania
 tagline:

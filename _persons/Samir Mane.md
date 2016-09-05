@@ -1,6 +1,6 @@
 ---
 name: Samir Mane
-type: other
+type: entrepreneur
 country: Albania
 tagline: Director of Mane TCI
 description:

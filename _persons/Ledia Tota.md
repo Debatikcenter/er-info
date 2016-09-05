@@ -8,3 +8,4 @@ related-persons:
 connections:
 layout: person
 ---
+Former architect and employee of Sphaera shpk (Sokol Imeraj)
