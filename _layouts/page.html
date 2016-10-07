@@ -1,14 +1,33 @@
----
-layout: default
----
-<article class="post">
+<!DOCTYPE html>
+<html>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+  {% include head.html %}
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+  <body>
 
-</article>
+    {% include header.html %}
+
+    <div class="page-content">
+      <!-- <div class="wrapper"> -->
+        <nav id="menu">
+          <ul>
+            <li><button type="control" name="architect">Architect</button></li>
+            <li><button type="control" name="artist">Artist</button></li>
+            <li><button type="control" name="curator">Curator</button></li>
+            <li><button type="control" name="bureaucrat">Bureaucrat</button></li>
+            <li><button type="control" name="politician">Politician</button></li>
+            <li><button type="control" name="entrepreneur">Entrepreneur</button></li>
+            <li><button type="control" name="other">Other</button></li>
+          </ul>
+        </nav>
+        {{ content }}
+      <!-- </div> -->
+    </div>
+    <div class="tooltip top" role="tooltip" style="display: none;">
+      <div class="tooltip-arrow"></div> <div class="tooltip-inner"> Tooltip on the top </div>
+    </div>
+    {% include footer.html %}
+    <script src="{{ "/js/viz.js" | prepend: site.baseurl }}"></script>
+  </body>
+
+</html>

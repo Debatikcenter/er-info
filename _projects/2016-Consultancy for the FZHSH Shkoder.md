@@ -1,5 +1,5 @@
 ---
-name: Consultancy for the Albanian Development Fund: Shkodër
+name: "Consultancy for the Albanian Development Fund: Shkodër"
 year: 2016-04-28
 tagline: Awarded to Sphaera shpk
 related-persons: "Benet Beci, Sokol Imeraj"

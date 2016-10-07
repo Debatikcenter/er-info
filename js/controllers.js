@@ -74,7 +74,7 @@ $(document).ready(function(){
 
       $.grep( lines, function(n){
         return ( $.inArray(n.source.type, activeNodes) === -1 ) || ( $.inArray(n.target.type, activeNodes) === -1 )
-      } ).forEach(function(n){ n.strokeStyle = "transparent" })
+      } ).forEach(function(n){ n.strokeStyle = "transparent"; n.opacity = 0; })
       // }, 100)
 
       // if($(this).hasClass('active')){
@@ -104,13 +104,10 @@ $(document).ready(function(){
     $(".slider span").text(val);
     // links = $.grep( links, function(n, i){ return parseInt(n.grade) >= val; } );
     // simulation.restart();
-    $("line").each(function(){
-      if( parseInt( $(this).attr("grade") ) < val ){
-        $(this).hide();
-      } else {
-        $(this).show();
-      }
-    })
+    for(var i=0; i<lines.length; i++){
+      if( parseInt(lines[i].grade) < val ) lines[i].strokeStyle = "transparent";
+      else lines[i].strokeStyle = "#999";
+    }
   })
 
 

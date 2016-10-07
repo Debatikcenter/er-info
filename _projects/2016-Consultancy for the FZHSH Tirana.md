@@ -1,5 +1,5 @@
 ---
-name: Consultancy for the Albanian Development Fund: Tirana
+name: "Consultancy for the Albanian Development Fund: Tirana"
 year: 2016-05-09
 tagline: Awarded to 51N4E
 related-persons: "Peter Swinnen, Benet Beci, Freek Persyn, Johan Anrys"

@@ -1,5 +1,5 @@
 ---
-name: Consultancy for the Albanian Development Fund: Vlorë
+name: "Consultancy for the Albanian Development Fund: Vlorë"
 year: 2016-05-20
 tagline: Awarded to Sphaera shpk
 related-persons: "Benet Beci, Sokol Imeraj"

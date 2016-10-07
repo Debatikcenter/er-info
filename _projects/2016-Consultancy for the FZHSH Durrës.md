@@ -1,5 +1,5 @@
 ---
-name: Consultancy for the Albanian Development Fund: Durrës
+name: "Consultancy for the Albanian Development Fund: Durrës"
 year: 2016-06-03
 tagline: Awarded to Dea Studio
 related-persons: "Benet Beci, Alket Meslani, Ervin Taçi"

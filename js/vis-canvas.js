@@ -63,11 +63,14 @@ json.nodes.forEach(function(d, i) {
 });
 
 json.links.forEach(function(d, i) {
-  lines.push( new Line(d.source, d.target) );
+  lines.push( new Line(d.source, d.target, d.grade) );
 });
 
 canvas.call( d3.zoom().scaleExtent([0.2, 10]).on("zoom", zoomed) );
 trans = d3.zoomIdentity;
+trans.k = 0.5;
+trans.x = width/4;
+trans.y = height/4;
 
 function ticked(){
   // console.log("tick")
@@ -140,7 +143,7 @@ d3.select("canvas").on("click", function(d){
   closeNode = simulation.find(p[0], p[1]);
   if( ((p[0] - closeNode.x)*(p[0] - closeNode.x) + (p[1] - closeNode.y)*(p[1] - closeNode.y) < (5 + parseInt(closeNode.nr_projects))*(5 + parseInt(closeNode.nr_projects)) ) && (circles[closeNode.index].opacity != 0) ){
         // alert(closeNode)
-    window.location.href = closeNode.url;
+    window.location.href = baseurl + "" +closeNode.url;
   }
 });
 
@@ -149,7 +152,7 @@ d3.select("canvas").on("mousemove", function(d){
   p[0] = (p[0] - trans.x)/trans.k;
   p[1] = (p[1] - trans.y)/trans.k;
   closeNode = simulation.find(p[0], p[1]);
-  if( (p[0] - closeNode.x)*(p[0] - closeNode.x) + (p[1] - closeNode.y)*(p[1] - closeNode.y) < (5 + parseInt(closeNode.nr_projects))*(5 + parseInt(closeNode.nr_projects))){
+  if( ((p[0] - closeNode.x)*(p[0] - closeNode.x) + (p[1] - closeNode.y)*(p[1] - closeNode.y) < (5 + parseInt(closeNode.nr_projects))*(5 + parseInt(closeNode.nr_projects))) && (circles[closeNode.index].opacity != 0) ){
 
     // context.strokeStyle = "#555";
     // context.font = '12px sans-serif';
@@ -177,21 +180,22 @@ function Circle(d){ /* x, y, radius, name, id, type, url */
 
   this.colorize = function(){
     switch( this.type ){
-      case 'architect': this.fillStyle = "rgba(255, 220, 1, "+this.opacity+")";
+      case 'architect': this.fillStyle = "rgb(255, 220, 1)"; //+this.opacity+")";
       break;
-      case 'artist': this.fillStyle = "rgba(239, 80, 50, "+this.opacity+")";
+      case 'artist': this.fillStyle = "rgb(239, 80, 50)"; //+this.opacity+")";
       break;
-      case 'curator': this.fillStyle = "rgba(126, 63, 152, "+this.opacity+")";
+      case 'curator': this.fillStyle = "rgb(126, 63, 152)"; //+this.opacity+")";
       break;
-      case 'bureaucrat': this.fillStyle = "rgba(0, 147, 208, "+this.opacity+")";
+      case 'bureaucrat': this.fillStyle = "rgb(0, 147, 208)"; //+this.opacity+")";
       break;
-      case 'politician': this.fillStyle = "rgba(193, 215, 47, "+this.opacity+")";
+      case 'politician': this.fillStyle = "rgb(193, 215, 47)"; //+this.opacity+")";
       break;
-      case 'entrepreneur': this.fillStyle = "rgba(0, 107, 9, "+this.opacity+")";
+      case 'entrepreneur': this.fillStyle = "rgb(0, 107, 9)"; //+this.opacity+")";
       break;
-      case 'other': this.fillStyle = "rgba(144, 87, 0, "+this.opacity+")";
+      case 'other': this.fillStyle = "rgb(144, 87, 0)"; //+this.opacity+")";
       break;
     }
+    this.opacity = 1;
   }
   this.colorize();
 
@@ -231,10 +235,12 @@ function Circle(d){ /* x, y, radius, name, id, type, url */
   // }
 }
 
-function Line(s, t){
+function Line(s, t, g){
   this.source = s;
   this.target = t;
+  this.grade = g;
   this.strokeStyle = "#999";
+  this.opacity = 1;
 
   this.display = function(){
     context.beginPath();
@@ -249,5 +255,6 @@ function Line(s, t){
 
   this.colorize = function(){
     this.strokeStyle = "#999";
+    this.opacity = 1;
   }
 }

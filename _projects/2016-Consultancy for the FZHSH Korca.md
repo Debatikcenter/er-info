@@ -1,5 +1,5 @@
 ---
-name: Consultancy for the Albanian Development Fund: Korçë
+name: "Consultancy for the Albanian Development Fund: Korçë"
 year: 2016-05-12
 tagline: Awarded to Erald-G, HP Studio, HMK Consulting
 related-persons: "Benet Beci, Gëzim Islami, Ilirjan Proko, Hekuran Hoxhalli"
