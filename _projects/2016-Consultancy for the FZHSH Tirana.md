@@ -1,8 +1,8 @@
 ---
-name: Consultancy for the Albanian Development Fund
+name: Consultancy for the Albanian Development Fund: Tirana
 year: 2016-05-09
 tagline: Awarded to 51N4E
-related-persons: "Peter Swinnen, Benet Beci, Erion Veliaj, Freek Persyn, Johan Anrys"
+related-persons: "Peter Swinnen, Benet Beci, Freek Persyn, Johan Anrys"
 value: ALL 83,333,333 pa tvsh
 area: urbanism
 enddate:

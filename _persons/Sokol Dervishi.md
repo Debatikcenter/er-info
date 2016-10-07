@@ -1,8 +1,8 @@
 ---
-name: Ilirjan Celibashi
+name: Sokol Dervishi
 type: politician
 country: Albania
-tagline: Former Minister of Relations with the Parliament (2013-2014)
+tagline: Minister of Transport and Infrastructure (2016-)
 description:
 related-persons:
 connections:
