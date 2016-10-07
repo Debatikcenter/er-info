@@ -10,9 +10,11 @@ var width = parseInt( $("#svg").css("width"), 10 );
 var container;
 var data = baseurl+"/persons.json";
 
-var links, persons;
-
+var links = [], persons = [];
 var json;
+
+// actual d3 objects
+var link, node;
 
 var query = $("#query").text();
 var projectQuery = $("#project-name").text();
@@ -27,7 +29,7 @@ var simulation = d3.forceSimulation()
     // .alphaTarget( function(){ if( query == "" ) return 0.2; else return 0.1 } )
 
 if( query == "" ){
-  simulation.alphaTarget(0.2);
+  simulation.alphaTarget(0.1);
 } else {
   simulation.alphaTarget(0.05);
 }
@@ -48,8 +50,11 @@ function createGraph( query, grade ){
   d3.json( data, function(error, graph) {
     if (error) throw error;
 
-    // json = graph;
+    json = graph;
 
+    /*
+    * person filter
+    */
     if(query != ""){
       links = $.grep(graph.links, function(n, i){
         return ( n.source == query || n.target == query );
@@ -69,6 +74,9 @@ function createGraph( query, grade ){
         return ( ($.inArray(n.id, nodes) != -1) || n.id==query )
       });
     }
+    /*
+    * project filter
+    */
     else if( projectQuery != "" ) {
       var relatedPersons = $("#related-persons li").text();
       persons = $.grep( graph.nodes, function(n, i){
@@ -78,9 +86,36 @@ function createGraph( query, grade ){
         return (relatedPersons.indexOf( n.source ) != -1) && (relatedPersons.indexOf( n.target ) != -1)
       } );
     }
+    /*
+    * home page; apply timeline filter
+    */
     else {
-      links = graph.links;
-      persons = graph.nodes;
+      var projects = $.grep( graph.projects, function(n, i){
+        return ( (n.start.substring(0, 4) <= 2009)  )
+      } )
+      var relatedPersons = [];
+      for( var i=0; i<projects.length; i++ ){
+        var ps = projects[i].relatedPersons.split(", ");
+        for( var j=0; j<ps.length; j++ ){
+          // relatedPersons += ps[j].replace(/\s/g, ".");
+          // relatedPersons += ", "
+          relatedPersons.push( ps[j].replace(/\s/g, ".") );
+        }
+      }
+      var uRelPersons = [];
+      $.each(relatedPersons, function(i, el){
+          if( $.inArray(el, uRelPersons) === -1 ) uRelPersons.push(el);
+      });
+
+      persons = $.grep( graph.nodes, function(n, i){
+        return ( relatedPersons.indexOf( n.id ) != -1 );
+      } );
+
+      links = $.grep( graph.links, function(n, i){
+        return (relatedPersons.indexOf( n.source ) != -1) && (relatedPersons.indexOf( n.target ) != -1)
+      } );
+      // links = graph.links;
+      // persons = graph.nodes;
     }
 
     // if( grade != 1 ) {
@@ -89,13 +124,19 @@ function createGraph( query, grade ){
 
     container = svg.append("g");
 
+    /*
+    * zoom ouot if in front page
+    */
     if( query == "" && projectQuery == "" ){
         container.attr("transform", "translate(400, 200)scale(0.5)");
     }
 
-    root = persons.find(function(p){ return p.id == query; });
+    // root = persons.find(function(p){ return p.id == query; });
 
-    var link = container.append("g")
+    /*
+    * create links
+    */
+    link = container.append("g")
         .attr("class", "links")
       .selectAll("line")
       .data(links)//.data(graph.links)
@@ -106,15 +147,23 @@ function createGraph( query, grade ){
         .attr( "grade", function(d) { return d.grade; } )
         .attr( "stroke", function(d) { var c = d.grade*10; c = 180-c; return "rgb("+c+", "+c+", "+c+")"; } )
 
-    var node = container.append("g")
+    link.exit().remove();
+
+    /*
+    * create nodes
+    */
+    node = container.append("g")
         .attr("class", "nodes")
       .selectAll("circle")
-      .data(persons)//.data(graph.nodes)
+      .data(persons)      //.data(graph.nodes)
       .enter().append("a").attr("class", "person-node").attr("xlink:href", function(d){ return baseurl + d.url; }).append("circle")
         .attr("stroke", "none")
         .attr("title", function(d) { return d.name; })
         .attr("data-id", function(d) { return d.id; })
         .attr("type", function(d) { return d.type; })
+        .attr("years", function(d){ var s = d.years.split("/"); var years = "";
+                                  for(var i=0; i<s.length; i++){ var y = s[i].split("-"); years = years + y[0] + ","; }
+                                  return years; })
         .attr("r", function(d) { if(query == "" ) { return 5 + parseInt(d.nr_projects); }
                                   else { if( (5 + parseInt(d.nr_projects)) > 60 ) return 60; else return (5 + parseInt(d.nr_projects));  }
                                 })
@@ -123,66 +172,32 @@ function createGraph( query, grade ){
             .on("drag", dragged)
             .on("end", dragended));
 
-      if( query != "" ){
-        $("circle[data-id='"+query+"']").closest("a").attr("root", "true");
-        console.log("done");
-      }
-
-      // if(root){
-      //   root.x = width/2;
-      //   root.y = height/2;
-      //   root.fixed = true;
-      // }
+        node.exit().remove();
 
     node.append("title")
         .text(function(d) { return d.name; });
 
-    // $(".nodes circle").each(function(){
-    //   var id = $(this).data("id");
-    //   var r = 0;
-    //   $('.links [source="'+id+'"]').each(function(){
-    //     r += parseInt( $(this).attr("grade") );
-    //   });
-    //   $('.links [target="'+id+'"]').each(function(){
-    //     r += parseInt( $(this).attr("grade") );
-    //   });
-    //   if(query==""){
-    //     $(this).attr("r", 5 + r/8 );
-    //   }
-    //   else {
-    //     r = r/2 + 5;
-    //     if(r > 50) r = 60;
-    //     $(this).attr("r", r );
-    //   }
-    //   // $(this).attr("r", 5 + ($(".links [source='"+id+"']").length + $(".links [target='"+id+"']").length)/7 );
-    // });
+    if( query != "" ){
+      $("circle[data-id='"+query+"']").closest("a").attr("root", "true");
+      console.log("done");
+    }
 
     simulation.nodes(persons)
         .on("tick", ticked)
 
+    /*
+    * collision detection
+    */
     simulation.force("collide", d3.forceCollide().radius(function(d) {
               return $('.nodes circle[data-id="'+ d.id +'"]').attr("r");
             }).iterations(2)); // return 5 + ($(".links [source='"+d.id+"']").length + $(".links [target='"+d.id+"']").length)/7;
 
-
-        // Just for debugging
-        // console.log("Links");
-        // console.log(graph.links);
     simulation.force("link")
         .links(links);
 
-    function ticked() {
-      link
-          .attr("x1", function(d) { return d.source.x; })
-          .attr("y1", function(d) { return d.source.y; })
-          .attr("x2", function(d) { return d.target.x; })
-          .attr("y2", function(d) { return d.target.y; });
 
-      node
-          .attr("cx", function(d) { return d.x; })
-          .attr("cy", function(d) { return d.y; });
-    }
 
+    // hide grade 1 connections by default
     if( query == "" ){
       $("line").each(function(){
         if( parseInt( $(this).attr("grade") ) < 2 ){
@@ -190,10 +205,36 @@ function createGraph( query, grade ){
         }
       });
     }
+
+    $(document).keydown(function(e){
+
+      // if( e.which === 90 ) {
+      //   // console.log(node.groups.attributes.title.nodeValue)
+      //   node._groups[0].splice(33, 1);
+      // } else {
+      //   globalNodes = node;
+      // }
+    });
 });
 }
 
+function ticked() {
+  link
+      .attr("x1", function(d) { return d.source.x; })
+      .attr("y1", function(d) { return d.source.y; })
+      .attr("x2", function(d) { return d.target.x; })
+      .attr("y2", function(d) { return d.target.y; });
 
+  node
+      .attr("cx", function(d) { return d.x; })
+      .attr("cy", function(d) { return d.y; });
+}
+
+
+var globalNodes;
+/*
+* zoom functionality
+*/
 svg.call(d3.zoom()
     .scaleExtent([0.2, 10])
     .on("zoom", zoomed));
@@ -204,7 +245,9 @@ function zoomed(){
   // console.log("translate(" + transform.x + "," + transform.y + ")scale(" + transform.k + ")");
 }
 
-
+/*
+* dragginh events
+*/
 function dragstarted(d) {
   if (!d3.event.active) simulation.alphaTarget(0.3).restart();
   d.fx = d.x;
@@ -221,53 +264,3 @@ function dragended(d) {
   d.fx = null;
   d.fy = null;
 }
-
-// setInterval(function(){ simulation.alpha(0.15); }, 1000);
-
-// click on a circle
-// $(document).on('click', 'circle', function(){
-//   var name = $(this).attr("title");
-//   query = $(this).data("id");
-//   var url = window.location.href;
-//   if( url.indexOf('#') != -1 ){
-//     var base = url.substring(0, url.indexOf('#'));
-//     window.location.href = base + "#" + query;
-//     url = base;
-//   } else {
-//     window.location.href = url + "#" + query;
-//   }
-//
-//   // $("svg").css({"margin-left": "-30%"})
-//   $("svg>g").remove();
-//   createGraph( query, 1 );
-//   // var url = window.location.href;
-//   // var q = url.indexOf("#");
-//   // if(q!=-1) url = url.substring(0, q);
-//   jQuery.get(url + '/persons/'+name+'.html', function(data) {
-//       // console.log(data);
-//       $(".personal-data").html("");
-//       $(".personal-data").append(data);
-//   });
-// });
-
-// $("circle").on('click', function(){
-//   var name = $(this).attr("title");
-//   query = $(this).attr("id");
-//
-//   console.log(name, id);
-//
-//   $("svg>g").remove();
-//   createGraph( query );
-//   // var url = window.location.href;
-//   // var q = url.indexOf("#");
-//   // if(q!=-1) url = url.substring(0, q);
-//   // jQuery.get(url + '/persons/'+name+'.html', function(data) {
-//   //     console.log(data);
-//   // });
-// });
-
-$(document).keydown(function(e){
-  // if( e.which === 90 ) {
-  //   window.location.href += "#p=test";
-  // }
-});
