@@ -66,7 +66,7 @@ $(document).ready(function(){
     else {
       // setTimeout(function(){
       $.grep( circles, function(n){ return $.inArray( n.type, activeNodes ) != -1 } ).forEach(function(n){ n.colorize(); });
-      $.grep( circles, function(n){ return $.inArray( n.type, activeNodes ) === -1 } ).forEach(function(n){ n.fillStyle = "transparent"; n.opacity = 0; })
+      $.grep( circles, function(n){ return $.inArray( n.type, activeNodes ) === -1 } ).forEach(function(n){ n.fillStyle = "transparent"; n.opacity = 0; /*n.fadeOut();*/ })
 
       $.grep( lines, function(n){
         return ( $.inArray(n.source.type, activeNodes) != -1 ) && ( $.inArray(n.target.type, activeNodes) != -1 )
@@ -106,7 +106,7 @@ $(document).ready(function(){
     // simulation.restart();
     for(var i=0; i<lines.length; i++){
       if( parseInt(lines[i].grade) < val ) lines[i].strokeStyle = "transparent";
-      else lines[i].strokeStyle = "#999";
+      else lines[i].colorize();
     }
   })
 
@@ -158,4 +158,24 @@ $(document).ready(function(){
 //     }
 //   })
 
+  function createSliderMarks(){
+    var min = 1991;
+    var max = $(".timeline input").attr("max");
+    var w = $(".timeline input").width();
+
+    var year = min;
+    for( var i=0; i<=(max-min); i++ ){ //
+      $(".timeline .years").append("<span data-year="+(min+i)+" style='position: absolute; top: -30px; left: "+(i * (w-20)/(max-min) - 5)+"px;'>"+(min+i)+"</span>");
+      year++;
+    }
+  }
+  $(".timeline .years").on("click", "span", function(){
+    $(".timeline input").val( $(this).data("year") );
+    updateGraph( $(this).data("year") );
+  })
+  $(".timeline input").change(function(){
+    updateGraph( $(this).val() );
+  });
+
+  createSliderMarks();
 })
