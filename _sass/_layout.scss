@@ -219,7 +219,7 @@
   input[type='range'] {
     writing-mode: bt-lr; /* IE */
     -webkit-appearance: slider-vertical; /* WebKit */
-    width: 5px;
+    // width: 5px;
     height: 100px;
     background: transparent;
   }
