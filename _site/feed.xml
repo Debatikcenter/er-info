@@ -4,10 +4,17 @@
     <title>Relational Esthetics</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
+<<<<<<< HEAD
     <link>http://localhost:4000/er-info/</link>
     <atom:link href="http://localhost:4000/er-info/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Fri, 26 Jun 2020 17:35:31 +0200</pubDate>
     <lastBuildDate>Fri, 26 Jun 2020 17:35:31 +0200</lastBuildDate>
+=======
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Jun 2020 11:48:24 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2020 11:48:24 +0200</lastBuildDate>
+>>>>>>> c312f3db3310f2334ed773d91c6fd6f9c4be272b
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -28,8 +35,13 @@
 
 </description>
         <pubDate>Wed, 06 Jul 2016 10:23:11 +0200</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/er-info/jekyll/update/2016/07/06/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://localhost:4000/er-info/jekyll/update/2016/07/06/welcome-to-jekyll.html</guid>
+=======
+        <link>http://localhost:4000/jekyll/update/2016/07/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/07/06/welcome-to-jekyll.html</guid>
+>>>>>>> c312f3db3310f2334ed773d91c6fd6f9c4be272b
         
         
         <category>jekyll</category>
