@@ -198,7 +198,7 @@ function createGraph( query, grade ){
 
 
     // hide grade 1 connections by default
-    if( query == "" ){
+    if( query == "" && projectQuery == "" ){
       $("line").each(function(){
         if( parseInt( $(this).attr("grade") ) < 2 ){
           $(this).hide();
