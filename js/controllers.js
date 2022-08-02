@@ -1,80 +1,119 @@
 var selectedNodes = [];
 var deselectedNodes = [];
 var activeNodes;
-$(document).ready(function(){
-  // $("button[type='control']").click(function(){
-  //   if( query == "" ){
-  //     $(this).toggleClass("active");
-  //     $("line").css({ "opacity": "1", "transition": "opacity .5s ease" });
-  //     var activeNodes = [];
-  //     $(".active[type='control']").each(function(){ activeNodes.push($(this).attr("name")); });
-  //     if(activeNodes.length == 7 || activeNodes.length == 0 ) {
-  //       $("button[type='control']").removeClass("active");
-  //       $("circle").css({ "opacity": "1", "transition": "opacity .5s ease" });
-  //     } else {
-  //       $("circle").each(function(){
-  //         var type = $(this).attr("type");
-  //         if(activeNodes.indexOf(type) != -1){
-  //           $(this).css({ "opacity": "1", "transition": "opacity .5s ease" });
-  //         } else {
-  //           $(this).css({ "opacity": "0", "transition": "opacity .5s ease" });
-  //           $('line[source="'+$(this).data('id')+'"]').css({ "opacity": "0", "transition": "opacity .5s ease" });
-  //           $('line[target="'+$(this).data('id')+'"]').css({ "opacity": "0", "transition": "opacity .5s ease" });
-  //         }
-  //       });
-  //     }
-  //   } else {
-  //     $(this).toggleClass("active");
-  //     $("line").css({ "opacity": "0", "transition": "opacity .5s ease" });
-  //     var activeNodes = [];
-  //     $(".active[type='control']").each(function(){ activeNodes.push($(this).attr("name")); });
-  //     if(activeNodes.length == 7 || activeNodes.length == 0 ) {
-  //       $("button[type='control']").removeClass("active");
-  //       $("circle").css({ "opacity": "1", "transition": "opacity .5s ease" });
-  //       $("line").css({ "opacity": "1", "transition": "opacity .5s ease" });
-  //     } else {
-  //       $("circle:not([data-id='"+query+"'])").each(function(){
-  //         var type = $(this).attr("type");
-  //         if(activeNodes.indexOf(type) != -1){
-  //           $(this).css({ "opacity": "1", "transition": "opacity .5s ease" });
-  //           $('line[source="'+$(this).data('id')+'"]').css({ "opacity": "1", "transition": "opacity .5s ease" });
-  //           $('line[target="'+$(this).data('id')+'"]').css({ "opacity": "1", "transition": "opacity .5s ease" });
-  //         } else {
-  //           $(this).css({ "opacity": "0", "transition": "opacity .5s ease" });
-  //         }
-  //       });
-  //     }
-  //   }
-  // });
+$(document).ready(function () {
+  // event listener for sidebar filters; works for svg nodes
+  $("button.profession-filter").click(function () {
+    if (query == "") {
+      $(this).toggleClass("active");
+      $("line").css({ opacity: "1", transition: "opacity .5s ease" });
+      var activeNodes = [];
+      $(".active.profession-filter").each(function () {
+        activeNodes.push($(this).attr("name"));
+      });
+      if (activeNodes.length == 7 || activeNodes.length == 0) {
+        $("button.profession-filter").removeClass("active");
+        $("circle").css({ opacity: "1", transition: "opacity .5s ease" });
+      } else {
+        $("circle").each(function () {
+          var type = $(this).attr("type");
+          if (activeNodes.indexOf(type) != -1) {
+            $(this).css({ opacity: "1", transition: "opacity .5s ease" });
+          } else {
+            $(this).css({ opacity: "0", transition: "opacity .5s ease" });
+            $('line[source="' + $(this).data("id") + '"]').css({
+              opacity: "0",
+              transition: "opacity .5s ease",
+            });
+            $('line[target="' + $(this).data("id") + '"]').css({
+              opacity: "0",
+              transition: "opacity .5s ease",
+            });
+          }
+        });
+      }
+    } else {
+      $(this).toggleClass("active");
+      $("line").css({ opacity: "0", transition: "opacity .5s ease" });
+      var activeNodes = [];
+      $(".active.profession-filter").each(function () {
+        activeNodes.push($(this).attr("name"));
+      });
+      if (activeNodes.length == 7 || activeNodes.length == 0) {
+        $("button.profession-filter").removeClass("active");
+        $("circle").css({ opacity: "1", transition: "opacity .5s ease" });
+        $("line").css({ opacity: "1", transition: "opacity .5s ease" });
+      } else {
+        $("circle:not([data-id='" + query + "'])").each(function () {
+          var type = $(this).attr("type");
+          if (activeNodes.indexOf(type) != -1) {
+            $(this).css({ opacity: "1", transition: "opacity .5s ease" });
+            $('line[source="' + $(this).data("id") + '"]').css({
+              opacity: "1",
+              transition: "opacity .5s ease",
+            });
+            $('line[target="' + $(this).data("id") + '"]').css({
+              opacity: "1",
+              transition: "opacity .5s ease",
+            });
+          } else {
+            $(this).css({ opacity: "0", transition: "opacity .5s ease" });
+          }
+        });
+      }
+    }
+  });
 
-  $("button[type='control']").click(function(){
+  // event listener canvas rendering
+  $("button.profession-filter-canvas").click(function () {
     $(this).toggleClass("active");
 
     activeNodes = [];
-    $(".active[type='control']").each(function(){ activeNodes.push($(this).attr("name")); });
+    $(".active.profession-filter-canvas").each(function () {
+      activeNodes.push($(this).attr("name"));
+    });
     console.log(activeNodes);
-    if(activeNodes.length == 7 || activeNodes.length == 0 ) {
-      $("button[type='control']").removeClass("active");
+    if (activeNodes.length == 7 || activeNodes.length == 0) {
+      $("button.profession-filter-canvas").removeClass("active");
       // circles.forEach(function(n){ n.colorize() })
-      for( var i=0; i<circles.length; i++ ){
+      for (var i = 0; i < circles.length; i++) {
         circles[i].colorize();
       }
-      for( var i=0; i<lines.length; i++ ){
+      for (var i = 0; i < lines.length; i++) {
         lines[i].colorize();
       }
-    }
-    else {
+    } else {
       // setTimeout(function(){
-      $.grep( circles, function(n){ return $.inArray( n.type, activeNodes ) != -1 } ).forEach(function(n){ n.colorize(); });
-      $.grep( circles, function(n){ return $.inArray( n.type, activeNodes ) === -1 } ).forEach(function(n){ n.fillStyle = "transparent"; n.opacity = 0; /*n.fadeOut();*/ })
+      $.grep(circles, function (n) {
+        return $.inArray(n.type, activeNodes) != -1;
+      }).forEach(function (n) {
+        n.colorize();
+      });
+      $.grep(circles, function (n) {
+        return $.inArray(n.type, activeNodes) === -1;
+      }).forEach(function (n) {
+        n.fillStyle = "transparent";
+        n.opacity = 0; /*n.fadeOut();*/
+      });
 
-      $.grep( lines, function(n){
-        return ( $.inArray(n.source.type, activeNodes) != -1 ) && ( $.inArray(n.target.type, activeNodes) != -1 )
-      } ).forEach(function(n){ n.colorize(); });
+      $.grep(lines, function (n) {
+        return (
+          $.inArray(n.source.type, activeNodes) != -1 &&
+          $.inArray(n.target.type, activeNodes) != -1
+        );
+      }).forEach(function (n) {
+        n.colorize();
+      });
 
-      $.grep( lines, function(n){
-        return ( $.inArray(n.source.type, activeNodes) === -1 ) || ( $.inArray(n.target.type, activeNodes) === -1 )
-      } ).forEach(function(n){ n.strokeStyle = "transparent"; n.opacity = 0; })
+      $.grep(lines, function (n) {
+        return (
+          $.inArray(n.source.type, activeNodes) === -1 ||
+          $.inArray(n.target.type, activeNodes) === -1
+        );
+      }).forEach(function (n) {
+        n.strokeStyle = "transparent";
+        n.opacity = 0;
+      });
       // }, 100)
 
       // if($(this).hasClass('active')){
@@ -99,83 +138,44 @@ $(document).ready(function(){
     }
   });
 
-  $(".slider input").change(function(){
+  $(".slider input").change(function () {
     var val = $(this).val();
     $(".slider span").text(val);
     // links = $.grep( links, function(n, i){ return parseInt(n.grade) >= val; } );
     // simulation.restart();
-    for(var i=0; i<lines.length; i++){
-      if( parseInt(lines[i].grade) < val ) lines[i].strokeStyle = "transparent";
+    for (var i = 0; i < lines.length; i++) {
+      if (parseInt(lines[i].grade) < val) lines[i].strokeStyle = "transparent";
       else lines[i].colorize();
     }
-  })
+  });
 
-
-//   $(".multiselector span").on("click", function(){
-//     var id = $(this).attr("id");
-//     $(this).toggleClass("active");
-//     $(".multiselector span:not(#"+id+")").removeClass("active");
-//     if($(this).hasClass("active")) {
-//       $('a').on('click.myDisable', function(e) { e.preventDefault(); });
-//       if( $(this).attr("id") == "plus" ){
-//         if( selectedNodes.length == 0 )
-//           // $("#svg .person-node").css({"opacity": "0.3"})
-//           $("#svg .person-node").removeClass("selected-node").addClass( "deselected-node" );
-//       }
-//       if( $(this).attr("id") == "minus"  ) {
-//         if( selectedNodes.length == 0 )
-//           // $("#svg .person-node").css({"opacity": "1"})
-//           $("#svg .person-node").removeClass("deselected-node").addClass( "selected-node" );
-//       }
-//     }
-//     else {
-//       $('a').off('click.myDisable');
-//       // $("#svg .person-node").css({"opacity": "1"})
-//       $("#svg .person-node").removeClass("deselected-node").removeClass( "selected-node" );
-//     }
-//
-//
-//
-//   })
-//
-//   $("#svg").on("click", ".person-node", function(){
-//     if( $(".multiselector span.active").length > 0 ){
-//       if( $(".multiselector span.active").attr("id") == "plus" ){
-//         var personName = $(this).find("title").text();
-//         if( selectedNodes.indexOf( personName ) == -1 )
-//           selectedNodes.push( personName );
-//         // $(this).css({"opacity": "1"});
-//         $(this).removeClass( "deselected-node" ).addClass( "selected-node" );
-//       } else if( $(".multiselector span.active").attr("id") == "minus" ){
-//         var personName = $(this).find("title").text();
-//         var index = selectedNodes.indexOf( personName );
-//         if( index != -1 )
-//           selectedNodes.splice( index, 1 );
-//         // $(this).css({"opacity": "0.3"});
-//         $(this).removeClass( "selected-node" ).addClass( "deselected-node" );
-//       }
-//       updateList();
-//     }
-//   })
-
-  function createSliderMarks(){
+  function createSliderMarks() {
     var min = 1991;
     var max = $(".timeline input").attr("max");
     var w = $(".timeline input").width();
 
     var year = min;
-    for( var i=0; i<=(max-min); i++ ){ //
-      $(".timeline .years").append("<span data-year="+(min+i)+" style='position: absolute; top: -30px; left: "+(i * (w-20)/(max-min) - 5)+"px;'>"+(min+i)+"</span>");
+    for (var i = 0; i <= max - min; i++) {
+      //
+      $(".timeline .years").append(
+        "<span data-year=" +
+          (min + i) +
+          " style='position: absolute; top: -30px; left: " +
+          ((i * (w - 20)) / (max - min) - 5) +
+          "px;'>" +
+          (min + i) +
+          "</span>"
+      );
       year++;
     }
   }
-  $(".timeline .years").on("click", "span", function(){
-    $(".timeline input").val( $(this).data("year") );
-    updateGraph( $(this).data("year") );
-  })
-  $(".timeline input").change(function(){
-    updateGraph( $(this).val() );
+  $(".timeline .years").on("click", "span", function () {
+    $(".timeline input").val($(this).data("year"));
+    updateGraph($(this).data("year"));
+  });
+  $(".timeline input").change(function () {
+    updateGraph($(this).val());
   });
 
   createSliderMarks();
-})
+});
