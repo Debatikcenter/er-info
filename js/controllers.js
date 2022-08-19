@@ -5,11 +5,11 @@ var projectsInCommon = 2;
 $(document).ready(function () {
   // event listener for sidebar filters; works for svg nodes
   $("button.profession-filter").click(function () {
-    if (query == "") {
+    if (query == "" && projectQuery == "") {
       filterByProfession(this);
     } else {
       $(this).toggleClass("active");
-      $("line").css({ opacity: "0", transition: "opacity .5s ease" });
+      // $("line").css({ opacity: "0", transition: "opacity .5s ease" });
       var activeNodes = [];
       $(".active.profession-filter").each(function () {
         activeNodes.push($(this).attr("name"));
@@ -19,22 +19,47 @@ $(document).ready(function () {
         $("circle").css({ opacity: "1", transition: "opacity .5s ease" });
         $("line").css({ opacity: "1", transition: "opacity .5s ease" });
       } else {
-        $("circle:not([data-id='" + query + "'])").each(function () {
-          var type = $(this).attr("type");
-          if (activeNodes.indexOf(type) != -1) {
-            $(this).css({ opacity: "1", transition: "opacity .5s ease" });
-            $('line[source="' + $(this).data("id") + '"]').css({
-              opacity: "1",
-              transition: "opacity .5s ease",
-            });
-            $('line[target="' + $(this).data("id") + '"]').css({
-              opacity: "1",
-              transition: "opacity .5s ease",
-            });
-          } else {
-            $(this).css({ opacity: "0", transition: "opacity .5s ease" });
-          }
-        });
+        if (projectQuery == "") {
+          $("line").css({ opacity: "0", transition: "opacity .5s ease" });
+          $("circle:not([data-id='" + query + "'])").each(function () {
+            // hide nodes in person page
+            var type = $(this).attr("type");
+            if (activeNodes.indexOf(type) != -1) {
+              $(this).css({ opacity: "1", transition: "opacity .5s ease" });
+              $('line[source="' + $(this).data("id") + '"]').css({
+                opacity: "1",
+                transition: "opacity .5s ease",
+              });
+              $('line[target="' + $(this).data("id") + '"]').css({
+                opacity: "1",
+                transition: "opacity .5s ease",
+              });
+            } else {
+              $(this).css({ opacity: "0", transition: "opacity .5s ease" });
+            }
+            // }
+          });
+        } else {
+          $("line").css({ opacity: "1", transition: "opacity .5s ease" });
+          // hide nodes in project page
+          $("circle").each(function () {
+            var type = $(this).attr("type");
+            if (activeNodes.indexOf(type) != -1) {
+              $(this).css({ opacity: "1", transition: "opacity .5s ease" });
+            } else {
+              console.log($(this).data("id"));
+              $(this).css({ opacity: "0", transition: "opacity .5s ease" });
+              $('line[source="' + $(this).data("id") + '"]').css({
+                opacity: "0",
+                transition: "opacity .5s ease",
+              });
+              $('line[target="' + $(this).data("id") + '"]').css({
+                opacity: "0",
+                transition: "opacity .5s ease",
+              });
+            }
+          });
+        }
       }
     }
   });
